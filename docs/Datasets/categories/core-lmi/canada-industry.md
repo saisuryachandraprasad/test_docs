@@ -5,9 +5,39 @@ hidden: false
 metadata:
   robots: index
 ---
+## Introduction
+
+## Popular Use Cases
+
+## Metrics
+
+* jobs: Total number of occupied positions.
+* Earnings: Total earnings for the industry since 2001 to current year.
+*  EPW: Earnings per worker since 2001 to current year / Total number of occupied positions.
+
+> One 
+
+## Filters
+
+This dataset has four dimensions for filtering.
+
+* Class of Worker
+* Area (Hierarchy: Nation, Province, Census Division, and Census Sub-division)
+* Industry (2 to 4 digits <Anchor label="NAICS" target="_blank" href="https://kb.lightcast.io/en/articles/7934064-north-american-industry-classification-system-naics">NAICS</Anchor>
+* Year
+
 ## Metadata
 
-You can access this dataset via [Core LMI API](https://docs.lightcast.io/lightcast-api/reference/overview-core-lmi)  
+* Access
+* Dataset ID
+* Dataset URL
+* Format
+* Data size
+* Update frequency
+* Versions
+* Metrics
+* Dimensions
+* Attributes 
 
 <br />
 
@@ -15,12 +45,18 @@ You can access this dataset via [Core LMI API](https://docs.lightcast.io/lightca
 
 <br />
 
-| Field       | AREAID                       | AREAID_NAME                    | AREAID_TYPE           | CLASSID                    | CLASSID_NAME                 | EARN                                                      | EMP                          | INDID       | INDID_NAME  | YEAR         |
-| :---------- | :--------------------------- | :----------------------------- | :-------------------- | :------------------------- | :--------------------------- | :-------------------------------------------------------- | :--------------------------- | :---------- | :---------- | :----------- |
-| Description | ID of the geographic region. | Name of the geographic region. | Geographic area type. | ID of the class of worker. | Name of the class of worker. | Total earnings for the industry (wages + supplements).    | Number of occupied positions | NAICS Code  | NAICS Name  | Year of Data |
-| Snowflake   | VARCHAR                      | VARCHAR                        | VARCHAR               | VARCHAR                    | VARCHAR                      | Float                                                     | Float                        | VARCHAR     | VARCHAR     | Number       |
-| BigQuery    | STRING                       | STRING                         | STRING                | STRING                     | STRING                       | Float                                                     | Float                        | STRING      | STRING      | Big Numeric  |
-| Databricks  | STRING                       | STRING                         | STRING                | STRING                     | STRING                       | Double                                                    | Double                       | STRING      | STRING      | Decimal      |
+| Fields       | Snowflake | BigQuery   | Databricks | Description                                                                                                                                    |
+| :----------- | :-------- | :--------- | :--------- | :--------------------------------------------------------------------------------------------------------------------------------------------- |
+| AREAID       | VARCHAR   | STRING     | STRING     | ID of the geographic region.                                                                                                                   |
+| AREAID_NAME  | VARCHAR   | STRING     | STRING     | Name of the geographic region.                                                                                                                 |
+| AREAID_TYPE  | VARCHAR   | STRING     | STRING     | Geographic area type.                                                                                                                          |
+| CLASSID      | VARCHAR   | STRING     | STRING     | ID of the class of worker.                                                                                                                     |
+| CLASSID_NAME | VARCHAR   | STRING     | STRING     | Name of the class of worker.                                                                                                                   |
+| EARN         | FLOAT     | FLOAT      | DOUBLE     | Total earnings for the industry (wages + supplements). This figure is also for the whole industry, not for the average worker in the industry. |
+| EMP          | FLOAT     | FLOAT      | DOUBLE     | The number of occupied positions.                                                                                                              |
+| INDID        | VARCHAR   | STRING     | STRING     | NAICS code.                                                                                                                                    |
+| INDID_NAME   | VARCHAR   | STRING     | STRING     | NAICS name.                                                                                                                                    |
+| YEAR         | NUMBER    | BIGNUMERIC | DECIMAL    | Year of data.                                                                                                                                  |
 
 <br />
 
