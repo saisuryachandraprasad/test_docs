@@ -9,7 +9,7 @@ metadata:
 
 The Canada Industry dataset provides essential insights into **Canadian labor market**, offering both historical and projected data on industry employment and earnings. It enables users to analyze workforce trends, evaluate economic performance, and compare industries across regions and time period. It covers historical data since **2001** to **current industry year** and project data for current industry year.
 
-> *Current Industry Year refers to most recent year with more than six months of data available from [SEPH](https://kb.lightcast.io/en/articles/7934179-survey-of-enrollment-payrolls-and-hours-seph). It may differ from calendar year*.
+> _Current Industry Year refers to most recent year with more than six months of data available from [SEPH](https://kb.lightcast.io/en/articles/7934179-survey-of-enrollment-payrolls-and-hours-seph). It may differ from calendar year_.
 
 ## Popular Use Cases
 
@@ -27,7 +27,7 @@ This dataset includes following core metrics:
 * Earnings: Total earnings for the industry since 2001 to current year.
 * EPW: Earnings per worker since 2001 to current year / Total number of occupied positions.
 
-> *One worker might fill more than one position*.
+> _One worker might fill more than one position_.
 
 ## Filters
 
@@ -69,15 +69,15 @@ you can use following dimensions to filter dataset.
 
 ## Metadata
 
-|                       |                                                                                      |
-| :-------------------- | :----------------------------------------------------------------------------------- |
-| Access                | [Core LMI API](https://docs.lightcast.io/lightcast-api/reference/overview-core-lmi)  |
-| Dataset Id            | `EMSI.ca.Industry`                                                                   |
-| Dataset URL           | `https://agnitio.emsicloud.com/meta/dataset/EMSI.ca.Industry/{version}`              |
-| Geographical Coverage | **Canada** (Hierarchy: Nation, Province, Census Division, and Census Sub-division)   |
-| Data Size             | 1 GB                                                                                 |
-| Format                | Json                                                                                 |
-| Update Frequency      | Quarterly                                                                            |
+|                       |                                                                                     |
+| :-------------------- | :---------------------------------------------------------------------------------- |
+| Access                | [Core LMI API](https://docs.lightcast.io/lightcast-api/reference/overview-core-lmi) |
+| Dataset Id            | `EMSI.ca.Industry`                                                                  |
+| Dataset URL           | `https://agnitio.emsicloud.com/meta/dataset/EMSI.ca.Industry/{version}`             |
+| Geographical Coverage | Canada (Hierarchy: Nation, Province, Census Division, and Census Sub-division)      |
+| Data Size             | 1 GB                                                                                |
+| Format                | Json                                                                                |
+| Update Frequency      | Quarterly                                                                           |
 
 <br />
 
