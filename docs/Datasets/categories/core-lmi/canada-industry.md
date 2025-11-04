@@ -1554,8 +1554,6 @@ Attributes
 
 ## Schema
 
-<br />
-
 | Fields       | Snowflake | BigQuery   | Databricks | Description                                                                                                                                    |
 | :----------- | :-------- | :--------- | :--------- | :--------------------------------------------------------------------------------------------------------------------------------------------- |
 | AREAID       | VARCHAR   | STRING     | STRING     | ID of the geographic region.                                                                                                                   |
