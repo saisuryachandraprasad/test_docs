@@ -19,7 +19,7 @@ you can use this dataset to:
 
 * Identify high growth industries across Canada
 * compare earnings by region and industry
-* Understand workforce composition and trends by industry 
+* Understand workforce composition and trends by industry
 
 ## Metrics
 
@@ -74,7 +74,7 @@ you will get data in **Json**format
 
 ### Update Frequency
 
-you will get update on **quarterly**
+you will get update on **quarterly**.
 
 ### Versions
 
@@ -1569,7 +1569,7 @@ Attributes
 | INDID_NAME   | VARCHAR   | STRING     | STRING     | NAICS name.                                                                                                                                    |
 | YEAR         | NUMBER    | BIGNUMERIC | DECIMAL    | Year of data.                                                                                                                                  |
 
-<Callout icon="🚧">
+<Callout icon="🚧" theme="warn">
   Above schema is for demo purpose, during production respective schema will be provided for each dataset.
 </Callout>
 
