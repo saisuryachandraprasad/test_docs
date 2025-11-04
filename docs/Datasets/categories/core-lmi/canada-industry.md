@@ -29,7 +29,7 @@ This dataset includes following core metrics:
 * Earnings: Total earnings for the industry since 2001 to current year.
 * EPW: Earnings per worker since 2001 to current year / Total number of occupied positions.
 
-> *One worker might fill more than one position*.
+> _One worker might fill more than one position_.
 
 ## Filters
 
@@ -50,8 +50,6 @@ you can access dataset via [Core LMI API](https://docs.lightcast.io/lightcast-ap
 
 * Dataset ID: `EMSI.ca.Industry`
 * Dataset URL: `https://agnitio.emsicloud.com/meta/dataset/EMSI.ca.Industry/{version}`
-
-<br />
 
 ### Geographical Coverage
 
