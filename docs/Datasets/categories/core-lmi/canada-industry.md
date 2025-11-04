@@ -66,7 +66,7 @@ Hierarchy:
 
 ### Format
 
-you will get data in **Json**format
+you will get data in **Json** format
 
 ### Data Size (optional)
 
