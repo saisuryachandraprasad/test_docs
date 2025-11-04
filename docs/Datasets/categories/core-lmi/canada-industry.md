@@ -9,9 +9,7 @@ metadata:
 
 The Canada Industry dataset provides essential insights into **Canadian labor market**, offering both historical and projected data on industry employment and earnings. It enables users to analyze workforce trends, evaluate economic performance, and compare industries across regions and time period. It covers historical data since **2001** to **current industry year** and project data for current industry year.
 
-<Callout icon="💡" theme="default">
-  Current Industry Year refers to most recent year with more than six months of data available from [SEPH](https://kb.lightcast.io/en/articles/7934179-survey-of-enrollment-payrolls-and-hours-seph). It may differ from calendar year.
-</Callout>
+> *Current Industry Year refers to most recent year with more than six months of data available from [SEPH](https://kb.lightcast.io/en/articles/7934179-survey-of-enrollment-payrolls-and-hours-seph). It may differ from calendar year*.
 
 ## Popular Use Cases
 
@@ -29,7 +27,7 @@ This dataset includes following core metrics:
 * Earnings: Total earnings for the industry since 2001 to current year.
 * EPW: Earnings per worker since 2001 to current year / Total number of occupied positions.
 
-> _One worker might fill more than one position_.
+> *One worker might fill more than one position*.
 
 ## Filters
 
@@ -40,41 +38,48 @@ you can use following dimensions to filter dataset.
 * Industry (2 to 4 digits <Anchor label="NAICS" target="_blank" href="https://kb.lightcast.io/en/articles/7934064-north-american-industry-classification-system-naics">NAICS</Anchor>)
 * Year
 
+```json Dimensions
+[
+   {
+      "name": "Area",
+      "levelsStored": [
+         "0",
+         "1",
+         "2",
+         "3"
+      ]
+   },
+   {
+      "name": "ClassOfWorker",
+      "levelsStored": [
+         "1"
+      ]
+   },
+   {
+      "name": "Industry",
+      "levelsStored": [
+         "0",
+         "1",
+         "2",
+         "3"
+      ]
+   }
+]
+```
+
 ## Metadata
 
-### Access
-
-you can access dataset via [Core LMI API](https://docs.lightcast.io/lightcast-api/reference/overview-core-lmi)
-
-### Core LMI API metadata
-
-* Dataset ID: `EMSI.ca.Industry`
-* Dataset URL: `https://agnitio.emsicloud.com/meta/dataset/EMSI.ca.Industry/{version}`
-
-### Geographical Coverage
-
-This dataset covers entire **Canada**.
-
-Hierarchy:
-
-* Nation
-* Province
-* Census division
-* Census Sub-division
+|                       |                                                                                      |
+| :-------------------- | :----------------------------------------------------------------------------------- |
+| Access                | [Core LMI API](https://docs.lightcast.io/lightcast-api/reference/overview-core-lmi)  |
+| Dataset Id            | `EMSI.ca.Industry`                                                                   |
+| Dataset URL           | `https://agnitio.emsicloud.com/meta/dataset/EMSI.ca.Industry/{version}`              |
+| Geographical Coverage | **Canada** (Hierarchy: Nation, Province, Census Division, and Census Sub-division)   |
+| Data Size             | 1 GB                                                                                 |
+| Format                | Json                                                                                 |
+| Update Frequency      | Quarterly                                                                            |
 
 <br />
-
-### Format
-
-you will get data in **Json** format
-
-### Data Size (optional)
-
-1 GB
-
-### Update Frequency
-
-you will get update on **quarterly**.
 
 ### Versions
 
@@ -1514,37 +1519,6 @@ you will get update on **quarterly**.
 ```
 
 <br />
-
-### Dimensions
-
-```json
-[
-   {
-      "name": "Area",
-      "levelsStored": [
-         "0",
-         "1",
-         "2",
-         "3"
-      ]
-   },
-   {
-      "name": "ClassOfWorker",
-      "levelsStored": [
-         "1"
-      ]
-   },
-   {
-      "name": "Industry",
-      "levelsStored": [
-         "0",
-         "1",
-         "2",
-         "3"
-      ]
-   }
-]
-```
 
 <br />
 
