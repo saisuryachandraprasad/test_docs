@@ -7,10 +7,10 @@ metadata:
 ---
 ## Introduction
 
-The Canada Industry dataset provides essential insights into Canadian labor market, offering both historical and projected data on industry employment and earnings. It enables users to analyze workforce trends, evaluate economic performance, and compare industries across regions and time period. It covers historical data since 2001 to current industry year and project data for current industry year.
+The Canada Industry dataset provides essential insights into **Canadian labor market**, offering both historical and projected data on industry employment and earnings. It enables users to analyze workforce trends, evaluate economic performance, and compare industries across regions and time period. It covers historical data since **2001** to **current industry year** and project data for current industry year.
 
 <Callout icon="💡" theme="default">
-  Current industry Year refers to most recent year. It may differ from calendar year.
+  Current Industry Year refers to most recent year with more than six months of data available from [SEPH](https://kb.lightcast.io/en/articles/7934179-survey-of-enrollment-payrolls-and-hours-seph). It may differ from calendar year.
 </Callout>
 
 ## Popular Use Cases
@@ -18,7 +18,8 @@ The Canada Industry dataset provides essential insights into Canadian labor mark
 you can use this dataset to:
 
 * Identify high growth industries across Canada
-* <br />
+* compare earnings by region and industry
+* Understand workforce composition and trends by industry 
 
 ## Metrics
 
@@ -65,7 +66,7 @@ Hierarchy:
 
 ### Format
 
-you will get data in Json format
+you will get data in **Json**format
 
 ### Data Size (optional)
 
@@ -73,7 +74,7 @@ you will get data in Json format
 
 ### Update Frequency
 
-you will get update on every quarter
+you will get update on **quarterly**
 
 ### Versions
 
@@ -1512,7 +1513,7 @@ you will get update on every quarter
 ]
 ```
 
-### Metrics
+<br />
 
 ### Dimensions
 
@@ -1545,6 +1546,8 @@ you will get update on every quarter
 ]
 ```
 
+<br />
+
 Attributes
 
 <br />
@@ -1566,6 +1569,8 @@ Attributes
 | INDID_NAME   | VARCHAR   | STRING     | STRING     | NAICS name.                                                                                                                                    |
 | YEAR         | NUMBER    | BIGNUMERIC | DECIMAL    | Year of data.                                                                                                                                  |
 
-<br />
+<Callout icon="🚧">
+  Above schema is for demo purpose, during production respective schema will be provided for each dataset.
+</Callout>
 
 <br />
