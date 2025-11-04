@@ -79,9 +79,9 @@ you can use following dimensions to filter dataset.
 | Format                | Json                                                                                |
 | Update Frequency      | Quarterly                                                                           |
 
-<br />
-
 ### Versions
+
+You can find all versions core metrics here: 
 
 ```json 2025.3
 [
