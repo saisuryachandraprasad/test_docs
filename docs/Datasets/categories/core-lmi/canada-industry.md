@@ -15,6 +15,11 @@ The Canada Industry dataset provides essential insights into Canadian labor mark
 
 ## Popular Use Cases
 
+you can use this dataset to:
+
+* Identify high growth industries across Canada
+* <br />
+
 ## Metrics
 
 This dataset includes following core metrics:
@@ -42,6 +47,21 @@ you can access dataset via [Core LMI API](https://docs.lightcast.io/lightcast-ap
 
 * Dataset ID: `EMSI.ca.Industry`
 * Dataset URL: `https://agnitio.emsicloud.com/meta/dataset/EMSI.ca.Industry/{version}`
+
+<br />
+
+### Geographical Coverage
+
+This dataset covers entire **Canada ** 
+
+Hierarchy:
+
+* Nation
+* Province
+* Census division 
+* Census Sub-division
+
+<br />
 
 ### Format
 
@@ -1525,18 +1545,7 @@ you will get update on every quarter
 ]
 ```
 
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-* Versions
-* Metrics
-* Dimensions
-* Attributes
+Attributes
 
 <br />
 
