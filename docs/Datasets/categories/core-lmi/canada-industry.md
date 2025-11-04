@@ -15,11 +15,11 @@ The Canada Industry dataset provides essential insights into Canadian labor mark
 
 ## Metrics
 
+This dataset includes following core metrics: 
+
 * jobs: Total number of occupied positions.
 * Earnings: Total earnings for the industry since 2001 to current year.
 * EPW: Earnings per worker since 2001 to current year / Total number of occupied positions.
-
-<br />
 
 ## Filters
 
@@ -32,12 +32,44 @@ you can use following dimensions to filter dataset.
 
 ## Metadata
 
-* Access
-* Dataset ID
-* Dataset URL
-* Format
-* Data size
-* Update frequency
+### Access 
+
+you can access dataset via [Core LMI API](https://docs.lightcast.io/lightcast-api/reference/overview-core-lmi) 
+
+### Core LMI API metadata
+
+* Dataset ID: EMSI.ca.Industry
+* Dataset URL: https://agnitio.emsicloud.com/meta/dataset/EMSI.ca.Industry/{version}
+
+### Format
+
+you will get data in Json format
+
+### Data Size (optional)
+
+1 GB
+
+### Update Frequency
+
+you will get update on every quarter
+
+### Versions
+
+<Tabs>
+  <Tab title="2025.3">
+    http://agnitio.emsicloud.com/meta/dataset/EMSI.ca.Industry/2025.3
+
+  </Tab>
+
+  <Tab title="Second Tab">
+    Here's content that's only inside the second Tab.
+  </Tab>
+
+  <Tab title="Third Tab">
+    Here's content that's only inside the third Tab.
+  </Tab>
+</Tabs>
+
 * Versions
 * Metrics
 * Dimensions
