@@ -9,7 +9,9 @@ metadata:
 
 The Canada Industry dataset provides essential insights into Canadian labor market, offering both historical and projected data on industry employment and earnings. It enables users to analyze workforce trends, evaluate economic performance, and compare industries across regions and time period. It covers historical data since 2001 to current industry year and project data for current industry year.
 
-> Current Industry Year refers to most recent year. This may differ from calendar year.
+<Callout icon="💡">
+  Current industry Year refers to most recent year. It may differ from calendar year.
+</Callout>
 
 ## Popular Use Cases
 
@@ -38,7 +40,7 @@ you can access dataset via [Core LMI API](https://docs.lightcast.io/lightcast-ap
 
 ### Core LMI API metadata
 
-* Dataset ID: EMSI.ca.Industry
+* Dataset ID: `EMSI.ca.Industry`
 * Dataset URL: `https://agnitio.emsicloud.com/meta/dataset/EMSI.ca.Industry/{version}`
 
 ### Format
@@ -55,15 +57,44 @@ you will get update on every quarter
 
 ### Versions
 
+### Metrics
 
+### Dimensions
+
+```json Dimensions
+[
+   {
+      "name": "Area",
+      "levelsStored": [
+         "0",
+         "1",
+         "2",
+         "3"
+      ]
+   },
+   {
+      "name": "ClassOfWorker",
+      "levelsStored": [
+         "1"
+      ]
+   },
+   {
+      "name": "Industry",
+      "levelsStored": [
+         "0",
+         "1",
+         "2",
+         "3"
+      ]
+   }
+]
+```
 
 <br />
 
 <br />
 
-
-
-
+<br />
 
 <br />
 
