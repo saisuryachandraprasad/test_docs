@@ -52,13 +52,13 @@ you can access dataset via [Core LMI API](https://docs.lightcast.io/lightcast-ap
 
 ### Geographical Coverage
 
-This dataset covers entire **Canada ** 
+This dataset covers entire **Canada**
 
 Hierarchy:
 
 * Nation
 * Province
-* Census division 
+* Census division
 * Census Sub-division
 
 <br />
