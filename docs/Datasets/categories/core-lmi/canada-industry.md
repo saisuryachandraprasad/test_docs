@@ -29,6 +29,8 @@ This dataset includes following core metrics:
 * Earnings: Total earnings for the industry since 2001 to current year.
 * EPW: Earnings per worker since 2001 to current year / Total number of occupied positions.
 
+> *One worker might fill more than one position*.
+
 ## Filters
 
 you can use following dimensions to filter dataset.
