@@ -57,6 +57,1441 @@ you will get update on every quarter
 
 ### Versions
 
+```json 2025.3
+[
+   {
+      "name": "Jobs.2001"
+   },
+   {
+      "name": "Jobs.2002"
+   },
+   {
+      "name": "Jobs.2003"
+   },
+   {
+      "name": "Jobs.2004"
+   },
+   {
+      "name": "Jobs.2005"
+   },
+   {
+      "name": "Jobs.2006"
+   },
+   {
+      "name": "Jobs.2007"
+   },
+   {
+      "name": "Jobs.2008"
+   },
+   {
+      "name": "Jobs.2009"
+   },
+   {
+      "name": "Jobs.2010"
+   },
+   {
+      "name": "Jobs.2011"
+   },
+   {
+      "name": "Jobs.2012"
+   },
+   {
+      "name": "Jobs.2013"
+   },
+   {
+      "name": "Jobs.2014"
+   },
+   {
+      "name": "Jobs.2015"
+   },
+   {
+      "name": "Jobs.2016"
+   },
+   {
+      "name": "Jobs.2017"
+   },
+   {
+      "name": "Jobs.2018"
+   },
+   {
+      "name": "Jobs.2019"
+   },
+   {
+      "name": "Jobs.2020"
+   },
+   {
+      "name": "Jobs.2021"
+   },
+   {
+      "name": "Jobs.2022"
+   },
+   {
+      "name": "Jobs.2023"
+   },
+   {
+      "name": "Jobs.2024"
+   },
+   {
+      "name": "Jobs.2025"
+   },
+   {
+      "name": "Jobs.2026"
+   },
+   {
+      "name": "Jobs.2027"
+   },
+   {
+      "name": "Jobs.2028"
+   },
+   {
+      "name": "Jobs.2029"
+   },
+   {
+      "name": "Jobs.2030"
+   },
+   {
+      "name": "Jobs.2031"
+   },
+   {
+      "name": "Jobs.2032"
+   },
+   {
+      "name": "Jobs.2033"
+   },
+   {
+      "name": "Earnings.2001"
+   },
+   {
+      "name": "Earnings.2002"
+   },
+   {
+      "name": "Earnings.2003"
+   },
+   {
+      "name": "Earnings.2004"
+   },
+   {
+      "name": "Earnings.2005"
+   },
+   {
+      "name": "Earnings.2006"
+   },
+   {
+      "name": "Earnings.2007"
+   },
+   {
+      "name": "Earnings.2008"
+   },
+   {
+      "name": "Earnings.2009"
+   },
+   {
+      "name": "Earnings.2010"
+   },
+   {
+      "name": "Earnings.2011"
+   },
+   {
+      "name": "Earnings.2012"
+   },
+   {
+      "name": "Earnings.2013"
+   },
+   {
+      "name": "Earnings.2014"
+   },
+   {
+      "name": "Earnings.2015"
+   },
+   {
+      "name": "Earnings.2016"
+   },
+   {
+      "name": "Earnings.2017"
+   },
+   {
+      "name": "Earnings.2018"
+   },
+   {
+      "name": "Earnings.2019"
+   },
+   {
+      "name": "Earnings.2020"
+   },
+   {
+      "name": "Earnings.2021"
+   },
+   {
+      "name": "Earnings.2022"
+   },
+   {
+      "name": "Earnings.2023"
+   },
+   {
+      "name": "Earnings.2024"
+   },
+   {
+      "name": "EPW.2001"
+   },
+   {
+      "name": "EPW.2002"
+   },
+   {
+      "name": "EPW.2003"
+   },
+   {
+      "name": "EPW.2004"
+   },
+   {
+      "name": "EPW.2005"
+   },
+   {
+      "name": "EPW.2006"
+   },
+   {
+      "name": "EPW.2007"
+   },
+   {
+      "name": "EPW.2008"
+   },
+   {
+      "name": "EPW.2009"
+   },
+   {
+      "name": "EPW.2010"
+   },
+   {
+      "name": "EPW.2011"
+   },
+   {
+      "name": "EPW.2012"
+   },
+   {
+      "name": "EPW.2013"
+   },
+   {
+      "name": "EPW.2014"
+   },
+   {
+      "name": "EPW.2015"
+   },
+   {
+      "name": "EPW.2016"
+   },
+   {
+      "name": "EPW.2017"
+   },
+   {
+      "name": "EPW.2018"
+   },
+   {
+      "name": "EPW.2019"
+   },
+   {
+      "name": "EPW.2020"
+   },
+   {
+      "name": "EPW.2021"
+   },
+   {
+      "name": "EPW.2022"
+   },
+   {
+      "name": "EPW.2023"
+   },
+   {
+      "name": "EPW.2024"
+   }
+]
+```
+```json 2025.1
+[
+   {
+      "name": "Jobs.2001"
+   },
+   {
+      "name": "Jobs.2002"
+   },
+   {
+      "name": "Jobs.2003"
+   },
+   {
+      "name": "Jobs.2004"
+   },
+   {
+      "name": "Jobs.2005"
+   },
+   {
+      "name": "Jobs.2006"
+   },
+   {
+      "name": "Jobs.2007"
+   },
+   {
+      "name": "Jobs.2008"
+   },
+   {
+      "name": "Jobs.2009"
+   },
+   {
+      "name": "Jobs.2010"
+   },
+   {
+      "name": "Jobs.2011"
+   },
+   {
+      "name": "Jobs.2012"
+   },
+   {
+      "name": "Jobs.2013"
+   },
+   {
+      "name": "Jobs.2014"
+   },
+   {
+      "name": "Jobs.2015"
+   },
+   {
+      "name": "Jobs.2016"
+   },
+   {
+      "name": "Jobs.2017"
+   },
+   {
+      "name": "Jobs.2018"
+   },
+   {
+      "name": "Jobs.2019"
+   },
+   {
+      "name": "Jobs.2020"
+   },
+   {
+      "name": "Jobs.2021"
+   },
+   {
+      "name": "Jobs.2022"
+   },
+   {
+      "name": "Jobs.2023"
+   },
+   {
+      "name": "Jobs.2024"
+   },
+   {
+      "name": "Jobs.2025"
+   },
+   {
+      "name": "Jobs.2026"
+   },
+   {
+      "name": "Jobs.2027"
+   },
+   {
+      "name": "Jobs.2028"
+   },
+   {
+      "name": "Jobs.2029"
+   },
+   {
+      "name": "Jobs.2030"
+   },
+   {
+      "name": "Jobs.2031"
+   },
+   {
+      "name": "Earnings.2001"
+   },
+   {
+      "name": "Earnings.2002"
+   },
+   {
+      "name": "Earnings.2003"
+   },
+   {
+      "name": "Earnings.2004"
+   },
+   {
+      "name": "Earnings.2005"
+   },
+   {
+      "name": "Earnings.2006"
+   },
+   {
+      "name": "Earnings.2007"
+   },
+   {
+      "name": "Earnings.2008"
+   },
+   {
+      "name": "Earnings.2009"
+   },
+   {
+      "name": "Earnings.2010"
+   },
+   {
+      "name": "Earnings.2011"
+   },
+   {
+      "name": "Earnings.2012"
+   },
+   {
+      "name": "Earnings.2013"
+   },
+   {
+      "name": "Earnings.2014"
+   },
+   {
+      "name": "Earnings.2015"
+   },
+   {
+      "name": "Earnings.2016"
+   },
+   {
+      "name": "Earnings.2017"
+   },
+   {
+      "name": "Earnings.2018"
+   },
+   {
+      "name": "Earnings.2019"
+   },
+   {
+      "name": "Earnings.2020"
+   },
+   {
+      "name": "Earnings.2021"
+   },
+   {
+      "name": "Earnings.2022"
+   },
+   {
+      "name": "Earnings.2023"
+   },
+   {
+      "name": "Earnings.2024"
+   },
+   {
+      "name": "EPW.2001"
+   },
+   {
+      "name": "EPW.2002"
+   },
+   {
+      "name": "EPW.2003"
+   },
+   {
+      "name": "EPW.2004"
+   },
+   {
+      "name": "EPW.2005"
+   },
+   {
+      "name": "EPW.2006"
+   },
+   {
+      "name": "EPW.2007"
+   },
+   {
+      "name": "EPW.2008"
+   },
+   {
+      "name": "EPW.2009"
+   },
+   {
+      "name": "EPW.2010"
+   },
+   {
+      "name": "EPW.2011"
+   },
+   {
+      "name": "EPW.2012"
+   },
+   {
+      "name": "EPW.2013"
+   },
+   {
+      "name": "EPW.2014"
+   },
+   {
+      "name": "EPW.2015"
+   },
+   {
+      "name": "EPW.2016"
+   },
+   {
+      "name": "EPW.2017"
+   },
+   {
+      "name": "EPW.2018"
+   },
+   {
+      "name": "EPW.2019"
+   },
+   {
+      "name": "EPW.2020"
+   },
+   {
+      "name": "EPW.2021"
+   },
+   {
+      "name": "EPW.2022"
+   },
+   {
+      "name": "EPW.2023"
+   },
+   {
+      "name": "EPW.2024"
+   }
+]
+```
+```json 2024.3
+[
+   {
+      "name": "Jobs.2001"
+   },
+   {
+      "name": "Jobs.2002"
+   },
+   {
+      "name": "Jobs.2003"
+   },
+   {
+      "name": "Jobs.2004"
+   },
+   {
+      "name": "Jobs.2005"
+   },
+   {
+      "name": "Jobs.2006"
+   },
+   {
+      "name": "Jobs.2007"
+   },
+   {
+      "name": "Jobs.2008"
+   },
+   {
+      "name": "Jobs.2009"
+   },
+   {
+      "name": "Jobs.2010"
+   },
+   {
+      "name": "Jobs.2011"
+   },
+   {
+      "name": "Jobs.2012"
+   },
+   {
+      "name": "Jobs.2013"
+   },
+   {
+      "name": "Jobs.2014"
+   },
+   {
+      "name": "Jobs.2015"
+   },
+   {
+      "name": "Jobs.2016"
+   },
+   {
+      "name": "Jobs.2017"
+   },
+   {
+      "name": "Jobs.2018"
+   },
+   {
+      "name": "Jobs.2019"
+   },
+   {
+      "name": "Jobs.2020"
+   },
+   {
+      "name": "Jobs.2021"
+   },
+   {
+      "name": "Jobs.2022"
+   },
+   {
+      "name": "Jobs.2023"
+   },
+   {
+      "name": "Jobs.2024"
+   },
+   {
+      "name": "Jobs.2025"
+   },
+   {
+      "name": "Jobs.2026"
+   },
+   {
+      "name": "Jobs.2027"
+   },
+   {
+      "name": "Jobs.2028"
+   },
+   {
+      "name": "Jobs.2029"
+   },
+   {
+      "name": "Jobs.2030"
+   },
+   {
+      "name": "Jobs.2031"
+   },
+   {
+      "name": "Earnings.2001"
+   },
+   {
+      "name": "Earnings.2002"
+   },
+   {
+      "name": "Earnings.2003"
+   },
+   {
+      "name": "Earnings.2004"
+   },
+   {
+      "name": "Earnings.2005"
+   },
+   {
+      "name": "Earnings.2006"
+   },
+   {
+      "name": "Earnings.2007"
+   },
+   {
+      "name": "Earnings.2008"
+   },
+   {
+      "name": "Earnings.2009"
+   },
+   {
+      "name": "Earnings.2010"
+   },
+   {
+      "name": "Earnings.2011"
+   },
+   {
+      "name": "Earnings.2012"
+   },
+   {
+      "name": "Earnings.2013"
+   },
+   {
+      "name": "Earnings.2014"
+   },
+   {
+      "name": "Earnings.2015"
+   },
+   {
+      "name": "Earnings.2016"
+   },
+   {
+      "name": "Earnings.2017"
+   },
+   {
+      "name": "Earnings.2018"
+   },
+   {
+      "name": "Earnings.2019"
+   },
+   {
+      "name": "Earnings.2020"
+   },
+   {
+      "name": "Earnings.2021"
+   },
+   {
+      "name": "Earnings.2022"
+   },
+   {
+      "name": "Earnings.2023"
+   },
+   {
+      "name": "EPW.2001"
+   },
+   {
+      "name": "EPW.2002"
+   },
+   {
+      "name": "EPW.2003"
+   },
+   {
+      "name": "EPW.2004"
+   },
+   {
+      "name": "EPW.2005"
+   },
+   {
+      "name": "EPW.2006"
+   },
+   {
+      "name": "EPW.2007"
+   },
+   {
+      "name": "EPW.2008"
+   },
+   {
+      "name": "EPW.2009"
+   },
+   {
+      "name": "EPW.2010"
+   },
+   {
+      "name": "EPW.2011"
+   },
+   {
+      "name": "EPW.2012"
+   },
+   {
+      "name": "EPW.2013"
+   },
+   {
+      "name": "EPW.2014"
+   },
+   {
+      "name": "EPW.2015"
+   },
+   {
+      "name": "EPW.2016"
+   },
+   {
+      "name": "EPW.2017"
+   },
+   {
+      "name": "EPW.2018"
+   },
+   {
+      "name": "EPW.2019"
+   },
+   {
+      "name": "EPW.2020"
+   },
+   {
+      "name": "EPW.2021"
+   },
+   {
+      "name": "EPW.2022"
+   },
+   {
+      "name": "EPW.2023"
+   }
+]
+```
+```json 2024.1
+[
+   {
+      "name": "Jobs.2001"
+   },
+   {
+      "name": "Jobs.2002"
+   },
+   {
+      "name": "Jobs.2003"
+   },
+   {
+      "name": "Jobs.2004"
+   },
+   {
+      "name": "Jobs.2005"
+   },
+   {
+      "name": "Jobs.2006"
+   },
+   {
+      "name": "Jobs.2007"
+   },
+   {
+      "name": "Jobs.2008"
+   },
+   {
+      "name": "Jobs.2009"
+   },
+   {
+      "name": "Jobs.2010"
+   },
+   {
+      "name": "Jobs.2011"
+   },
+   {
+      "name": "Jobs.2012"
+   },
+   {
+      "name": "Jobs.2013"
+   },
+   {
+      "name": "Jobs.2014"
+   },
+   {
+      "name": "Jobs.2015"
+   },
+   {
+      "name": "Jobs.2016"
+   },
+   {
+      "name": "Jobs.2017"
+   },
+   {
+      "name": "Jobs.2018"
+   },
+   {
+      "name": "Jobs.2019"
+   },
+   {
+      "name": "Jobs.2020"
+   },
+   {
+      "name": "Jobs.2021"
+   },
+   {
+      "name": "Jobs.2022"
+   },
+   {
+      "name": "Jobs.2023"
+   },
+   {
+      "name": "Jobs.2024"
+   },
+   {
+      "name": "Jobs.2025"
+   },
+   {
+      "name": "Jobs.2026"
+   },
+   {
+      "name": "Jobs.2027"
+   },
+   {
+      "name": "Jobs.2028"
+   },
+   {
+      "name": "Jobs.2029"
+   },
+   {
+      "name": "Jobs.2030"
+   },
+   {
+      "name": "Jobs.2031"
+   },
+   {
+      "name": "Earnings.2001"
+   },
+   {
+      "name": "Earnings.2002"
+   },
+   {
+      "name": "Earnings.2003"
+   },
+   {
+      "name": "Earnings.2004"
+   },
+   {
+      "name": "Earnings.2005"
+   },
+   {
+      "name": "Earnings.2006"
+   },
+   {
+      "name": "Earnings.2007"
+   },
+   {
+      "name": "Earnings.2008"
+   },
+   {
+      "name": "Earnings.2009"
+   },
+   {
+      "name": "Earnings.2010"
+   },
+   {
+      "name": "Earnings.2011"
+   },
+   {
+      "name": "Earnings.2012"
+   },
+   {
+      "name": "Earnings.2013"
+   },
+   {
+      "name": "Earnings.2014"
+   },
+   {
+      "name": "Earnings.2015"
+   },
+   {
+      "name": "Earnings.2016"
+   },
+   {
+      "name": "Earnings.2017"
+   },
+   {
+      "name": "Earnings.2018"
+   },
+   {
+      "name": "Earnings.2019"
+   },
+   {
+      "name": "Earnings.2020"
+   },
+   {
+      "name": "Earnings.2021"
+   },
+   {
+      "name": "Earnings.2022"
+   },
+   {
+      "name": "Earnings.2023"
+   },
+   {
+      "name": "EPW.2001"
+   },
+   {
+      "name": "EPW.2002"
+   },
+   {
+      "name": "EPW.2003"
+   },
+   {
+      "name": "EPW.2004"
+   },
+   {
+      "name": "EPW.2005"
+   },
+   {
+      "name": "EPW.2006"
+   },
+   {
+      "name": "EPW.2007"
+   },
+   {
+      "name": "EPW.2008"
+   },
+   {
+      "name": "EPW.2009"
+   },
+   {
+      "name": "EPW.2010"
+   },
+   {
+      "name": "EPW.2011"
+   },
+   {
+      "name": "EPW.2012"
+   },
+   {
+      "name": "EPW.2013"
+   },
+   {
+      "name": "EPW.2014"
+   },
+   {
+      "name": "EPW.2015"
+   },
+   {
+      "name": "EPW.2016"
+   },
+   {
+      "name": "EPW.2017"
+   },
+   {
+      "name": "EPW.2018"
+   },
+   {
+      "name": "EPW.2019"
+   },
+   {
+      "name": "EPW.2020"
+   },
+   {
+      "name": "EPW.2021"
+   },
+   {
+      "name": "EPW.2022"
+   },
+   {
+      "name": "EPW.2023"
+   }
+]
+```
+```json 2023.3
+[
+   {
+      "name": "Jobs.2001"
+   },
+   {
+      "name": "Jobs.2002"
+   },
+   {
+      "name": "Jobs.2003"
+   },
+   {
+      "name": "Jobs.2004"
+   },
+   {
+      "name": "Jobs.2005"
+   },
+   {
+      "name": "Jobs.2006"
+   },
+   {
+      "name": "Jobs.2007"
+   },
+   {
+      "name": "Jobs.2008"
+   },
+   {
+      "name": "Jobs.2009"
+   },
+   {
+      "name": "Jobs.2010"
+   },
+   {
+      "name": "Jobs.2011"
+   },
+   {
+      "name": "Jobs.2012"
+   },
+   {
+      "name": "Jobs.2013"
+   },
+   {
+      "name": "Jobs.2014"
+   },
+   {
+      "name": "Jobs.2015"
+   },
+   {
+      "name": "Jobs.2016"
+   },
+   {
+      "name": "Jobs.2017"
+   },
+   {
+      "name": "Jobs.2018"
+   },
+   {
+      "name": "Jobs.2019"
+   },
+   {
+      "name": "Jobs.2020"
+   },
+   {
+      "name": "Jobs.2021"
+   },
+   {
+      "name": "Jobs.2022"
+   },
+   {
+      "name": "Jobs.2023"
+   },
+   {
+      "name": "Jobs.2024"
+   },
+   {
+      "name": "Jobs.2025"
+   },
+   {
+      "name": "Jobs.2026"
+   },
+   {
+      "name": "Jobs.2027"
+   },
+   {
+      "name": "Jobs.2028"
+   },
+   {
+      "name": "Jobs.2029"
+   },
+   {
+      "name": "Jobs.2030"
+   },
+   {
+      "name": "Jobs.2031"
+   },
+   {
+      "name": "Earnings.2001"
+   },
+   {
+      "name": "Earnings.2002"
+   },
+   {
+      "name": "Earnings.2003"
+   },
+   {
+      "name": "Earnings.2004"
+   },
+   {
+      "name": "Earnings.2005"
+   },
+   {
+      "name": "Earnings.2006"
+   },
+   {
+      "name": "Earnings.2007"
+   },
+   {
+      "name": "Earnings.2008"
+   },
+   {
+      "name": "Earnings.2009"
+   },
+   {
+      "name": "Earnings.2010"
+   },
+   {
+      "name": "Earnings.2011"
+   },
+   {
+      "name": "Earnings.2012"
+   },
+   {
+      "name": "Earnings.2013"
+   },
+   {
+      "name": "Earnings.2014"
+   },
+   {
+      "name": "Earnings.2015"
+   },
+   {
+      "name": "Earnings.2016"
+   },
+   {
+      "name": "Earnings.2017"
+   },
+   {
+      "name": "Earnings.2018"
+   },
+   {
+      "name": "Earnings.2019"
+   },
+   {
+      "name": "Earnings.2020"
+   },
+   {
+      "name": "Earnings.2021"
+   },
+   {
+      "name": "Earnings.2022"
+   },
+   {
+      "name": "EPW.2001"
+   },
+   {
+      "name": "EPW.2002"
+   },
+   {
+      "name": "EPW.2003"
+   },
+   {
+      "name": "EPW.2004"
+   },
+   {
+      "name": "EPW.2005"
+   },
+   {
+      "name": "EPW.2006"
+   },
+   {
+      "name": "EPW.2007"
+   },
+   {
+      "name": "EPW.2008"
+   },
+   {
+      "name": "EPW.2009"
+   },
+   {
+      "name": "EPW.2010"
+   },
+   {
+      "name": "EPW.2011"
+   },
+   {
+      "name": "EPW.2012"
+   },
+   {
+      "name": "EPW.2013"
+   },
+   {
+      "name": "EPW.2014"
+   },
+   {
+      "name": "EPW.2015"
+   },
+   {
+      "name": "EPW.2016"
+   },
+   {
+      "name": "EPW.2017"
+   },
+   {
+      "name": "EPW.2018"
+   },
+   {
+      "name": "EPW.2019"
+   },
+   {
+      "name": "EPW.2020"
+   },
+   {
+      "name": "EPW.2021"
+   },
+   {
+      "name": "EPW.2022"
+   }
+]
+```
+```json 2023.1
+[
+   {
+      "name": "Jobs.2001"
+   },
+   {
+      "name": "Jobs.2002"
+   },
+   {
+      "name": "Jobs.2003"
+   },
+   {
+      "name": "Jobs.2004"
+   },
+   {
+      "name": "Jobs.2005"
+   },
+   {
+      "name": "Jobs.2006"
+   },
+   {
+      "name": "Jobs.2007"
+   },
+   {
+      "name": "Jobs.2008"
+   },
+   {
+      "name": "Jobs.2009"
+   },
+   {
+      "name": "Jobs.2010"
+   },
+   {
+      "name": "Jobs.2011"
+   },
+   {
+      "name": "Jobs.2012"
+   },
+   {
+      "name": "Jobs.2013"
+   },
+   {
+      "name": "Jobs.2014"
+   },
+   {
+      "name": "Jobs.2015"
+   },
+   {
+      "name": "Jobs.2016"
+   },
+   {
+      "name": "Jobs.2017"
+   },
+   {
+      "name": "Jobs.2018"
+   },
+   {
+      "name": "Jobs.2019"
+   },
+   {
+      "name": "Jobs.2020"
+   },
+   {
+      "name": "Jobs.2021"
+   },
+   {
+      "name": "Jobs.2022"
+   },
+   {
+      "name": "Jobs.2023"
+   },
+   {
+      "name": "Jobs.2024"
+   },
+   {
+      "name": "Jobs.2025"
+   },
+   {
+      "name": "Jobs.2026"
+   },
+   {
+      "name": "Jobs.2027"
+   },
+   {
+      "name": "Jobs.2028"
+   },
+   {
+      "name": "Jobs.2029"
+   },
+   {
+      "name": "Jobs.2030"
+   },
+   {
+      "name": "Jobs.2031"
+   },
+   {
+      "name": "Jobs.2032"
+   },
+   {
+      "name": "Jobs.2033"
+   },
+   {
+      "name": "Earnings.2001"
+   },
+   {
+      "name": "Earnings.2002"
+   },
+   {
+      "name": "Earnings.2003"
+   },
+   {
+      "name": "Earnings.2004"
+   },
+   {
+      "name": "Earnings.2005"
+   },
+   {
+      "name": "Earnings.2006"
+   },
+   {
+      "name": "Earnings.2007"
+   },
+   {
+      "name": "Earnings.2008"
+   },
+   {
+      "name": "Earnings.2009"
+   },
+   {
+      "name": "Earnings.2010"
+   },
+   {
+      "name": "Earnings.2011"
+   },
+   {
+      "name": "Earnings.2012"
+   },
+   {
+      "name": "Earnings.2013"
+   },
+   {
+      "name": "Earnings.2014"
+   },
+   {
+      "name": "Earnings.2015"
+   },
+   {
+      "name": "Earnings.2016"
+   },
+   {
+      "name": "Earnings.2017"
+   },
+   {
+      "name": "Earnings.2018"
+   },
+   {
+      "name": "Earnings.2019"
+   },
+   {
+      "name": "Earnings.2020"
+   },
+   {
+      "name": "Earnings.2021"
+   },
+   {
+      "name": "Earnings.2022"
+   },
+   {
+      "name": "Earnings.2023"
+   },
+   {
+      "name": "Earnings.2024"
+   },
+   {
+      "name": "EPW.2001"
+   },
+   {
+      "name": "EPW.2002"
+   },
+   {
+      "name": "EPW.2003"
+   },
+   {
+      "name": "EPW.2004"
+   },
+   {
+      "name": "EPW.2005"
+   },
+   {
+      "name": "EPW.2006"
+   },
+   {
+      "name": "EPW.2007"
+   },
+   {
+      "name": "EPW.2008"
+   },
+   {
+      "name": "EPW.2009"
+   },
+   {
+      "name": "EPW.2010"
+   },
+   {
+      "name": "EPW.2011"
+   },
+   {
+      "name": "EPW.2012"
+   },
+   {
+      "name": "EPW.2013"
+   },
+   {
+      "name": "EPW.2014"
+   },
+   {
+      "name": "EPW.2015"
+   },
+   {
+      "name": "EPW.2016"
+   },
+   {
+      "name": "EPW.2017"
+   },
+   {
+      "name": "EPW.2018"
+   },
+   {
+      "name": "EPW.2019"
+   },
+   {
+      "name": "EPW.2020"
+   },
+   {
+      "name": "EPW.2021"
+   },
+   {
+      "name": "EPW.2022"
+   },
+   {
+      "name": "EPW.2023"
+   },
+   {
+      "name": "EPW.2024"
+   }
+]
+```
+
 ### Metrics
 
 ### Dimensions
