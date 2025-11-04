@@ -9,7 +9,7 @@ metadata:
 
 The Canada Industry dataset provides essential insights into Canadian labor market, offering both historical and projected data on industry employment and earnings. It enables users to analyze workforce trends, evaluate economic performance, and compare industries across regions and time period. It covers historical data since 2001 to current industry year and project data for current industry year.
 
-<Callout icon="💡">
+<Callout icon="💡" theme="default">
   Current industry Year refers to most recent year. It may differ from calendar year.
 </Callout>
 
@@ -61,7 +61,7 @@ you will get update on every quarter
 
 ### Dimensions
 
-```json Dimensions
+```json
 [
    {
       "name": "Area",
