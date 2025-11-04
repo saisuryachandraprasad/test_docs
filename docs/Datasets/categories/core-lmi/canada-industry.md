@@ -69,7 +69,9 @@ you can use following dimensions to filter dataset.
 
 ## Metadata
 
-|                       |                                                                                     |
+This section helps to understand more about dataset:
+
+| Meta Attributes       | Values                                                                              |
 | :-------------------- | :---------------------------------------------------------------------------------- |
 | Access                | [Core LMI API](https://docs.lightcast.io/lightcast-api/reference/overview-core-lmi) |
 | Dataset Id            | `EMSI.ca.Industry`                                                                  |
@@ -81,7 +83,7 @@ you can use following dimensions to filter dataset.
 
 ### Versions
 
-You can find all versions core metrics here: 
+You can find all versions core metrics here:
 
 ```json 2025.3
 [
