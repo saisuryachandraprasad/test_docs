@@ -12,7 +12,7 @@ metadata:
     **Provides bulk data files in a secure object-storage environment**
   </Card>
 
-  <Card title="Databricks" icon="fa-user">
+  <Card title="Databricks" icon="fa-database">
     **Allows you to query shared tables in a unified analytics workspace.**
   </Card>
 
