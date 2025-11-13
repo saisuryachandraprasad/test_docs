@@ -9,35 +9,31 @@ metadata:
 
 <Cards columns={4}>
   <Card title="Amazon S3 " href="https://readme.com" icon="fa-home" target="_blank">
-    Neque porro quisquam est qui dolorem ipsum quia
+    **Provides bulk data files in a secure object-storage environment**
   </Card>
 
   <Card title="Databricks" icon="fa-user">
-    *Lorem ipsum dolor sit amet, consectetur adipiscing elit*
+    ** Allows you to query shared tables in a unified analytics workspace.**
   </Card>
 
   <Card title="Google BigQuery" icon="fa-star">
-    > Ut enim ad minim veniam, quis nostrud ullamco
+    **Enables SQL-based access with serverless analytics at scale.**
   </Card>
 
   <Card title="Google Cloud Storage" icon="fa-question">
-    **Excepteur sint occaecat cupidatat non proident**
+    **Offers direct access to file-based datasets in your Google Cloud environment.**
   </Card>
 
-	<Card title="Microsoft Azure Blob Storage" icon="fa-question">
-    **Excepteur sint occaecat cupidatat non proident**
+  <Card title="Microsoft Azure Blob Storage" icon="fa-question">
+    **Provides object storage for Azure-based workflows.**
   </Card>
 
-	<Card title="SFTP" icon="fa-question">
-    **Excepteur sint occaecat cupidatat non proident**
+  <Card title="SFTP" icon="fa-question">
+    **Supports periodic or automated file transfers over a secure channel.**
   </Card>
 
-	<Card title="Snowflake" icon="fa-question">
-    **Excepteur sint occaecat cupidatat non proident**
+  <Card title="Snowflake" icon="fa-question">
+    **Provides direct warehouse access**
   </Card>
 
-	<Card title="Fourth Card" icon="fa-question">
-    **Excepteur sint occaecat cupidatat non proident**
-  </Card>
-
-</Cards>
+ </Cards>
