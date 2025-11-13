@@ -38,7 +38,7 @@ Get started with these key resources:
     **Sign up for credentials to begin testing**
   </Card>
 
-  <Card title="Postman Collection" href= "https://docs.lightcast.io/lightcast-api/docs/postman-collection" icon="fa-user" target="_blank">
+  <Card title="Postman Collection" href="https://docs.lightcast.io/lightcast-api/docs/postman-collection" icon="fa-user" target="_blank">
     **Import our collection to explore and test endpoints quickly.**
   </Card>
 
@@ -62,7 +62,7 @@ With over 20 years of expertise in labor market analytics, we help you work with
 
 ## API Capabilities
 
-Use ABC APIs to:
+Use our APIs to:
 
 * Retrieve standardized labor market datasets
 * Integrate predictive and classification models
