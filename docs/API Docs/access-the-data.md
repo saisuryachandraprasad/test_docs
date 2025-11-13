@@ -8,7 +8,7 @@ metadata:
 <br />
 
 <Cards columns={4}>
-  <Card title="Amazon S3 " href="https://readme.com" icon="fa-user" target="_blank">
+  <Card title="Amazon S3 " href="https://lightcast.io/resources/blog/connecting-amazon-s3-with-lightcast-data-shares" icon="fa-user" target="_blank">
     **Provides bulk data files in a secure object-storage environment**
   </Card>
 
@@ -35,11 +35,12 @@ metadata:
   <Card title="Snowflake" icon="fa-user">
     **Provides direct warehouse access**
   </Card>
-	 <Card title="Snowflake Marketplace" icon="fa-user">
+
+  <Card title="Snowflake Marketplace" icon="fa-user">
     **Explore our data at marketplace**
   </Card>
- 
-	 <Card title="Databricks Marketplace" icon="fa-user">
+
+  <Card title="Databricks Marketplace" icon="fa-user">
     **Browse our data in marketplace**
   </Card>
 </Cards>
