@@ -20,7 +20,7 @@ metadata:
     **Enables SQL-based access with serverless analytics at scale.**
   </Card>
 
-  <Card title="Google Cloud Storage" icon="fa-user">
+  <Card title="Google Cloud Storage" icon="fa-cloud">
     **Offers direct access to file-based datasets in your Google Cloud environment.**
   </Card>
 
