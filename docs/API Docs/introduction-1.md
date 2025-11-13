@@ -34,15 +34,15 @@ This documentation is built for developers, analysts, and product teams who want
 Get started with these key resources:
 
 <Cards columns={3}>
-  <Card title="Get Free API Access" href="https://readme.com" icon="fa-home" target="_blank">
+  <Card title="Get Free API Access" href="https://docs.lightcast.io/lightcast-api/docs/free-api-access" icon="fa-user" target="_blank">
     **Sign up for credentials to begin testing**
   </Card>
 
-  <Card title="Postman Collection" icon="fa-user">
+  <Card title="Postman Collection" href= "https://docs.lightcast.io/lightcast-api/docs/postman-collection" icon="fa-user" target="_blank">
     **Import our collection to explore and test endpoints quickly.**
   </Card>
 
-  <Card title="Use Cases" icon="fa-star">
+  <Card title="Use Cases" href="https://docs.lightcast.io/lightcast-api/docs/choosing-your-use-case" icon="fa-user" target="_blnak">
     **View real-world examples and recommended integrations.**
   </Card>
 </Cards>
