@@ -34,15 +34,15 @@ This documentation is built for developers, analysts, and product teams who want
 Get started with these key resources:
 
 <Cards columns={3}>
-  <Card title="First Card" href="https://readme.com" icon="fa-home" target="_blank">
-    Neque porro quisquam est qui dolorem ipsum quia
+  <Card title="Get Free API Access" href="https://readme.com" icon="fa-home" target="_blank">
+    **Sign up for credentials to begin testing**
   </Card>
 
-  <Card title="Second Card" icon="fa-user">
-    *Lorem ipsum dolor sit amet, consectetur adipiscing elit*
+  <Card title="Postman Collection" icon="fa-user">
+    **Import our collection to explore and test endpoints quickly.**
   </Card>
 
-  <Card title="Third Card" icon="fa-star">
-    > Ut enim ad minim veniam, quis nostrud ullamco
-  </Card>  
+  <Card title="Use Cases" icon="fa-star">
+    **View real-world examples and recommended integrations.**
+  </Card>
 </Cards>
