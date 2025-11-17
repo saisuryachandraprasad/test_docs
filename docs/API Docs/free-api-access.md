@@ -5,7 +5,7 @@ hidden: false
 metadata:
   robots: index
 ---
-APIs is one of the several ways to access our data. Our APIs were comprehensive and supports all your needs from analysis to building products we are providing free access to Skills API and Titles API, enabling you to explore our comprehensive Open Skills Library and get the flavor of our data.
+APIs is one of the several ways to access our data. Our APIs were comprehensive and supports all your needs from analysis to building products. we are providing free access to Skills API and Titles API, enabling you to explore our comprehensive Open Skills Library and get the flavor of our data.
 
 ## What's Included with Free API Access
 
@@ -41,6 +41,6 @@ These tools help you quickly understand how to authenticate, query, and integrat
 ## Additional Resources
 
 * Review our [FAQs](https://lightcast.io/open-skills/faqs)  to see if your question has already been answered.
-*  If you need assistance, [contact us](https://lightcast.io/contact-us)  and our team will be happy to help.
+* If you need assistance, [contact us](https://lightcast.io/contact-us)  and our team will be happy to help.
 
 <br />
