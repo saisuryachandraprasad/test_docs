@@ -24,7 +24,7 @@ A clear, market-aligned taxonomy is the fastest way to bring structure to incons
 
 ## Use Cases 1
 
-### Building a Skills Inventory
+### Skills Inventory
 
 **Challenge**
 
@@ -36,7 +36,7 @@ A global defense contractor needed a unified view of employee capabilities. Skil
 
 The People Analytics team required a scalable way to build a consistent skills inventory.
 
-**Solution using the free Skills API:**
+**Solution**
 
 **Taxonomy-Driven Tagging**
 
@@ -58,13 +58,13 @@ New or existing resumes can be processed through the free Skills API. The API au
 
 ## Use Case 2
 
-### Standardizing Job Titles for Data Governance
+### Title Standardization
 
 **Challenge**
 
 A multinational engineering organization struggled with thousands of inconsistent job title variants, such as “Sr. HVAC Eng.” or “Hydraulics Guru.” These inconsistencies affected reporting accuracy, internal mobility, and cross-regional talent benchmarking.
 
-**Solutions using the free Titles API**
+**Solutions**
 
 **Type-Ahead Autocomplete**
 
