@@ -29,7 +29,7 @@ This access enables you to analyze skill relationships, build search and matchin
 2. You'll receive mail from us. Follow the instructions given in mail to verify your email.
 3. Once your email is verified, you'll receive follow-up mail with API credentials (Client ID, Secret) and guides to proceed further.
 
-## Ways to Explore the APIs:
+## Ways to Explore the APIs
 
 After you receive your credentials, you can begin exploring in several ways:
 
