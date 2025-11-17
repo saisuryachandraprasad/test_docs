@@ -22,13 +22,13 @@ A clear, market-aligned taxonomy is the fastest way to bring structure to incons
 
 > A clean taxonomy is essential for any skills intelligence initiative. Without it, downstream insights and reporting cannot be trusted.
 
-## Use Cases 1 
+## Use Cases 1
 
 ### Building a Skills Inventory
 
 **Challenge**
 
-A global defense contractor needed a unified view of employee capabilities. Skills were collected from resumes stored in different formats, described with inconsistent terminology, and incompatible across systems. Leadership could not answer fundamental questions such as 
+A global defense contractor needed a unified view of employee capabilities. Skills were collected from resumes stored in different formats, described with inconsistent terminology, and incompatible across systems. Leadership could not answer fundamental questions such as
 
 * How many employees have aircraft mainframe expertise?
 * How many employees have expertise in propulsion system design?
@@ -38,13 +38,13 @@ The People Analytics team required a scalable way to build a consistent skills i
 
 **Solution using the free Skills API:**
 
-### Taxonomy-Driven Tagging
+**Taxonomy-Driven Tagging**
 
 The Lightcast skill hierarchy (Skill -> Skill Sub-Category -> Skill Category) provides clear structure.
 
 Example: Flight Safety -> Air Transportation -> Transportation, Supply Chain & Logistics.
 
-### Skills Inventory Dashboards
+**Skills Inventory Dashboards**
 
 Because each employee is mapped to a consistent Skill ID and hierarchy, analysts can view the workforce by:
 
@@ -52,7 +52,7 @@ Because each employee is mapped to a consistent Skill ID and hierarchy, analysts
 3. Sub-categories (Air Transportation)
 4. Broad categories (Transportation, Supply Chain & Logistics)
 
-### Resume Skill Extraction (50 per month)
+**Resume Skill Extraction**
 
 New or existing resumes can be processed through the free Skills API. The API automatically assigns standardized Skill IDs, reducing manual tagging effort and improving accuracy.
 
@@ -66,15 +66,15 @@ A multinational engineering organization struggled with thousands of inconsisten
 
 **Solutions using the free Titles API**
 
-### Type-Ahead Autocomplete
+**Type-Ahead Autocomplete**
 
 The Lightcast library of 75,000 standardized titles is integrated directly into CRM and HRIS title fields. Users select a single authoritative title instead of entering free-text variations.
 
-### Historical Title Normalization
+**Historical Title Normalization**
 
 The team used up to 50 free title normalizations per month to clean historical data. The Titles API automatically mapped inconsistent or misspelled titles to the correct Lightcast Title IDs. This automated approach standardized years of records within days.
 
-### Governance and Reporting Dashboards
+**Governance and Reporting Dashboards**
 
 With each record linked to a unique Title ID, workforce teams can reliably roll up and compare data by discipline (for example, Civil Engineer vs. Electrical Engineer), region, or business unit.
 
