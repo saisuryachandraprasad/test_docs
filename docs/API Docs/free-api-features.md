@@ -46,7 +46,7 @@ Example: Flight Safety -> Air Transportation -> Transportation, Supply Chain & L
 
 **2. Skills Inventory Dashboards**
 
-Because each employee is mapped to a consistent Skill ID and hierarchy, analysts can view the workforce by:
+As each employee is mapped to a consistent Skill ID and hierarchy, analysts can view the workforce by:
 
 2. Individual skills (for example, Pitot Static)
 3. Sub-categories (Air Transportation)
