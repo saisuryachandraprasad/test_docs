@@ -38,13 +38,13 @@ The People Analytics team required a scalable way to build a consistent skills i
 
 **Solution**
 
-**Taxonomy-Driven Tagging**
+**1. Taxonomy-Driven Tagging**
 
 The Lightcast skill hierarchy (Skill -> Skill Sub-Category -> Skill Category) provides clear structure.
 
 Example: Flight Safety -> Air Transportation -> Transportation, Supply Chain & Logistics.
 
-**Skills Inventory Dashboards**
+**2. Skills Inventory Dashboards**
 
 Because each employee is mapped to a consistent Skill ID and hierarchy, analysts can view the workforce by:
 
@@ -52,7 +52,7 @@ Because each employee is mapped to a consistent Skill ID and hierarchy, analysts
 3. Sub-categories (Air Transportation)
 4. Broad categories (Transportation, Supply Chain & Logistics)
 
-**Resume Skill Extraction**
+**3. Resume Skill Extraction**
 
 New or existing resumes can be processed through the free Skills API. The API automatically assigns standardized Skill IDs, reducing manual tagging effort and improving accuracy.
 
@@ -66,15 +66,15 @@ A multinational engineering organization struggled with thousands of inconsisten
 
 **Solutions**
 
-**Type-Ahead Autocomplete**
+**1.Type-Ahead Autocomplete**
 
 The Lightcast library of 75,000 standardized titles is integrated directly into CRM and HRIS title fields. Users select a single authoritative title instead of entering free-text variations.
 
-**Historical Title Normalization**
+**2. Historical Title Normalization**
 
 The team used up to 50 free title normalizations per month to clean historical data. The Titles API automatically mapped inconsistent or misspelled titles to the correct Lightcast Title IDs. This automated approach standardized years of records within days.
 
-**Governance and Reporting Dashboards**
+**3. Governance and Reporting Dashboards**
 
 With each record linked to a unique Title ID, workforce teams can reliably roll up and compare data by discipline (for example, Civil Engineer vs. Electrical Engineer), region, or business unit.
 
