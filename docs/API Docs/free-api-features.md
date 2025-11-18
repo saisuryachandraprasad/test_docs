@@ -7,7 +7,7 @@ metadata:
 ---
 Our Open Skills program provides free access to Skills and Titles APIs. These APIs give you a standardized way to describe skills and job titles across your systems.
 
-> To learn more about the Skills API here
+> You can learn more about the Skills API here
 
 ## Why Use a Standard Taxonomy?
 
