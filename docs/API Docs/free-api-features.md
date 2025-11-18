@@ -61,7 +61,7 @@ A clear, market-aligned taxonomy is the fastest way to bring structure to incons
 <Accordion title="Title Standardization" icon="fa-info-circle">
   **Challenge**
 
-  A multinational engineering organization struggled with thousands of inconsistent job title variants, such as “Sr. HVAC Eng.” or “Hydraulics Guru.” These inconsistencies affected reporting accuracy, internal mobility, and cross-regional talent benchmarking.
+  A multinational engineering organization struggled with thousands of inconsistent job title variants, such as “Sr. HVAC Eng.” or “Hydraulics Eng.” These inconsistencies affected reporting accuracy, internal mobility, and cross-regional talent benchmarking.
 
   **Solutions**
 
