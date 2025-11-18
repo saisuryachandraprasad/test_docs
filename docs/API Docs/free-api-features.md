@@ -31,26 +31,20 @@ A clear, market-aligned taxonomy is the fastest way to bring structure to incons
 
   A global defense contractor needed a unified view of employee capabilities. Skills were collected from resumes stored in different formats, described with inconsistent terminology, and incompatible across systems. Leadership could not answer fundamental questions such as
 
-	*	How many employees have aircraft mainframe expertise?
-	* How many employees have expertise in propulsion system design?
+  * How many employees have aircraft mainframe expertise?
+  * How many employees have expertise in propulsion system design?
   * Which roles require proficiency in flight control systems?
 
-The People Analytics team required a scalable way to build a consistent skills inventory.
+  The People Analytics team required a scalable way to build a consistent skills inventory.
 
   **Solution**
 
   **1. Taxonomy-Driven Tagging**
+
   The Lightcast skill hierarchy (Skill -> Skill Sub-Category -> Skill Category) provides clear structure.
-	Example: Flight Safety -> Air Transportation -> Transportation, Supply Chain & Logistics.
+  Example: Flight Safety -> Air Transportation -> Transportation, Supply Chain & Logistics.
 
-
-
-
-
-<br />
-
-
- 
+  <br />
 </Accordion>
 
 <br />
