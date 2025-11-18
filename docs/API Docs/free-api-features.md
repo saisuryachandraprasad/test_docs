@@ -53,7 +53,7 @@ A clear, market-aligned taxonomy is the fastest way to bring structure to incons
 
   3. Broad categories (Transportation, Supply Chain & Logistics)
 
-  **3. Resume Skill Extraction**
+ **3. Resume Skill Extraction**
 
   New or existing resumes can be processed through the free Skills API. The API automatically assigns standardized Skill IDs, reducing manual tagging effort and improving accuracy.
 </Accordion>
