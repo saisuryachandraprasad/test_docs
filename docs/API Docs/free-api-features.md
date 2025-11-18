@@ -48,9 +48,9 @@ Example: Flight Safety -> Air Transportation -> Transportation, Supply Chain & L
 
 As each employee is mapped to a consistent Skill ID and hierarchy, analysts can view the workforce by:
 
-2. Individual skills (for example, Pitot Static)
-3. Sub-categories (Air Transportation)
-4. Broad categories (Transportation, Supply Chain & Logistics)
+1. Individual skills (for example, Pitot Static)
+2. Sub-categories (Air Transportation)
+3. Broad categories (Transportation, Supply Chain & Logistics)
 
 **3. Resume Skill Extraction**
 
