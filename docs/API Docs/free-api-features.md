@@ -22,27 +22,44 @@ A clear, market-aligned taxonomy is the fastest way to bring structure to incons
 
 > A clean taxonomy is essential for any skills intelligence initiative. Without it, downstream insights and reporting cannot be trusted.
 
-## Use Cases 1
+## Use Cases
 
-### Skills Inventory
+<Accordion title="My Accordion Title" icon="fa-info-circle">
+  ### Skills Inventory
 
-**Challenge**
+  **Challenge**
 
-A global defense contractor needed a unified view of employee capabilities. Skills were collected from resumes stored in different formats, described with inconsistent terminology, and incompatible across systems. Leadership could not answer fundamental questions such as
+  A global defense contractor needed a unified view of employee capabilities. Skills were collected from resumes stored in different formats, described with inconsistent terminology, and incompatible across systems. Leadership could not answer fundamental questions such as
 
-* How many employees have aircraft mainframe expertise?
-* How many employees have expertise in propulsion system design?
-* Which roles require proficiency in flight control systems?
+	*	How many employees have aircraft mainframe expertise?
+	* How many employees have expertise in propulsion system design?
+  * Which roles require proficiency in flight control systems?
 
 The People Analytics team required a scalable way to build a consistent skills inventory.
 
-**Solution**
+  **Solution**
 
-**1. Taxonomy-Driven Tagging**
+  **1. Taxonomy-Driven Tagging**
+  The Lightcast skill hierarchy (Skill -> Skill Sub-Category -> Skill Category) provides clear structure.
+	Example: Flight Safety -> Air Transportation -> Transportation, Supply Chain & Logistics.
 
-The Lightcast skill hierarchy (Skill -> Skill Sub-Category -> Skill Category) provides clear structure.
 
-Example: Flight Safety -> Air Transportation -> Transportation, Supply Chain & Logistics.
+
+
+
+<br />
+
+
+ 
+</Accordion>
+
+<br />
+
+<br />
+
+<br />
+
+<br />
 
 **2. Skills Inventory Dashboards**
 
@@ -86,5 +103,7 @@ With each record linked to a unique Title ID, workforce teams can reliably roll 
 | Skill hierarchy               | Clean roll-ups by Skill -> Sub-Category -> Category                 | Market context not included                    |
 | Autocomplete / type-ahead     | Users find the right term quickly, keeps new data clean             | Requires development effort                    |
 | 50 free API calls / month     | Run pilot projects, tag resumes, and clean legacy titles at no cost | Hard monthly cap, upgrade if required for more |
+
+<br />
 
 <br />
