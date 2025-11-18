@@ -13,12 +13,12 @@ Our Open Skills program provides free access to Skills and Titles APIs. These AP
 
 A clear, market-aligned taxonomy is the fastest way to bring structure to inconsistent or ungoverned data. we maintain and update Skills and Titles list regularly, allowing your teams to use a living, authoritative reference library that:
 
-| Highlights                      | Description                                                                                           |
-| :------------------------------ | :---------------------------------------------------------------------------------------------------- |
-| Reduces free-text issues        | Users select from a single, verified list instead of entering their own variations.                   |
-| Strengthens data governance     | Each term includes a machine-readable ID, enabling accurate filtering, sorting, and reporting.        |
-| Improves search and discovery   | Autocomplete and type-ahead help users find the correct term without memorizing spellings.            |
-| Enables analytics and reporting | Consistent IDs allow you to group and analyze skills or titles by category, region, or business unit. |
+| Highlights                          | Description                                                                                           |
+| :---------------------------------- | :---------------------------------------------------------------------------------------------------- |
+| **Reduces free-text issues**        | Users select from a single, verified list instead of entering their own variations.                   |
+| **Strengthens data governance**     | Each term includes a machine-readable ID, enabling accurate filtering, sorting, and reporting.        |
+| **Improves search and discovery**   | Autocomplete and type-ahead help users find the correct term without memorizing spellings.            |
+| **Enables analytics and reporting** | Consistent IDs allow you to group and analyze skills or titles by category, region, or business unit. |
 
 > A clean taxonomy is essential for any skills intelligence initiative. Without it, downstream insights and reporting cannot be trusted.
 
@@ -56,8 +56,7 @@ A clear, market-aligned taxonomy is the fastest way to bring structure to incons
   **3. Resume Skill Extraction**
 
   New or existing resumes can be processed through the free Skills API. The API automatically assigns standardized Skill IDs, reducing manual tagging effort and improving accuracy.
-
- </Accordion>
+</Accordion>
 
 <Accordion title="Title Standardization" icon="fa-info-circle">
   **Challenge**
@@ -66,7 +65,7 @@ A clear, market-aligned taxonomy is the fastest way to bring structure to incons
 
   **Solutions**
 
-  1.Type-Ahead Autocomplete**
+  1.Type-Ahead Autocomplete\*\*
 
   The Lightcast library of 75,000 standardized titles is integrated directly into CRM and HRIS title fields. Users select a single authoritative title instead of entering free-text variations.
 
@@ -74,11 +73,9 @@ A clear, market-aligned taxonomy is the fastest way to bring structure to incons
 
   The team used up to 50 free title normalizations per month to clean historical data. The Titles API automatically mapped inconsistent or misspelled titles to the correct Lightcast Title IDs. This automated approach standardized years of records within days.
 
-  3. Governance and Reporting Dashboards**
+  3. Governance and Reporting Dashboards\*\*
 
   With each record linked to a unique Title ID, workforce teams can reliably roll up and compare data by discipline (for example, Civil Engineer vs. Electrical Engineer), region, or business unit.
-
-
 </Accordion>
 
 ## Features & Limits
