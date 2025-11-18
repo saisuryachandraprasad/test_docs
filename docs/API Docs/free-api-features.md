@@ -53,7 +53,7 @@ A clear, market-aligned taxonomy is the fastest way to bring structure to incons
 
   3. Broad categories (Transportation, Supply Chain & Logistics)
 
- **3. Resume Skill Extraction**
+  **3. Resume Skill Extraction**
 
   New or existing resumes can be processed through the free Skills API. The API automatically assigns standardized Skill IDs, reducing manual tagging effort and improving accuracy.
 </Accordion>
@@ -73,7 +73,7 @@ A clear, market-aligned taxonomy is the fastest way to bring structure to incons
 
   The team used up to 50 free title normalizations per month to clean historical data. The Titles API automatically mapped inconsistent or misspelled titles to the correct Lightcast Title IDs. This automated approach standardized years of records within days.
 
-  3. Governance and Reporting Dashboards\*\*
+  **3. Governance and Reporting Dashboards**
 
   With each record linked to a unique Title ID, workforce teams can reliably roll up and compare data by discipline (for example, Civil Engineer vs. Electrical Engineer), region, or business unit.
 </Accordion>
