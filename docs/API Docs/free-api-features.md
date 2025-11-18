@@ -24,10 +24,8 @@ A clear, market-aligned taxonomy is the fastest way to bring structure to incons
 
 ## Use Cases
 
-<Accordion title="My Accordion Title" icon="fa-info-circle">
-  ### Skills Inventory
-
-  **Challenge**
+<Accordion title="Skill Inventory" icon="fa-info-circle">
+   **Challenge**
 
   A global defense contractor needed a unified view of employee capabilities. Skills were collected from resumes stored in different formats, described with inconsistent terminology, and incompatible across systems. Leadership could not answer fundamental questions such as
 
@@ -56,18 +54,10 @@ A clear, market-aligned taxonomy is the fastest way to bring structure to incons
   3. Broad categories (Transportation, Supply Chain & Logistics)
 
   **3. Resume Skill Extraction**
-  
-New or existing resumes can be processed through the free Skills API. The API automatically assigns standardized Skill IDs, reducing manual tagging effort and improving accuracy.
 
+  New or existing resumes can be processed through the free Skills API. The API automatically assigns standardized Skill IDs, reducing manual tagging effort and improving accuracy.
 
-
-
-
-
-<br />
-
-
-
+  <br />
 
   <br />
 </Accordion>
