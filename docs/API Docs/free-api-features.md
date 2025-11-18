@@ -65,7 +65,7 @@ A clear, market-aligned taxonomy is the fastest way to bring structure to incons
 
   **Solutions**
 
-  1.Type-Ahead Autocomplete\*\*
+  **1.Type-Ahead Autocomplete**
 
   The Lightcast library of 75,000 standardized titles is integrated directly into CRM and HRIS title fields. Users select a single authoritative title instead of entering free-text variations.
 
