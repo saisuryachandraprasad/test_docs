@@ -25,7 +25,7 @@ A clear, market-aligned taxonomy is the fastest way to bring structure to incons
 ## Use Cases
 
 <Accordion title="Skill Inventory" icon="fa-info-circle">
-   **Challenge**
+  **Challenge**
 
   A global defense contractor needed a unified view of employee capabilities. Skills were collected from resumes stored in different formats, described with inconsistent terminology, and incompatible across systems. Leadership could not answer fundamental questions such as
 
@@ -57,38 +57,29 @@ A clear, market-aligned taxonomy is the fastest way to bring structure to incons
 
   New or existing resumes can be processed through the free Skills API. The API automatically assigns standardized Skill IDs, reducing manual tagging effort and improving accuracy.
 
-  <br />
+ </Accordion>
 
-  <br />
+<Accordion title="Title Standardization" icon="fa-info-circle">
+  **Challenge**
+
+  A multinational engineering organization struggled with thousands of inconsistent job title variants, such as “Sr. HVAC Eng.” or “Hydraulics Guru.” These inconsistencies affected reporting accuracy, internal mobility, and cross-regional talent benchmarking.
+
+  **Solutions**
+
+  1.Type-Ahead Autocomplete**
+
+  The Lightcast library of 75,000 standardized titles is integrated directly into CRM and HRIS title fields. Users select a single authoritative title instead of entering free-text variations.
+
+  **2. Historical Title Normalization**
+
+  The team used up to 50 free title normalizations per month to clean historical data. The Titles API automatically mapped inconsistent or misspelled titles to the correct Lightcast Title IDs. This automated approach standardized years of records within days.
+
+  3. Governance and Reporting Dashboards**
+
+  With each record linked to a unique Title ID, workforce teams can reliably roll up and compare data by discipline (for example, Civil Engineer vs. Electrical Engineer), region, or business unit.
+
+
 </Accordion>
-
-<br />
-
-<br />
-
-<br />
-
-## Use Case 2
-
-### Title Standardization
-
-**Challenge**
-
-A multinational engineering organization struggled with thousands of inconsistent job title variants, such as “Sr. HVAC Eng.” or “Hydraulics Guru.” These inconsistencies affected reporting accuracy, internal mobility, and cross-regional talent benchmarking.
-
-**Solutions**
-
-**1.Type-Ahead Autocomplete**
-
-The Lightcast library of 75,000 standardized titles is integrated directly into CRM and HRIS title fields. Users select a single authoritative title instead of entering free-text variations.
-
-**2. Historical Title Normalization**
-
-The team used up to 50 free title normalizations per month to clean historical data. The Titles API automatically mapped inconsistent or misspelled titles to the correct Lightcast Title IDs. This automated approach standardized years of records within days.
-
-**3. Governance and Reporting Dashboards**
-
-With each record linked to a unique Title ID, workforce teams can reliably roll up and compare data by discipline (for example, Civil Engineer vs. Electrical Engineer), region, or business unit.
 
 ## Features & Limits
 
