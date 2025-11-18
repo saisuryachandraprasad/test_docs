@@ -42,7 +42,32 @@ A clear, market-aligned taxonomy is the fastest way to bring structure to incons
   **1. Taxonomy-Driven Tagging**
 
   The Lightcast skill hierarchy (Skill -> Skill Sub-Category -> Skill Category) provides clear structure.
+
   Example: Flight Safety -> Air Transportation -> Transportation, Supply Chain & Logistics.
+
+  **2. Skills Inventory Dashboards**
+
+  As each employee is mapped to a consistent Skill ID and hierarchy, analysts can view the workforce by:
+
+  1. Individual skills (for example, Pitot Static)
+
+  2. Sub-categories (Air Transportation)
+
+  3. Broad categories (Transportation, Supply Chain & Logistics)
+
+  **3. Resume Skill Extraction**
+  
+New or existing resumes can be processed through the free Skills API. The API automatically assigns standardized Skill IDs, reducing manual tagging effort and improving accuracy.
+
+
+
+
+
+
+<br />
+
+
+
 
   <br />
 </Accordion>
@@ -52,20 +77,6 @@ A clear, market-aligned taxonomy is the fastest way to bring structure to incons
 <br />
 
 <br />
-
-<br />
-
-**2. Skills Inventory Dashboards**
-
-As each employee is mapped to a consistent Skill ID and hierarchy, analysts can view the workforce by:
-
-1. Individual skills (for example, Pitot Static)
-2. Sub-categories (Air Transportation)
-3. Broad categories (Transportation, Supply Chain & Logistics)
-
-**3. Resume Skill Extraction**
-
-New or existing resumes can be processed through the free Skills API. The API automatically assigns standardized Skill IDs, reducing manual tagging effort and improving accuracy.
 
 ## Use Case 2
 
