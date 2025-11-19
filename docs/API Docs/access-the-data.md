@@ -10,7 +10,7 @@ This page helps you understand the supported methods to access our data. You can
 We provide two primary methods to access data:
 
 * **API:** For programmatic access and real-time integration.
-*  **Data Shares:** For bulk storage, cloud-native analytics, and managed data delivery.
+* **Data Shares:** For bulk storage, cloud-native analytics, and managed data delivery.
 
 Each method offers different capabilities depending on whether you need on-demand requests, scheduled updates, or direct access through your cloud environment.
 
@@ -83,5 +83,3 @@ Choose the right method:
 | Cloud-native SQL workloads              | Google BigQuery, Databricks, Snowflake                              |
 | File-based ingestion from cloud storage | Amazon S3, Google Cloud Storage, Microsoft Azure Blob Storage       |
 | Marketplace                             | Snowflake Marketplace, Databricks Marketplace                       |
-
-<br />
