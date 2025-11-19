@@ -83,3 +83,71 @@ Choose the right method:
 | Cloud-native SQL workloads              | Google BigQuery, Databricks, Snowflake                              |
 | File-based ingestion from cloud storage | Amazon S3, Google Cloud Storage, Microsoft Azure Blob Storage       |
 | Marketplace                             | Snowflake Marketplace, Databricks Marketplace                       |
+
+<br />
+
+<Cards columns={4} className="rcards">
+  <Card title="Amazon S3" href="/docs/aws-s3" className="rmd-card">
+    <div className="rmd-card-media" role="img" aria-label="Amazon S3 object storage">
+      <img className="rmd-lazy" data-src="https://example.com/images/aws-s3-hero.jpg" alt="Amazon S3 object storage" />
+    </div>
+
+    <div className="rmd-card-body">
+      <h3 className="rmd-card-title">Amazon S3</h3>
+      <p className="rmd-card-desc"><strong>Bulk data files in a secure object-storage environment.</strong></p>
+
+      <div className="rmd-card-meta">
+        <span className="rmd-badge">File share</span>
+        <a className="rmd-cta" href="https://lightcast.io/resources/blog/connecting-amazon-s3-with-lightcast-data-shares" target="_blank" rel="noopener noreferrer">Read more →</a>
+      </div>
+    </div>
+  </Card>
+
+  <Card title="Databricks" className="rmd-card">
+    <div className="rmd-card-media" role="img" aria-label="Databricks">
+      <img className="rmd-lazy" data-src="https://example.com/images/databricks-hero.jpg" alt="Databricks" />
+    </div>
+
+    <div className="rmd-card-body">
+      <h3 className="rmd-card-title">Databricks</h3>
+      <p className="rmd-card-desc"><strong>Query shared tables inside a unified analytics workspace.</strong></p>
+
+      <div className="rmd-card-meta">
+        <span className="rmd-badge">Query</span>
+        <a className="rmd-cta" href="/docs/databricks-integration">Learn →</a>
+      </div>
+    </div>
+  </Card>
+
+  <Card title="Google BigQuery" className="rmd-card">
+    <div className="rmd-card-media" role="img" aria-label="Google BigQuery">
+      <img className="rmd-lazy" data-src="https://example.com/images/bigquery-hero.jpg" alt="Google BigQuery" />
+    </div>
+
+    <div className="rmd-card-body">
+      <h3 className="rmd-card-title">Google BigQuery</h3>
+      <p className="rmd-card-desc"><strong>SQL access with serverless analytics at scale.</strong></p>
+
+      <div className="rmd-card-meta">
+        <span className="rmd-badge">SQL</span>
+        <a className="rmd-cta" href="/docs/bigquery">Docs →</a>
+      </div>
+    </div>
+  </Card>
+
+  <Card title="Google Cloud Storage" className="rmd-card">
+    <div className="rmd-card-media" role="img" aria-label="Google Cloud Storage">
+      <img className="rmd-lazy" data-src="https://example.com/images/gcs-hero.jpg" alt="Google Cloud Storage" />
+    </div>
+
+    <div className="rmd-card-body">
+      <h3 className="rmd-card-title">Google Cloud Storage</h3>
+      <p className="rmd-card-desc"><strong>Direct access to file-based datasets in Google Cloud.</strong></p>
+
+      <div className="rmd-card-meta">
+        <span className="rmd-badge">File</span>
+        <a className="rmd-cta" href="/docs/gcs">Docs →</a>
+      </div>
+    </div>
+  </Card>
+</Cards>
