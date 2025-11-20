@@ -5,7 +5,7 @@ hidden: false
 metadata:
   robots: index
 ---
-In the modern knowledge economy, educational institutions and learner-focused organizations must stay closely aligned with evolving employer needs. When programs reflect real labor-market demand, institutions strengthen regional economies, improve learner outcomes, and become engines of workforce opportunity. 
+In the modern knowledge economy, educational institutions and learner-focused organizations must stay closely aligned with evolving employer needs. When programs reflect real labor-market demand, institutions strengthen regional economies, improve learner outcomes, and become engines of workforce opportunity.
 
 Lightcast APIs provide the data foundation to build this alignment. They enable you to understand employer demand, design market-aligned programs, and guide learners toward careers that offer long-term prosperity.
 
@@ -167,5 +167,7 @@ Career Coach is one of the most widely adopted Lightcast products. It supports c
 
   **Python Example**
 </Accordion>
+
+<br />
 
 <br />
