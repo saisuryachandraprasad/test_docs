@@ -51,7 +51,7 @@ Together, these tools empower learners to explore, plan, and progress-improving 
 
 ## Use Cases
 
-Below are common scenarios demonstrating how institutions use Lightcast APIs to support curriculum development, program planning, accreditation, learner guidance, and market intelligenc
+Below are common scenarios demonstrating how institutions use Lightcast APIs to support curriculum development, program planning, accreditation, learner guidance, and market intelligence
 
 ## Curriculum Planning
 
@@ -71,12 +71,79 @@ Our APIs help your institution make data-driven program decisions. Use labor-mar
 <Accordion title="Map CIPs to Occupations">
   Select a Classification of Instructional Programs (CIP) code and map it to Lightcast Occupational Taxonomy (LOT) or Standard Occupational Classification (SOC) versions.
 
+  **APIs Used**
+
+  * Authentication
+  * Classification
+
+  **Python Example**
+</Accordion>
+
+<Accordion title="Project Occupation Growth" >
+  Map CIP codes to LOT and evaluate long-term occupation growth trends.
+
 **APIs Used**
 
 * Authentication
-* Classification
+* Classification 
+* Projected Occupation Growth
 
 **Python Example**
 
 </Accordion>
 
+<Accordion title="Review Completions" >
+ Retrieve metrics such as completions for programs (e.g., Computer Science graduates for 2025).  
+
+**APIs Used**
+
+* Authentication
+* Core LMI
+
+**Python Example**
+
+</Accordion>
+
+<Accordion title="Identify Growth Skills" >
+  Map CIPs to relevant skills and use job postings and projection APIs to determine which skills are most in demand.
+
+**APIs Used**
+
+* Authentication
+* Classification
+* Job Postings
+* Projected Skill Growth
+
+**Python Example**
+
+
+</Accordion>
+
+<Accordion title="Find ROI-Boosting Skills" >
+Use LOT mapping to identify skills associated with the highest salary uplift. 
+
+**APIs Used**
+
+* Authentication
+* Classification
+* Salary Boosting Skills
+
+**Python Example**
+
+
+</Accordion>
+
+<Accordion title="Evaluate Wage Potential" >
+Map CIPs to LOT and retrieve wage information by occupation.
+
+**APIs Used**
+
+* Authentication
+* Classification
+* Market Salary
+* Career Coach
+
+**Python Example**
+
+
+</Accordion>
