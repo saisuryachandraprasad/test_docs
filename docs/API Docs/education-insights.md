@@ -79,71 +79,66 @@ Our APIs help your institution make data-driven program decisions. Use labor-mar
   **Python Example**
 </Accordion>
 
-<Accordion title="Project Occupation Growth" >
+<Accordion title="Project Occupation Growth">
   Map CIP codes to LOT and evaluate long-term occupation growth trends.
 
-**APIs Used**
+  **APIs Used**
 
-* Authentication
-* Classification 
-* Projected Occupation Growth
+  * Authentication
+  * Classification
+  * Projected Occupation Growth
 
-**Python Example**
-
+  **Python Example**
 </Accordion>
 
-<Accordion title="Review Completions" >
- Retrieve metrics such as completions for programs (e.g., Computer Science graduates for 2025).  
+<Accordion title="Review Completions">
+  Retrieve metrics such as completions for programs (e.g., Computer Science graduates for 2025).
 
-**APIs Used**
+  **APIs Used**
 
-* Authentication
-* Core LMI
+  * Authentication
+  * Core LMI
 
-**Python Example**
-
+  **Python Example**
 </Accordion>
 
-<Accordion title="Identify Growth Skills" >
+<Accordion title="Identify Growth Skills">
   Map CIPs to relevant skills and use job postings and projection APIs to determine which skills are most in demand.
 
-**APIs Used**
+  **APIs Used**
 
-* Authentication
-* Classification
-* Job Postings
-* Projected Skill Growth
+  * Authentication
+  * Classification
+  * Job Postings
+  * Projected Skill Growth
 
-**Python Example**
-
-
+  **Python Example**
 </Accordion>
 
-<Accordion title="Find ROI-Boosting Skills" >
-Use LOT mapping to identify skills associated with the highest salary uplift. 
+<Accordion title="Find ROI-Boosting Skills">
+  Use LOT mapping to identify skills associated with the highest salary uplift.
 
-**APIs Used**
+  **APIs Used**
 
-* Authentication
-* Classification
-* Salary Boosting Skills
+  * Authentication
+  * Classification
+  * Salary Boosting Skills
 
-**Python Example**
-
-
+  **Python Example**
 </Accordion>
 
-<Accordion title="Evaluate Wage Potential" >
-Map CIPs to LOT and retrieve wage information by occupation.
+<Accordion title="Evaluate Wage Potential">
+  Map CIPs to LOT and retrieve wage information by occupation.
 
-**APIs Used**
+  **APIs Used**
 
-* Authentication
-* Classification
-* Market Salary
-* Career Coach
+  * Authentication
+  * Classification
+  * Market Salary
+  * Career Coach
 
-**Python Example**
-
-
+  **Python Example**
 </Accordion>
+
+
+
