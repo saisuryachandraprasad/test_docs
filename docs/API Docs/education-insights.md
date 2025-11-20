@@ -27,7 +27,7 @@ These insights help institutions understand where employer needs are emerging, d
 
 With labor-market demand as a foundation, educators can design and evaluate programs that meet real workforce needs.
 
- **Lightcast APIs enables**
+**Lightcast APIs enables**
 
 * Program Evaluation and Market Alignment
 * Skill Tagging and Curriculum Mapping
@@ -57,13 +57,15 @@ Below are common scenarios demonstrating how institutions use Lightcast APIs to 
 
 Our APIs help your institution make data-driven program decisions. Use labor-market demand and graduate-supply insights to identify which programs to build, update, promote, or scale. You can compare regional demand for occupations and skills with the programs you offer to uncover gaps. By tagging your programs with relevant skills, you can see where current curricula do not align with market needs and identify opportunities to adjust or repurpose existing offerings to close those gaps.
 
-<Accordion title="Classify Skills" >
+<Accordion title="Classify Skills">
   Upload curriculum or course artifacts, extract raw skills, and classify them against the Lightcast Skills Taxonomy.
 
-  ** APIs Used**
-  * Authentication
-  * Classification
-	** Python Example**
+**APIs Used**
 
+* Authentication
+* Classification
 
+**Python Example**
+
+   
 </Accordion>
