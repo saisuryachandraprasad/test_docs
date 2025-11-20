@@ -60,6 +60,17 @@ Our APIs help your institution make data-driven program decisions. Use labor-mar
 <Accordion title="Classify Skills">
   Upload curriculum or course artifacts, extract raw skills, and classify them against the Lightcast Skills Taxonomy.
 
+  **APIs Used**
+
+  * Authentication
+  * Classification
+
+  **Python Example**
+</Accordion>
+
+<Accordion title="Map CIPs to Occupations">
+  Select a Classification of Instructional Programs (CIP) code and map it to Lightcast Occupational Taxonomy (LOT) or Standard Occupational Classification (SOC) versions.
+
 **APIs Used**
 
 * Authentication
@@ -67,5 +78,5 @@ Our APIs help your institution make data-driven program decisions. Use labor-mar
 
 **Python Example**
 
-   
 </Accordion>
+
