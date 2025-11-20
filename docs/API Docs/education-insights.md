@@ -5,8 +5,9 @@ hidden: false
 metadata:
   robots: index
 ---
-In the modern knowledge economy, educational institutions and learner-focused organizations must stay closely aligned with evolving employer needs. When programs reflect real labor-market demand, institutions strengthen regional economies, improve learner outcomes, and become engines of workforce opportunity. Lightcast APIs provide the data foundation to build this alignment. They enable you to understand employer demand, design market-aligned programs,
-and guide learners toward careers that offer long-term prosperity.
+In the modern knowledge economy, educational institutions and learner-focused organizations must stay closely aligned with evolving employer needs. When programs reflect real labor-market demand, institutions strengthen regional economies, improve learner outcomes, and become engines of workforce opportunity. 
+
+Lightcast APIs provide the data foundation to build this alignment. They enable you to understand employer demand, design market-aligned programs, and guide learners toward careers that offer long-term prosperity.
 
 ## Employer Demand
 
@@ -155,18 +156,16 @@ Career Coach is one of the most widely adopted Lightcast products. It supports c
   * Career Coach can be deployed as a standalone widget or integrated seamlessly using APIs.
 </Callout>
 
-<Accordion title="Widget" >
+<Accordion title="Widget">
   Use Career Coach APIs directly to build a fully customized version of the widget within your platform.
 
-**APIs Used**
+  **APIs Used**
 
-* Authentication
-* Career Coach Careers
-* Career Coach Jobs
+  * Authentication
+  * Career Coach Careers
+  * Career Coach Jobs
 
-**Python Example**
-
-
+  **Python Example**
 </Accordion>
 
 <br />
