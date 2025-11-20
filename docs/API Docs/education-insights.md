@@ -115,7 +115,7 @@ Our APIs help your institution make data-driven program decisions. Use labor-mar
   **Python Example**
 </Accordion>
 
-<Accordion title="Find ROI-Boosting Skills">
+<Accordion title="Find ROI (Return on Investment)-Boosting Skills">
   Use LOT mapping to identify skills associated with the highest salary uplift.
 
   **APIs Used**
@@ -140,5 +140,25 @@ Our APIs help your institution make data-driven program decisions. Use labor-mar
   **Python Example**
 </Accordion>
 
+## Career Coach
 
+Career Coach is one of the most widely adopted Lightcast products. It supports career discovery, exploration, and academic planning on a single platform.
 
+<Callout icon="⚙️">
+  **Key capabilities**
+
+  * Interest assessments for new or undecided learners
+  * Skills assessment for learners exploring new fields
+  * Career pathways based on interests, skills, or keyword search
+  * Recommended academic programs aligned to target careers
+  * Local job postings and employer-vetted opportunities
+  * Career Coach can be deployed as a standalone widget or integrated seamlessly using APIs.
+</Callout>
+
+Use Career Coach APIs directly to build a fully customized version of the widget within your platform.
+
+**APIs Used**
+
+* Authentication
+* Career Coach Careers 
+* Career Coach Jobs
