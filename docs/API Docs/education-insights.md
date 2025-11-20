@@ -144,7 +144,7 @@ Our APIs help your institution make data-driven program decisions. Use labor-mar
 
 Career Coach is one of the most widely adopted Lightcast products. It supports career discovery, exploration, and academic planning on a single platform.
 
-<Callout icon="⚙️">
+<Callout icon="⚙️" theme="default">
   **Key capabilities**
 
   * Interest assessments for new or undecided learners
@@ -155,10 +155,18 @@ Career Coach is one of the most widely adopted Lightcast products. It supports c
   * Career Coach can be deployed as a standalone widget or integrated seamlessly using APIs.
 </Callout>
 
-Use Career Coach APIs directly to build a fully customized version of the widget within your platform.
+<Accordion title="Widget" >
+  Use Career Coach APIs directly to build a fully customized version of the widget within your platform.
 
-**APIs Used**
+**APIs Used**
 
 * Authentication
-* Career Coach Careers 
+* Career Coach Careers
 * Career Coach Jobs
+
+**Python Example**
+
+
+</Accordion>
+
+<br />
