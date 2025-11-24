@@ -5,7 +5,7 @@ hidden: false
 metadata:
   robots: index
 ---
-This dataset contains basic industry data for Canada. Historical data are available from 2001 to the current industry year and projected data from the current industry year to the last COPS projection year. Earnings data are only available through the current industry year. 'Current industry year' refers to the latest year for which more than six months of data is available from SEPH; it thus can lag behind the current calendar year. Data is available down to the Census Subdivision level.
+This dataset contains basic industry data for Canada. Historical data are available from 2001 to the current industry year and projected data from the current industry year to the last COPS projection year. Earnings data are only available through the current industry year. 'Current industry year' refers to the latest year for which more than six months of data is available from SEPH, it thus can lag behind the current calendar year. Data is available down to the Census Subdivision level.
 
 > Ready to use this data? See the Core LMI [reference documentation](/apis/core-lmi) to get started.
 
