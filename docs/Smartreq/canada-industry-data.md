@@ -341,6 +341,4 @@ Dataset URL : `https://agnitio.emsicloud.com/meta/dataset/EMSI.ca.Industry/{vers
 }
 ```
 
-## Embedded Content
-
-Feedback
+<br />
