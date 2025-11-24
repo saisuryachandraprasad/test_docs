@@ -31,13 +31,9 @@ This dataset contains basic industry data for Canada. Historical data are availa
 
 This dataset is offered via the [Core LMI API](/apis/core-lmi). The metadata for this Core LMI API dataset is below.
 
-Dataset ID
+Dataset ID : `EMSI.ca.Industry`
 
-`EMSI.ca.Industry`
-
-Dataset URL
-
-`https://agnitio.emsicloud.com/meta/dataset/EMSI.ca.Industry/{version}`
+Dataset URL : `https://agnitio.emsicloud.com/meta/dataset/EMSI.ca.Industry/{version}`
 
 ### Versions
 
