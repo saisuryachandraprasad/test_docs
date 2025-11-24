@@ -84,4 +84,16 @@ Choose the right method:
 | File-based ingestion from cloud storage | Amazon S3, Google Cloud Storage, Microsoft Azure Blob Storage       |
 | Marketplace                             | Snowflake Marketplace, Databricks Marketplace                       |
 
-<br />
+<Columns layout="auto">
+  <Column>
+    Neque porro quisquam est qui dolorem ipsum quia
+  </Column>
+
+  <Column>
+    *Lorem ipsum dolor sit amet, consectetur adipiscing elit*
+  </Column>
+  
+  <Column>
+    > Ut enim ad minim veniam, quis nostrud ullamco
+  </Column>
+</Columns>
