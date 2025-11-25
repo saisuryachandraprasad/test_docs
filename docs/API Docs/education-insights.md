@@ -54,7 +54,7 @@ Together, these tools empower learners to explore, plan, and progress-improving 
 
 Below are common scenarios demonstrating how institutions use Lightcast APIs to support curriculum development, program planning, accreditation, learner guidance, and market intelligence
 
-## Curriculum Planning
+### Curriculum Planning
 
 Our APIs help your institution make data-driven program decisions. Use labor-market demand and graduate-supply insights to identify which programs to build, update, promote, or scale. You can compare regional demand for occupations and skills with the programs you offer to uncover gaps. By tagging your programs with relevant skills, you can see where current curricula do not align with market needs and identify opportunities to adjust or repurpose existing offerings to close those gaps.
 
@@ -141,7 +141,7 @@ Our APIs help your institution make data-driven program decisions. Use labor-mar
   **Python Example**
 </Accordion>
 
-## Career Coach
+### Career Coach
 
 Career Coach is one of the most widely adopted Lightcast products. It supports career discovery, exploration, and academic planning on a single platform.
 
