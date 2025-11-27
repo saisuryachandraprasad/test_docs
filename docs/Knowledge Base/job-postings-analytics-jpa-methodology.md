@@ -93,7 +93,7 @@ The taxonomy includes metadata such as
 
 Subsidiaries are generally rolled up into the parent company unless they operate as their own brand (for example, Walmart Canada). Some brands such as **TikTok** are mapped to the parent company **ByteDance Ltd**. Hospitals may remain separate where appropriate.
 
-> You can refer ***Industry Classification*** for detailed expiation ---- cross link TBD
+> You can refer _**Industry Classification**_ for detailed expiation ---- cross link TBD
 
 ## Education Level
 
@@ -106,7 +106,7 @@ Lightcast assigns education requirements using a machine-learning model. A posti
 * PhD/Professional Degree
 * Unspecified (if not stated)
 
-> You will find detailed explanation ***here***     --------- Cross Link TBD
+> You will find detailed explanation _**here**_     --------- Cross Link TBD
 
 ## Employment Type
 
@@ -142,7 +142,7 @@ The model recognizes aliases, abbreviations, and historic names and uses context
 
 Each skill receives a confidence score, and only skills meeting quality thresholds are included.
 
-> Check out Lightcast Skills Taxonomy ***here***   -------- Cross link TBD
+> Check out Lightcast Skills Taxonomy _**here**_   -------- Cross link TBD
 
 ## Advertised Salary
 
@@ -162,7 +162,7 @@ Titles are cleaned and mapped to the Lightcast Titles Taxonomy. Complex or brand
 
 **Example**: Data Science Manager, Messenger, in Facebook job post would be normalized as **Data Science Manager**.
 
-> Check out Lightcast Title Taxonomy ***here*** ----- cross link TBD
+> Check out Lightcast Title Taxonomy _**here**_ ----- cross link TBD
 
 ## Occupations
 
