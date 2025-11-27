@@ -25,14 +25,14 @@ Because job posts often appear on many websites, removing duplicates is critical
 * **Cross-site check**: Standardized fields-job title, employer, and location are compared across 60 days of data. Matching postings found on different sites are treated as duplicates.
 
 <Accordion title="Example">
- If a company post a **Marketing Specialist** job on March 1, that is the original posting. Any matching versions found for the next 60 days count as duplicates. Even if that company reposts the job daily on multiple sites for a year, Lightcast would count it only about six times during that period.
+  If a company post a **Marketing Specialist** job on March 1, that is the original posting. Any matching versions found for the next 60 days count as duplicates. Even if that company reposts the job daily on multiple sites for a year, Lightcast would count it only about six times during that period.
 </Accordion>
 
 ## Data Curation
 
 Lightcast does not smooth posting trends. Instead, a consistent deduplication method keeps the dataset stable.
 
-A small portion of postings (about 1% each month) is removed using a proprietary tool that detects misleading or low-quality posts. 
+A small portion of postings (about 1% each month) is removed using a proprietary tool that detects misleading or low-quality posts.
 
 **Examples include**
 
@@ -51,14 +51,12 @@ Lightcast determines when a job posting is no longer active using two methods:
 For postings built from multiple matching advertisements, we track all related postings and marks the posting expired once all associated ads have expired up to a maximum of 121 days.
 
 <Accordion title="Example">
+  Posting consists of two ads:
 
-Posting consists of two ads:
+  * post 1: Posted Jan 1, expires Mar 2
+  * Post 2: Posted Mar 2, expires May 1
 
-* post 1: Posted Jan 1, expires Mar 2
-* Post 2: Posted Mar 2, expires May 1
-
-Therefore, job post is considered as **active** from **Jan 1** to **May 1**
-
+  Therefore, job post is considered as **active** from **Jan 1** to **May 1**
 </Accordion>
 
 ## Active & Newly Posted Metrics
@@ -95,9 +93,11 @@ The taxonomy includes metadata such as
 
 Subsidiaries are generally rolled up into the parent company unless they operate as their own brand (for example, Walmart Canada). Some brands such as **TikTok** are mapped to the parent company **ByteDance Ltd**. Hospitals may remain separate where appropriate.
 
+> You can refer ***Industry Classification*** for detailed expiation ---- cross link TBD
+
 ## Education Level
 
-Lightcast assigns education requirements using a machine-learning model. A posting may receive multiple education tags if several levels are mentioned. Possible values includes
+Lightcast assigns education requirements using a machine-learning model. A posting may receive multiple education tags if several levels are mentioned. Possible values include
 
 * High School/GED (General Educational Development)
 * Associate’s Degree
@@ -105,6 +105,8 @@ Lightcast assigns education requirements using a machine-learning model. A posti
 * Master’s Degree
 * PhD/Professional Degree
 * Unspecified (if not stated)
+
+> You will find detailed explanation ***here***     --------- Cross Link TBD
 
 ## Employment Type
 
@@ -125,10 +127,9 @@ We capture required years of experience when provided. If a posting does not men
 
 While scraping location details are collected as Country, state, and city. If multiple cities are listed, the first one is selected.
 
-<Accordion title="Driver" >
+<Accordion title="Driver">
   Driver Wanted in London, OH, Logan, OH, Mount Gilead, OH.
-Locatio will be considered as London, OH
-
+  Locatio will be considered as London, OH
 </Accordion>
 
 Lightcast then maps city-state pairs to counties and MSAs (Metropolitan Statistical Area) using Google geocoding and internal mapping tools.
@@ -140,6 +141,8 @@ We extract skills using the Lightcast Skills Taxonomy. On average, **13 skills**
 The model recognizes aliases, abbreviations, and historic names and uses context to ensure accuracy. For example, “AWS” could refer to “Amazon Web Services” or the “American Welding Society,” depending on surrounding text.
 
 Each skill receives a confidence score, and only skills meeting quality thresholds are included.
+
+> Check out Lightcast Skills Taxonomy ***here***   -------- Cross link TBD
 
 ## Advertised Salary
 
@@ -158,6 +161,8 @@ Jobs that require living in a specific region but not attending an office are co
 Titles are cleaned and mapped to the Lightcast Titles Taxonomy. Complex or brand-specific titles are simplified.
 
 **Example**: Data Science Manager, Messenger, in Facebook job post would be normalized as **Data Science Manager**.
+
+> Check out Lightcast Title Taxonomy ***here*** ----- cross link TBD
 
 ## Occupations
 
@@ -199,6 +204,6 @@ For example, when the skill **Generative AI Agents** was introduced in January 2
 
 This process is seamless for customers and involves no downtime.
 
-> You can explore our ***taxonomies*** and ***postings changelogs*** for details. 
+> You can explore our _**taxonomies**_ and _**postings changelogs**_ for details.      --------- Cross Link TBD
 
 <br />
