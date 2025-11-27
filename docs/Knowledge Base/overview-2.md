@@ -36,7 +36,7 @@ To ensure accuracy, Lightcast uses a two-step process that removes up to 80% of 
 
 Each posting is enhanced with standardized job titles, employer names, skills, SOC/NAICS codes, and details on required education and experience.
 
-> You can refer _**Job Postings Analytics**_ process for detailed explanation
+> You can refer _**Job Postings Analytics**_ process for detailed explanation -- cross links TBD
 
 ## Profiles
 
