@@ -7,7 +7,7 @@ metadata:
 ---
 Lightcast brings together a wide range of labor market information in one place. This includes economic, workforce, demographic, education, profile, and job posting data. The data is gathered from trusted public and private sources and is available at multiple levels-national, state, metro, county, and ZIP code.
 
-> ***Check out*** list of sources for Lightcast's data --- Cross link TBD
+> _**Check out**_ list of sources for Lightcast's data --- Cross link TBD
 
 **How Often the Data Is Updated**
 
@@ -28,15 +28,15 @@ To ensure accuracy, Lightcast uses a two-step process that removes up to 80% of 
 * **Within a single website**: The system checks whether a posting is truly new for that source and avoids collecting older copies.
 * **Across multiple websites**: The system compares fields such as job title, employer, and location over the past 60 days. If the same job appears on different sites, it’s counted once.
 
-<Accordion title="Example" icon="fa-info-circle">
-If a company posts a new “Marketing Specialist” role on March 1, we treat that version as the original. Any matching versions found for the next 60 days are considered duplicates-even if the job appears daily across many job boards.
+<Accordion title="Example" icon="fa-info-wheel">
+  If a company posts a new **Marketing Specialist** role on March 1, we treat that version as the original. Any matching versions found for the next 60 days are considered duplicates-even if the job appears daily across many job boards.
 </Accordion>
 
 **Enrichment**
 
 Each posting is enhanced with standardized job titles, employer names, skills, SOC/NAICS codes, and details on required education and experience.
 
-> You can refer ***Job Postings Analytics*** process for detailed explanation
+> You can refer _**Job Postings Analytics**_ process for detailed explanation
 
 ## Profiles
 
@@ -50,7 +50,7 @@ Lightcast maintains a large database of worker profiles—more than 100 million 
 
 We remove duplicate profiles with the help of Machine Learning algorithms and standardize titles, skills, employers, and education details. This makes the data more reliable and easier to understand.
 
-> You can get more detailed explanation on profile methodology ***here*** --- cross link TBD 
+> You can get more detailed explanation on profile methodology _**here**_ --- cross link TBD
 
 ## Industries
 
@@ -67,7 +67,7 @@ Industry data describes jobs and wages based on the type of business, such as he
 
 ABC builds 10-year industry projections by analyzing historical trends and adjusting them using national and state forecasts. Industry earnings data is not projected.
 
-> Refer ***Industry Projections Methodology*** for detailed explanation --- Link TBD
+> Refer _**Industry Projections Methodology**_ for detailed explanation --- Link TBD
 
 ## Occupations
 
@@ -85,7 +85,7 @@ Lightcast also creates a historical wage time series back to 2005 to reduce year
 
 Lightcast uses a compensation model that blends occupation-level wage data with more detailed worker profile information to estimate earnings for specific job titles and skills.
 
-> Refer ***Compensation Model for detailed explanation*** -- Cross link TBD
+> Refer _**Compensation Model for detailed explanation**_ -- Cross link TBD
 
 **Projections**: Occupation employment data is projected 10 years forward using projected industry trends. Earnings are not projected.
 
