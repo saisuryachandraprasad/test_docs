@@ -7,6 +7,18 @@ metadata:
 ---
 The Job Posting Analytics report helps you understand employer demand for specific roles and skills in any region. It shows the number of job postings, the types of jobs employers need, who is hiring, the skills and qualifications requested, and how intense demand is across local labor markets.
 
+<Callout icon="💡">
+  This article helps you quickly find answers to questions such as
+
+  * How many postings are active?
+  * What roles are in demand?
+  * Who is hiring?
+  * How intense is the hiring activity?
+  * What job titles do employers use?
+  * What qualifications do they expect?
+  * What skills are they asking for?
+</Callout>
+
 ## How to Use the Report
 
 Start by choosing a region county, metro area (MSA), state, or national.
@@ -63,7 +75,7 @@ The median advertised salary was $134.7K, slightly above typical earnings for th
 
 The map highlights posting activity across counties in your selected region. In the Seattle MSA, King County accounts for
 
- most unique postings between May 2022 and April 2023.
+most unique postings between May 2022 and April 2023.
 
 <Image border={false} />
 
@@ -91,7 +103,7 @@ Trend charts display historical posting activity. You can view
 * The most recent 30 days
 * Year-over-year comparisons
 
-Hovering over any point shows how many postings were active on that date in both the current year and the earliest 
+Hovering over any point shows how many postings were active on that date in both the current year and the earliest
 
 year in your selected range.
 
@@ -119,7 +131,7 @@ This section compares monthly posting activity to actual hires from the Quarterl
 
 While postings show employer demand, hires show how many positions were actually filled. It’s common especially in
 
- healthcare and IT for postings to exceed hires significantly.
+healthcare and IT for postings to exceed hires significantly.
 
 **Example**: Employers posted nearly 300 PA jobs per month, but only about 40 were hired.
 
@@ -166,10 +178,10 @@ For Physician Assistants, Nurse Practitioner credentials appear most often, even
 
 Qualifications represent third-party credentials such as licenses or professional certifications that validate specific skills or
 
- competencies.
+competencies.
 
 <Image border={false} />
 
-We hope this article provides the insights you need. If you have questions, please reach out to our ***customer service team***.  -----Cross link TBD
+We hope this article provides the insights you need. If you have questions, please reach out to our _**customer service team**_.  -----Cross link TBD
 
 <br />
