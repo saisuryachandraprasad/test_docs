@@ -28,7 +28,7 @@ To ensure accuracy, Lightcast uses a two-step process that removes up to 80% of 
 * **Within a single website**: The system checks whether a posting is truly new for that source and avoids collecting older copies.
 * **Across multiple websites**: The system compares fields such as job title, employer, and location over the past 60 days. If the same job appears on different sites, it’s counted once.
 
-<Accordion title="Example" icon="fa-info-wheel">
+<Accordion title="Example">
   If a company posts a new **Marketing Specialist** role on March 1, we treat that version as the original. Any matching versions found for the next 60 days are considered duplicates-even if the job appears daily across many job boards.
 </Accordion>
 
