@@ -78,7 +78,7 @@ Lightcast uses a broad set of public and private data sources to create comprehe
 
   * Integrated Postsecondary Education Data System (IPEDS)
   * Common Core of Data
-  * CIP–SOC Crosswalks (Classification of Instructional Programs mapped to Standard Occupational Classification)
+  * CIP-SOC Crosswalks (Classification of Instructional Programs mapped to Standard Occupational Classification)
 </Accordion>
 
 <Accordion title="Department of Health and Human Services">
@@ -94,15 +94,15 @@ Lightcast uses a broad set of public and private data sources to create comprehe
 </Accordion>
 
 <Accordion title="Railroad Retirement Board">
-  * Railroad Retirement Act and Railroad Unemployment Insurance Act Statistical Tables 
+  * Railroad Retirement Act and Railroad Unemployment Insurance Act Statistical Tables
 </Accordion>
 
 <Accordion title="Oak Ridge National Laboratory">
-  * County-to-County Distance Matrix (Skim Tree)
+  * County to County Distance Matrix (Skim Tree)
 </Accordion>
 
 <Accordion title="Private Data Sources">
-  * Business-level data from DatabaseUSA
+  * Business level data from DatabaseUSA
 </Accordion>
 
 <Accordion title="State-Level Sources">
@@ -116,10 +116,6 @@ Lightcast uses a broad set of public and private data sources to create comprehe
 <Accordion title="Socail Profiles">
   Lightcast uses professional social profiles and other publicly available online information.Due to confidentiality and licensing agreements, we cannot publish a detailed list of specific profile data sources.
 </Accordion>
-
-
-
-
 
 <br />
 
