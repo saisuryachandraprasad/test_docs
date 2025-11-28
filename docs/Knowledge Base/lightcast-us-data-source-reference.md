@@ -105,6 +105,20 @@ Lightcast uses a broad set of public and private data sources to create comprehe
   * Business-level data from DatabaseUSA
 </Accordion>
 
+<Accordion title="State-Level Sources">
+  * All 50 states contribute state produced industry projections, used to refine Lightcast's forward-looking models.
+</Accordion>
+
+<Accordion title="Job Postings">
+  Lightcast collects job postings from over 220,000 active and historical sources, including job boards and employer websites. These postings provide a real-time view of labor market demand.
+</Accordion>
+
+<Accordion title="Socail Profiles">
+  Lightcast uses professional social profiles and other publicly available online information.Due to confidentiality and licensing agreements, we cannot publish a detailed list of specific profile data sources.
+</Accordion>
+
+
+
 
 
 <br />
