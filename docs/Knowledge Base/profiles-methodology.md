@@ -7,7 +7,7 @@ metadata:
 ---
 Lightcast Profile Analytics is built from individual profiles representing more than 331 million workers worldwide. Profiles
 
- typically include a person’s location, work history, education, and skills. Some profiles also contain contact details such
+typically include a person’s location, work history, education, and skills. Some profiles also contain contact details such
 
 as names, phone numbers, and email addresses, but these are never provided in bulk to Lightcast users.
 
