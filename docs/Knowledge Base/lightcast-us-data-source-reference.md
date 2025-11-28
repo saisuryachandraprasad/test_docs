@@ -86,37 +86,8 @@ Lightcast uses a broad set of public and private data sources to create comprehe
 
   * Health, United States
 
-  **Postal Service**
-
-  * Address Information Systems (AIS) Products and Delivery Statistics
-  * AIS 5-Digit ZIP Product
-  * AIS City-State Product
-
-  **Railroad Retirement Board**
-
-  * Railroad Retirement Act and Railroad Unemployment Insurance Act Statistical Tables
-
-  **Oak Ridge National Laboratory**
-
-  * County to County Distance Matrix (Skim Tree)
-
-  **Private Data Sources**
-
-  * Business-level data from Database USA
-
-  **State-Level Sources**
-
-  All 50 states contribute state produced industry projections, used to refine our forward-looking models.
-
-  **Job Postings**
-
-  Lightcast collects job postings from over 220,000 active and historical sources, including job boards and employer websites. These postings provide a real-time view of labor market demand.
-
-  **Social Profiles**
-
-  Lightcast uses professional social profiles and other publicly available online information.
-  Due to confidentiality and licensing agreements, we cannot publish a detailed list of specific profile data sources.
 </Accordion>
+
 
 <br />
 
