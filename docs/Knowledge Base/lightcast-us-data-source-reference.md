@@ -50,7 +50,29 @@ Lightcast uses a broad set of public and private data sources to create comprehe
 
 <Accordion title="Department of Labor" >
 
- 
+## Bureau of Labor Statistics (BLS)
+
+* Quarterly Census of Employment and Wages (QCEW)
+* Current Employment Statistics (CES)
+* Local Area Unemployment Statistics (LAUS)
+* National Industry–Occupation Employment Matrix
+* Occupational Employment Statistics (OES)
+* Occupational Education and Training Projections
+
+**Employment and Training Administration (ETA)**
+
+* Characteristics of the Insured Unemployed (CIU)
+
+**Occupational Information Network (O*NET)**
+
+* O*NET Database (updated per datarun)
+* Licensed under Creative Commons Attribution 4.0
+
+**Wage and Hour Division**
+
+* Minimum Wage Laws in the United States
+
+
 </Accordion>
 
 <br />
