@@ -64,7 +64,7 @@ Lightcast uses a broad set of public and private data sources to create comprehe
 
   **Occupational Information Network (O\*NET)**
 
-  * O\*NET Database (updated per datarun) --- Cross link to Origninal source TBD
+  * O\*NET Database (updated per datarun) --- Cross link to Origninal source & chart TBD
 
   * ***Licensed*** under Creative Commons Attribution 4.0 --- Cross link TBD
 
