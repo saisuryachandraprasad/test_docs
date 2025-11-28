@@ -88,30 +88,10 @@ Lightcast uses a broad set of public and private data sources to create comprehe
 </Accordion>
 
 <Accordion title="Postal Service">
-
   * Address Information Systems (AIS) Products and Delivery Statistics
   * AIS 5-Digit ZIP Product
-	* AIS City–State Product
+  * AIS City–State Product
 </Accordion>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <br />
 
