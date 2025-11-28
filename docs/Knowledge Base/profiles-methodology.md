@@ -5,9 +5,15 @@ hidden: false
 metadata:
   robots: index
 ---
-Lightcast Profile Analytics is built from individual profiles representing more than 331 million workers worldwide. Profiles typically include a person’s location, work history, education, and skills. Some profiles also contain contact details such as names, phone numbers, and email addresses, but these are never provided in bulk to Lightcast users.
+Lightcast Profile Analytics is built from individual profiles representing more than 331 million workers worldwide. Profiles
 
-Profile data offers detailed insights into worker skills, career pathways, alumni outcomes, company workforce characteristics, and more.
+ typically include a person’s location, work history, education, and skills. Some profiles also contain contact details such
+
+as names, phone numbers, and email addresses, but these are never provided in bulk to Lightcast users.
+
+Profile data offers detailed insights into worker skills, career pathways, alumni outcomes, company workforce 
+
+characteristics, and more.
 
 ## Data Sources
 
@@ -17,7 +23,7 @@ Because of confidentiality and licensing requirements, Lightcast cannot publish 
 
 ### Standardization
 
-All incoming profile data is converted into a consistent format. This step makes matching and analysis possible and 
+All incoming profile data is converted into a consistent format. This step makes matching and analysis possible and
 
 ensures fields missing from one source don’t conflict with fields from another.
 
@@ -25,7 +31,7 @@ ensures fields missing from one source don’t conflict with fields from another
 
 Lightcast receives profiles from many different sources. To determine whether two profiles belong to the same person,
 
-we use combinations of strongly identifying fields such as 
+we use combinations of strongly identifying fields such as
 
 * Name + email
 * Name + phone number
@@ -77,7 +83,7 @@ can apply the Profile Recency filter to view profiles updated within a specific 
 
 ### Skills
 
-Lightcast maintains a library of more than 34,000 skills. A context-aware tool extracts skills from profile text, including 
+Lightcast maintains a library of more than 34,000 skills. A context-aware tool extracts skills from profile text, including
 
 synonyms and variations.
 
