@@ -5,15 +5,9 @@ hidden: false
 metadata:
   robots: index
 ---
-Lightcast Profile Analytics is built from individual profiles representing more than 331 million workers worldwide. Profiles
+Lightcast Profile Analytics is built from individual profiles representing more than 331 million workers worldwide. Profilestypically include a person’s location, work history, education, and skills. Some profiles also contain contact details such as names, phone numbers, and email addresses, but these are never provided in bulk to Lightcast users.
 
-typically include a person’s location, work history, education, and skills. Some profiles also contain contact details such
-
-as names, phone numbers, and email addresses, but these are never provided in bulk to Lightcast users.
-
-Profile data offers detailed insights into worker skills, career pathways, alumni outcomes, company workforce 
-
-characteristics, and more.
+Profile data offers detailed insights into worker skills, career pathways, alumni outcomes, company workforce characteristics, and more.
 
 ## Data Sources
 
@@ -23,31 +17,21 @@ Because of confidentiality and licensing requirements, Lightcast cannot publish 
 
 ### Standardization
 
-All incoming profile data is converted into a consistent format. This step makes matching and analysis possible and
-
-ensures fields missing from one source don’t conflict with fields from another.
+All incoming profile data is converted into a consistent format. This step makes matching and analysis possible and ensures fields missing from one source don’t conflict with fields from another.
 
 ### Profile Matching
 
-Lightcast receives profiles from many different sources. To determine whether two profiles belong to the same person,
-
-we use combinations of strongly identifying fields such as
+Lightcast receives profiles from many different sources. To determine whether two profiles belong to the same person, we use combinations of strongly identifying fields such as
 
 * Name + email
 * Name + phone number
 * Online profile URLs
 
-Matched profiles are grouped into a single person record. The matching process prioritizes accuracy over catching every
-
-duplicate.
+Matched profiles are grouped into a single person record. The matching process prioritizes accuracy over catching every duplicate.
 
 ### Field Merging
 
-Once a person’s profiles are grouped, Lightcast merges their data elements such as jobs, education entries, or locations
-
-into a single, complete profile. Custom similarity checks help identify and remove duplicates within the group, so each
-
-field appears only once.
+Once a person’s profiles are grouped, Lightcast merges their data elements such as jobs, education entries, or locations into a single, complete profile. Custom similarity checks help identify and remove duplicates within the group, so each field appears only once.
 
 ### Normalization
 
@@ -69,9 +53,7 @@ Lightcast uses Google Geocoding to standardize profile locations to city, state 
 * **Job Title**: Mapped to Lightcast Job Titles taxonomy.
 * **Occupation (O*NET/SOC)**: Assigned using job titles and job description text.
 
-If a person lists multiple past roles, each job history entry is normalized and included. For U.S. and Canada profiles, users
-
-can apply the Profile Recency filter to view profiles updated within a specific timeframe.
+If a person lists multiple past roles, each job history entry is normalized and included. For U.S. and Canada profiles, users can apply the Profile Recency filter to view profiles updated within a specific timeframe.
 
 ### Education History
 
@@ -83,9 +65,7 @@ can apply the Profile Recency filter to view profiles updated within a specific 
 
 ### Skills
 
-Lightcast maintains a library of more than 34,000 skills. A context-aware tool extracts skills from profile text, including
-
-synonyms and variations.
+Lightcast maintains a library of more than 34,000 skills. A context-aware tool extracts skills from profile text, including synonyms and variations.
 
 > You can explore our Skills Taxonomy here   ----- Cross Link TBD
 
@@ -98,6 +78,4 @@ After all processing, we remove profiles that cannot be reliably used. Profiles 
 * The profile is older than January 1, 2018
 * The primary language is not English or Spanish
 
-This ensures consistency and improves data quality across all products. For Alumni Outcomes and GoRecruit, Lightcast
-
-matches institutional data to this filtered and normalized profile dataset.
+This ensures consistency and improves data quality across all products. For Alumni Outcomes and GoRecruit, Lightcast matches institutional data to this filtered and normalized profile dataset.
