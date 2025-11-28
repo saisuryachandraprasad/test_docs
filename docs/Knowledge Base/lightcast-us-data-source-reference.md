@@ -48,84 +48,81 @@ Lightcast uses a broad set of public and private data sources to create comprehe
     * Work Area Characteristics (WAC)
 </Accordion>
 
-<Accordion title="Department of Labor" >
+<Accordion title="Department of Labor">
+  ## Bureau of Labor Statistics (BLS)
 
-## Bureau of Labor Statistics (BLS)
+  * Quarterly Census of Employment and Wages (QCEW)
+  * Current Employment Statistics (CES)
+  * Local Area Unemployment Statistics (LAUS)
+  * National Industry–Occupation Employment Matrix
+  * Occupational Employment Statistics (OES)
+  * Occupational Education and Training Projections
 
-* Quarterly Census of Employment and Wages (QCEW)
-* Current Employment Statistics (CES)
-* Local Area Unemployment Statistics (LAUS)
-* National Industry–Occupation Employment Matrix
-* Occupational Employment Statistics (OES)
-* Occupational Education and Training Projections
+  **Employment and Training Administration (ETA)**
 
-**Employment and Training Administration (ETA)**
+  * Characteristics of the Insured Unemployed (CIU)
 
-* Characteristics of the Insured Unemployed (CIU)
+  **Occupational Information Network (O\*NET)**
 
-**Occupational Information Network (O*NET)**
+  * O\*NET Database (updated per datarun)
+  * ***Licensed*** under Creative Commons Attribution 4.0 --- Cross link TBD
+  
+  
 
-* O*NET Database (updated per datarun)
-* Licensed under Creative Commons Attribution 4.0
 
-**Wage and Hour Division**
+  
 
-* Minimum Wage Laws in the United States
 
+  **Wage and Hour Division**
+
+  * Minimum Wage Laws in the United States
 </Accordion>
 
-<Accordion title="Department of Education" >
+<Accordion title="Department of Education">
+  **National Center for Education Statistics (NCES)**
 
-**National Center for Education Statistics (NCES)**
-
-* Integrated Postsecondary Education Data System (IPEDS)
-* Common Core of Data
-* CIP–SOC Crosswalks (Classification of Instructional Programs mapped to Standard Occupational Classification)
-
+  * Integrated Postsecondary Education Data System (IPEDS)
+  * Common Core of Data
+  * CIP–SOC Crosswalks (Classification of Instructional Programs mapped to Standard Occupational Classification)
 </Accordion>
 
-<Accordion title="Department of Health and Human Services" >
+<Accordion title="Department of Health and Human Services">
+  **National Center for Health Statistics**
 
-**National Center for Health Statistics**
+  * Health, United States
 
-* Health, United States
+  **Postal Service**
 
-**Postal Service**
+  * Address Information Systems (AIS) Products and Delivery Statistics
+  * AIS 5-Digit ZIP Product
+  * AIS City-State Product
 
-* Address Information Systems (AIS) Products and Delivery Statistics
-* AIS 5-Digit ZIP Product
-* AIS City-State Product
+  **Railroad Retirement Board**
 
-**Railroad Retirement Board**
+  * Railroad Retirement Act and Railroad Unemployment Insurance Act Statistical Tables
 
-* Railroad Retirement Act and Railroad Unemployment Insurance Act Statistical Tables
+  **Oak Ridge National Laboratory**
 
-**Oak Ridge National Laboratory**
+  * County to County Distance Matrix (Skim Tree)
 
-* County to County Distance Matrix (Skim Tree)
+  **Private Data Sources**
 
-**Private Data Sources**
+  * Business-level data from Database USA
 
-* Business-level data from Database USA
+  **State-Level Sources**
 
-**State-Level Sources**
+  All 50 states contribute state produced industry projections, used to refine our forward-looking models.
 
-All 50 states contribute state produced industry projections, used to refine our forward-looking models.
+  **Job Postings**
 
-**Job Postings**
+  Lightcast collects job postings from over 220,000 active and historical sources, including job boards and employer websites. These postings provide a real-time view of labor market demand.
 
-Lightcast collects job postings from over 220,000 active and historical sources, including job boards and employer websites. These postings provide a real-time view of labor market demand.
+  **Social Profiles**
 
-**Social Profiles**
-
-Lightcast uses professional social profiles and other publicly available online information.
-Due to confidentiality and licensing agreements, we cannot publish a detailed list of specific profile data sources.
-
+  Lightcast uses professional social profiles and other publicly available online information.
+  Due to confidentiality and licensing agreements, we cannot publish a detailed list of specific profile data sources.
 </Accordion>
 
 <br />
-
-
-
 
 <br />
