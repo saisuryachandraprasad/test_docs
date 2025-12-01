@@ -1,5 +1,5 @@
 ---
-title: Profile Counts Changes
+title: Profile Count Changes
 deprecated: false
 hidden: false
 metadata:
