@@ -7,30 +7,84 @@ metadata:
 ---
 In Lightcast data, skills represent competencies, knowledge areas, or tools that individuals gain through education or experience. Skills are grouped into several types, each describing a different aspect of what workers know or can do.
 
-**Specialized Skills**
+<Table align={["left","left","left"]}>
+  <thead>
+    <tr>
+      <th style={{ textAlign: "left" }}>
+        Type
+      </th>
 
-Specialized Skills are technical abilities used mainly within specific occupations or for performing defined tasks.
+      <th style={{ textAlign: "left" }}>
+        Description
+      </th>
 
-**Examples**: NumPy, Hotel Management.
+      <th style={{ textAlign: "left" }}>
+        Example
+      </th>
+    </tr>
+  </thead>
 
-> These are often referred to as hard skills or technical skills.
+  <tbody>
+    <tr>
+      <td style={{ textAlign: "left" }}>
+        **Specialized Skills**
+      </td>
 
-**Common Skills**
+      <td style={{ textAlign: "left" }}>
+        Specialized Skills are technical abilities used mainly within specific occupations or for performing defined tasks.  
 
-Common Skills appear across many occupations and industries. They include personal attributes as well as learned abilities.
+        > *These are often referred to as hard skills or technical skills*.
+      </td>
 
-**Examples**: Communication, Microsoft Excel.
+      <td style={{ textAlign: "left" }}>
+        NumPy, Hotel Management.
+      </td>
+    </tr>
 
-> These are often called soft skills, human skills, or competencies.
+    <tr>
+      <td style={{ textAlign: "left" }}>
+        **Common Skills**
+      </td>
 
-**Software Skills**
+      <td style={{ textAlign: "left" }}>
+        Common Skills appear across many occupations and industries. They include personal attributes as well as learned abilities.   
 
-Software Skills refer to any software tool, programming language, or digital system used to perform job tasks.
+        > *These are often called soft skills, human skills, or competencies*.
+      </td>
 
-**Examples**: Python, Workday, AutoCAD, React.js, 3D Modeling Software.
+      <td style={{ textAlign: "left" }}>
+        Communication, Microsoft Excel.
+      </td>
+    </tr>
 
-**Certifications**
+    <tr>
+      <td style={{ textAlign: "left" }}>
+        **Software Skills**
+      </td>
 
-Certifications are formal qualifications awarded by industry, education, or regulatory bodies.
+      <td style={{ textAlign: "left" }}>
+        Software Skills refer to any software tool, programming language, or digital system used to perform job tasks.
+      </td>
 
-**Examples**: Cosmetology License, Certified Cytotechnologist.
+      <td style={{ textAlign: "left" }}>
+        Python, Workday, AutoCAD, React.js, 3D Modeling Software.
+      </td>
+    </tr>
+
+    <tr>
+      <td style={{ textAlign: "left" }}>
+        **Certifications**
+      </td>
+
+      <td style={{ textAlign: "left" }}>
+        Certifications are formal qualifications awarded by industry, education, or regulatory bodies.
+      </td>
+
+      <td style={{ textAlign: "left" }}>
+        Cosmetology License, Certified Cytotechnologist.
+      </td>
+    </tr>
+  </tbody>
+</Table>
+
+<br />
