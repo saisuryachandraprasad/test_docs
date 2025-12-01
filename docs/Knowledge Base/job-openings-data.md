@@ -95,3 +95,5 @@ For any aggregated region or range of years
 
 * Total growth will always be equal to or greater than net job change.
 * This ensures job openings reflect genuine labor demand rather than masking local opportunities.
+
+<br />
