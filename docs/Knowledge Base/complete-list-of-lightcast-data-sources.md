@@ -102,7 +102,4 @@ Below is a summary of the major sources used across the United States, Canada, a
   * Industry projections published by all 50 states
 </Accordion>
 
-
-
-
-
+## Canada Data Sources
