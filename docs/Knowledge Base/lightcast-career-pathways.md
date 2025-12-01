@@ -15,6 +15,8 @@ Career Pathways in the Lightcast Analyst platform provides an interactive view o
 
 Users begin by selecting a Focus Occupation. The tool then displays a visual map showing related occupations based on skills found in job postings.
 
+<Image border={false} />
+
 **Comparison Occupation**
 
 Users can choose a Comparison Occupation from the chart to explore
@@ -24,6 +26,8 @@ Users can choose a Comparison Occupation from the chart to explore
 * Possible career transitions
 
 This helps identify practical next steps or alternative talent pools.
+
+<Image border={false} />
 
 ## Career Path Types
 
@@ -46,13 +50,13 @@ Career Pathways helps users explore two major categories of related occupations
 
 Roles a worker can move into from the focus occupation.
 
-*Example* A workforce agency helping job seekers understand which skills they need to advance—or helping employers identify internal skill gaps and build training programs.
+_Example_ A workforce agency helping job seekers understand which skills they need to advance—or helping employers identify internal skill gaps and build training programs.
 
 **Feeder Jobs**
 
 Roles that commonly feed talent into the focus occupation.
 
-*Example*: A company hiring Business Development Specialists can find alternative talent pools with similar skills, widening their recruitment strategy.
+_Example_: A company hiring Business Development Specialists can find alternative talent pools with similar skills, widening their recruitment strategy.
 
 ## Skill Insights
 
@@ -63,7 +67,9 @@ Career Pathways provides deeper skill-level analysis to support transitions betw
 These are the most important skills needed to move from the focus occupation to the comparison occupation.
 They are ranked by an Importance Score, highlighting where workers should focus their upskilling efforts.
 
-*Example*: Transitioning from Market Research Analyst to Marketing Manager highlights the growing importance of strategic and leadership skills.
+_Example_: Transitioning from Market Research Analyst to Marketing Manager highlights the growing importance of strategic and leadership skills.
+
+<Image border={false} />
 
 ## Skill Gaps
 
@@ -71,9 +77,10 @@ Skill gaps compare the frequency of skills mentioned in postings for both occupa
 
 Lightcast provides skill gaps across
 
-* Specialized skills
-* Common skills
-* Software skills
+* Specialized skills    ----- cross link TBD
+* Common skills      ----- cross link TBD
+* Software skills      ----- cross link TBD
+* <Image border={false} />
 
 ## Why Career Pathways Matters
 
