@@ -105,91 +105,73 @@ Below is a summary of the major sources used across the United States, Canada, a
 ## Canada Sources
 
 <Accordion title="Canadian Business Patterns (CBP)">
-
-* Establishment Counts by Industry, CSD
-* Location Counts by Industry, CSD
-
+  * Establishment Counts by Industry, CSD
+  * Location Counts by Industry, CSD
 </Accordion>
 
 <Accordion title="Census and National Household Survey">
+  * Workplace-Based: Earnings by Class of Worker, Industry, CD
+  * Workplace-Based: Employment by Class of Worker, Industry, CSD
+  * Workplace-Based: Employment by Class of Worker, Industry, Occupation, Province
 
-* Workplace-Based: Earnings by Class of Worker, Industry, CD
-* Workplace-Based: Employment by Class of Worker, Industry, CSD
-* Workplace-Based: Employment by Class of Worker, Industry, Occupation, Province
-
-> Recorded years: 2001, 2006, 2011, 2016
-
+  > Recorded years: 2001, 2006, 2011, 2016
 </Accordion>
 
 <Accordion title="Survey of Employment, Payrolls and Hours (SEPH)">
-
-* Annual Employment by Industry, Province/Territory
-* Annual Weekly Earnings by Industry, Province/Territory
-* Monthly Employment by Industry, Province/Territory
-* Monthly Weekly Earnings by Industry, Province/Territory
-
+  * Annual Employment by Industry, Province/Territory
+  * Annual Weekly Earnings by Industry, Province/Territory
+  * Monthly Employment by Industry, Province/Territory
+  * Monthly Weekly Earnings by Industry, Province/Territory
 </Accordion>
 
 <Accordion title="Labor Force Survey">
-
-* Annual Employment by Occupation, Class of Worker, Economic Region
-* Annual Employment by Industry, Economic Region
-* Annual Employment/Earnings (two-year rolling averages), Occupation, Employees, Economic Region
-
+  * Annual Employment by Occupation, Class of Worker, Economic Region
+  * Annual Employment by Industry, Economic Region
+  * Annual Employment/Earnings (two-year rolling averages), Occupation, Employees, Economic Region
 </Accordion>
 
 <Accordion title="Canadian Occupational Projection System (COPS)">
-
-* Industry Employment Projections, Canada
-* Occupation Employment Projections, Canada
-
+  * Industry Employment Projections, Canada
+  * Occupation Employment Projections, Canada
 </Accordion>
 
 <Accordion title="Demographics">
-
-* CANSIM 17-10-0084-01 Historic Age/Gender, CD
-* CANSIM 17-10-0085-01 Historic Population Components, CD
-* CANSIM 17-10-0057-01 Projected Age/Gender, Province/Territory
-* CANSIM 13-10-0418-01 Fertility Rates
-* CANSIM 13-10-0710-01 Death Rates
-
+  * CANSIM 17-10-0084-01 Historic Age/Gender, CD
+  * CANSIM 17-10-0085-01 Historic Population Components, CD
+  * CANSIM 17-10-0057-01 Projected Age/Gender, Province/Territory
+  * CANSIM 13-10-0418-01 Fertility Rates
+  * CANSIM 13-10-0710-01 Death Rates
 </Accordion>
 
 <Accordion title="Postsecondary Student Information System (PSIS)">
-
-* Enrollments and Completions by Award Level, Program, Institution, CSD
-
+  * Enrollments and Completions by Award Level, Program, Institution, CSD
 </Accordion>
 
 ## UK Sources
 
 <Accordion title="Office of National Statistics (ONS)">
-
-* Business Register Employment Survey (BRES)
-* Workforce Jobs Series (WJS)
-* Annual Survey of Hours & Earnings (ASHE)
-* Annual Population Survey (APS)
-* Labour Force Survey (LFS and MicroLFS)
-* Mid-Year Population Estimates
-* Sub-National Population Projections
-* Census (England, Wales, Scotland: 2001, 2006, 2011)
-* Annual Business Survey / Annual Business Inquiry (ABS/ABI)
-* Business Counts
-
+  * Business Register Employment Survey (BRES)
+  * Workforce Jobs Series (WJS)
+  * Annual Survey of Hours & Earnings (ASHE)
+  * Annual Population Survey (APS)
+  * Labour Force Survey (LFS and MicroLFS)
+  * Mid-Year Population Estimates
+  * Sub-National Population Projections
+  * Census (England, Wales, Scotland: 2001, 2006, 2011)
+  * Annual Business Survey / Annual Business Inquiry (ABS/ABI)
+  * Business Counts
 </Accordion>
 
-<Accordion title="Additional Sources" icon="fa-info-circle">
-
-* National Records of Scotland (NRS)
-* National Statistics Wales (NSW)
-* DEFRA (Environment, Food & Rural Affairs)
-* Department for Education
-* Higher Education Statistics Agency
-* Jobcentre Plus Claimant Counts
-* Industry legacy data
-* ABC projections
-* O*NET
-
+<Accordion title="Additional Sources">
+  * National Records of Scotland (NRS)
+  * National Statistics Wales (NSW)
+  * DEFRA (Environment, Food & Rural Affairs)
+  * Department for Education
+  * Higher Education Statistics Agency
+  * Jobcentre Plus Claimant Counts
+  * Industry legacy data
+  * ABC projections
+  * O\*NET
 </Accordion>
 
 ## Job Postings
