@@ -17,7 +17,7 @@ The sections below explain how both components are calculated.
 
 ## Replacement Jobs
 
-Replacement demand comes from Lightcast job counts, and National occupation specific separation rates from the ***BLS Employment Projections program***. ---- Cross link TBD
+Replacement demand comes from Lightcast job counts, and National occupation specific separation rates from the _**BLS Employment Projections program**_. ---- Cross link TBD
 
 **What Separations Include**
 
@@ -78,10 +78,14 @@ At the state level, growth appears to be 300. But when calculated separately for
 
 If only state level net growth is used, County 1’s opportunities are hidden behind County 2’s losses.
 
+<Image border={false} />
+
 The correct method is to
 
 1. Compute net new growth at the lowest level (e.g, county)
 2. Sum the positive values across areas
+
+<Image border={false} />
 
 Using this approach, the total becomes 1,000 rather than 300 accurately showing the opportunity available across counties.
 
