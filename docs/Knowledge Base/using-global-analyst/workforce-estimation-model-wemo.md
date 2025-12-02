@@ -9,7 +9,7 @@ metadata:
 
 Lightcast estimates workforce size by region and occupation within the Global dataset, available in Talent Analyst and through the API. These estimates are produced using the proprietary **Workforce Estimation Model** (WEMo).
 
-WEMo integrates multiple ***government data*** sources and labor market patterns derived from ***job postings** to generate detailed, globally comparable talent pool estimates.     ----- cross link TBD
+WEMo integrates multiple _**government data**_ sources and labor market patterns derived from ***job postings** to generate detailed, globally comparable talent pool estimates.     ----- cross link TBD
 
 Global labor market data presents several challenges due to differences in
 
@@ -19,7 +19,7 @@ Global labor market data presents several challenges due to differences in
 * Job categories and definitions
 * Regional boundaries and classification systems
 
-WEMo applies standardized methodologies and taxonomies to address these challenges and ensure consistency across countries. A full list of supported countries is available in the Available ***Countries in Global table***. ----- cross link TBD
+WEMo applies standardized methodologies and taxonomies to address these challenges and ensure consistency across countries. A full list of supported countries is available in the Available _**Countries in Global table**_. ----- cross link TBD
 
 ## Data Sources
 
@@ -33,7 +33,7 @@ Lightcast collects workforce information from local government agencies and inte
 * **Recency**: How recently the data was collected
 * **Methodology**: Sample size, modeling practices, and reporting standards
 
-Details on the specific workforce sources used for each country are available in the ***country methodology table***. ------- cross link TBD
+Details on the specific workforce sources used for each country are available in the _**country methodology table**_. ------- cross link TBD
 
 **Job Postings Data**
 
@@ -74,7 +74,7 @@ Each LOT Specialized Occupation is linked to a corresponding 4-digit ISCO occupa
 
 Lightcast applies these ratios to the government workforce data to estimate employment counts for each LOT occupation. Results are expressed as a range (low, middle, high) to reflect the confidence level.
 
-*Example*: Estimated Java Developers in Germany
+_Example_: Estimated Java Developers in Germany
 
 * Low: 27,018
 * Middle: 29,947
@@ -100,6 +100,6 @@ The distance value determines the confidence level
 | 4     | 0.061–0.137    | High confidence     |
 | 3     | 0.136–0.226    | Moderate confidence |
 | 2     | 0.225–0.363    | Marginal confidence |
-| 1     | */> 0.363      | Minimal confidence  |
+| 1     | \>\ 0.363      | Minimal confidence  |
 
 WEMo is designed not to generate estimates where input data is insufficient or unreliable. Some countries therefore do not produce WEMo results. A complete list of supported countries is provided in the Available Countries in Global table.
