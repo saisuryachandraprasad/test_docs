@@ -45,13 +45,13 @@ Lightcast collects job postings daily from a wide range of global sources, inclu
 
 All postings are translated and classified to enable consistent cross-country analysis. After collection, government data and job postings are mapped to shared classification systems, including
 
-* International Standard Classification of Occupations (ISCO)
-* Lightcast Occupation Taxonomy (LOT)
-* Lightcast Administrative Areas (LAA)
+* International Standard Classification of Occupations (ISCO) ----- cross link TBD
+* Lightcast Occupation Taxonomy (LOT) ----- cross link TBD
+* Lightcast Administrative Areas (LAA) ----- cross link TBD
 
 ## Methodology
 
-The following steps describe how WEMo produces workforce estimates. Note that this process excludes the creation of LOT and LAA themselves, although both are essential to WEMo.
+The following steps describe how WEMo produces workforce estimates. Note that this process excludes the creation of ***LOT** and **LAA*** themselves, although both are essential to WEMo.   --------cross link TBD
 
 **Step 1**: **Standardizing Local Taxonomies**
 
@@ -102,4 +102,4 @@ The distance value determines the confidence level
 | 2     | 0.225–0.363    | Marginal confidence |
 | 1     | > 0.363        | Minimal confidence  |
 
-WEMo is designed not to generate estimates where input data is insufficient or unreliable. Some countries therefore do not produce WEMo results. A complete list of supported countries is provided in the Available Countries in Global table.
+WEMo is designed not to generate estimates where input data is insufficient or unreliable. Some countries therefore do not produce WEMo results. A complete list of supported countries is provided in the ***Available Countries in Global table***.   ----- cross link TBD
