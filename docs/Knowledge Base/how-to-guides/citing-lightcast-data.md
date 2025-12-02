@@ -45,10 +45,7 @@ Example: John Smith, “Article Name,” Lightcast, May 2024, [lightcast.io](htt
 
 **Citing in Press & Media**
 
-For displayed data Lightcast[lightcast.io], Date retrieved
-_Example_: Lightcast, 2024
-
-For quotes or inline references _According to Lightcast[lightcast.io], a labor market analytics company…_
+For displayed data Lightcast[lightcast.io], Date retrieved _Example_: Lightcast, 2024 For quotes or inline references _According to Lightcast[lightcast.io], a labor market analytics company…_
 
 **Citing for Pre-Rebrand or Pre-Merger Data**
 
