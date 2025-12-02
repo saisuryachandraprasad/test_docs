@@ -31,11 +31,13 @@ The three projections are combined into a single forecast. A dampening factor is
 
 ## Adjustments Using External Data
 
-After creating the preliminary projection using Lightcast data, additional adjustments are applied using authoritative external sources. 
+After creating the preliminary projection using Lightcast data, additional adjustments are applied using authoritative external sources.
 
 **National Industry-Occupation Employment Matrix (NIOEM)**
 
 Lightcast aligns projections to BLS national level figures by applying the year-over-year percentage changes reflected in the NIOEM dataset.
+
+> NIOEM includes ***National Level Employment Projection Data*** as well ------ cross link TBD
 
 **State Published Long Term Industry Projections**
 
@@ -52,10 +54,10 @@ After integrating Lightcast data with national and state projections, the result
 
 <Image border={false} />
 
-<Callout icon="⚙️">
+<Callout icon="⚙️" theme="default">
   **Sources**
 
-  * BLS Quarterly Census of Employment and Wages (QCEW)
-  * National Industry–Occupation Employment Matrix (NIOEM)
-  * State industry projections (e.g., Illinois)
+  * BLS Quarterly Census of Employment and Wages (QCEW) --------- cross link TBD
+  * National Industry–Occupation Employment Matrix (NIOEM) --------- cross link TBD
+  * State industry projections (e.g., Illinois) --------- cross link TBD
 </Callout>
