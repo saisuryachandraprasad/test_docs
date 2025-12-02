@@ -96,10 +96,10 @@ The distance value determines the confidence level
 
 | Level | Distance Range | Confidence Term     |
 | :---- | :------------- | :------------------ |
-| 5     | < 0.061        | Extreme confidence  |
+| 5     | \< 0.061       | Extreme confidence  |
 | 4     | 0.061–0.137    | High confidence     |
 | 3     | 0.136–0.226    | Moderate confidence |
 | 2     | 0.225–0.363    | Marginal confidence |
-| 1     | \>\ 0.363      | Minimal confidence  |
+| 1     | > 0.363        | Minimal confidence  |
 
 WEMo is designed not to generate estimates where input data is insufficient or unreliable. Some countries therefore do not produce WEMo results. A complete list of supported countries is provided in the Available Countries in Global table.
