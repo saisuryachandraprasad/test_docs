@@ -30,7 +30,7 @@ The 10th percentile is frequently used as a proxy for entry-level wages because 
 
 Most occupations report earnings in hourly terms. For roles with annual reported earnings, Lightcast converts annual wages to hourly wages using a standard divisor of 2,080 hours (the estimated number of work hours in a full year).
 
-### What Occupation Earnings Include
+### What's Included
 
 Occupation earnings encompass a variety of income components the employer reports
 
@@ -48,7 +48,7 @@ Occupation earnings encompass a variety of income components the employer report
 * Production bonuses
 * Tips
 
-### What Occupation Earnings Exclude
+### What's Excluded
 
 Certain payments and benefits are not included in occupation earnings, such as
 
@@ -75,9 +75,9 @@ Certain payments and benefits are not included in occupation earnings, such as
 * Weekend premium pay
 * Year-end bonuses
 
-Definitions for all categories are provided in the ***OES documentation***. ----cross link TBD
+Definitions for all categories are provided in the _**OES documentation**_. ----cross link TBD
 
-<Callout icon="💡">
+<Callout icon="💡" theme="default">
   **Canada Data Sources**
 
   For Canada, occupation earnings are derived from
@@ -91,7 +91,7 @@ Definitions for all categories are provided in the ***OES documentation***. ----
 
 Lightcast's Analyst and Developer tools allow users to combine percentile earnings across occupations or regions. These combinations are generated using a proprietary occupation aggregation methodology designed to model combined wage curves more accurately than a simple weighted average.
 
-Because of this approach, manually combining percentile earnings will not match the combined figures displayed in Analyst. More details on Lightcast's percentile earnings methodology are available ***here***. ------cross link TBD
+Because of this approach, manually combining percentile earnings will not match the combined figures displayed in Analyst. More details on Lightcast's percentile earnings methodology are available _**here**_. ------cross link TBD
 
 > Lightcast's proprietary employment data, based primarily on occupational earnings reported in the OES dataset.
 
