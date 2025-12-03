@@ -24,7 +24,7 @@ Lightcast consolidates all industry data under
 * 111 (Crop Production) -> 111000
 * 112 (Animal Production) -> 112000
 
-This consolidation addresses significant data suppression in QCEW, where approximately 75% of agricultural data points for sub-national regions are unavailable. Users seeking more granularity should consult local QCEW data where available.
+This consolidation addresses significant data suppression in **QCEW**, where approximately 75% of agricultural data points for sub-national regions are unavailable. Users seeking more granularity should consult local QCEW data where available. 
 
 **Rail Transportation**
 
@@ -73,7 +73,7 @@ To align with conventions used in CES, OES, and BEA datasets, Lightcast reclassi
   * 90362 / 903622-Hospitals (Local Government)
   * 9039 / 90399 / 903999-Local Government (excluding Education and Hospitals)
 
-***Classification Examples***
+_**Classification Examples**_
 
 Under the Lightcast hierarchy
 
