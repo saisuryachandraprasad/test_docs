@@ -7,9 +7,9 @@ metadata:
 ---
 ## Overview
 
-Lightcast Global’s job postings data is sourced from a wide range of regions and platforms. While country availability varies by product, ABC maintains profile data for more than 150 countries.
+Lightcast Global’s job postings data is sourced from a wide range of regions and platforms. While country availability varies by product, Lightcastmaintains profile data for more than 150 countries.
 
-<Callout icon="⚙️">
+<Callout icon="⚙️" theme="default">
   Real time labor market insights covering more than one-third of the global workforce.
 </Callout>
 
@@ -60,7 +60,7 @@ Normalized company data ensures consistent interpretation across geographies.
 
 ## Occupations --- cross link TBD
 
-Global demand data is currently tagged using the ***Lightcast Occupation Taxonomy (LOT)***, Lightcast's proprietary, multi-level occupational framework. LOT identifies equivalent roles across employers and regions, even when job titles vary particularly important in emerging fields. --- cross link TBD
+Global demand data is currently tagged using the _**Lightcast Occupation Taxonomy (LOT)**_, Lightcast's proprietary, multi-level occupational framework. LOT identifies equivalent roles across employers and regions, even when job titles vary particularly important in emerging fields. --- cross link TBD
 
 LOT includes four hierarchical levels
 
@@ -69,8 +69,8 @@ LOT includes four hierarchical levels
 * Lightcast Occupation
 * Specialized Occupation
 
-<Callout icon="💡">
-  The previous ***Global Occupations taxonomy*** is still present but will eventually be deprecated. Users are encouraged to migrate to LOT because it is ------ cross link TBD
+<Callout icon="💡" theme="default">
+  The previous _**Global Occupations taxonomy**_ is still present but will eventually be deprecated. Users are encouraged to migrate to LOT because it is ------ cross link TBD
 
   * More granular
   * More accurate
