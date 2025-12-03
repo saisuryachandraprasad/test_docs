@@ -10,7 +10,7 @@ metadata:
 ---
 ## SOC 2021
 
-Lightcast follows the Standard Occupation Classification (SOC) structure used in the Occupational Employment and Wage Statistics (OEWS) program, which is Lightcast's primary source of occupation data. As of Spring 2022, OEWS uses SOC 2018.
+Lightcast follows the Standard Occupation Classification (SOC) structure used in the Occupational Employment and Wage Statistics (OEWS) program, which is Lightcast's primary source of occupation data. As of Spring 2022, OEWS uses ***SOC 2018***.  ---- cross link TBD
 
 Because of the deviations described below, Lightcast refers to its internal version as SOC 2021, corresponding to the first OEWS data release in which these codes appeared. The taxonomy remains aligned with the 2018 SOC System.
 
@@ -27,7 +27,7 @@ Lightcast does not use detailed SOC military codes due to limited data quality. 
 **Postsecondary Teachers**
 
 Lightcast uses a single aggregated code 25-1099 for all postsecondary teachers, replacing the 38 detailed SOC codes.
-This decision is based on insufficiently reliable data. 
+This decision is based on insufficiently reliable data.
 
 > Lightcast research on this topic is available here. -------cross link TBD
 
@@ -43,7 +43,7 @@ Following OEWS, Lightcast includes 25-3098 (Substitute Teachers).
 
 Lightcast excludes O_NET codes lacking assigned task statements, which generally correspond to All Other catchall categories.
 
-## Additional Reasons 
+## Additional Reasons
 
 Beyond the exceptions above, Lightcast SOC codes may differ from other published SOC sources due to the following
 
@@ -55,7 +55,7 @@ OEWS occasionally uses classifications that differ slightly from the official SO
 
 When OEWS reports a broad code and a detailed code with identical numeric values, Lightcast changes the detailed code’s ending from -XXX0 to -XXX8. This avoids confusion between hierarchy levels.
 
-*Examples of Lightcast SOC differences*
+_Examples of Lightcast SOC differences_
 
 | **Lightcast SOC** | **Lightcast SOC Name**                                                                               | **OEWS SOC** | **Notes on Lightcast change**                                                 |
 | ----------------- | ---------------------------------------------------------------------------------------------------- | ------------ | ----------------------------------------------------------------------------- |
