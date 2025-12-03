@@ -24,7 +24,7 @@ Lightcast consolidates all industry data under
 * 111 (Crop Production) -> 111000
 * 112 (Animal Production) -> 112000
 
-This consolidation addresses significant data suppression in **QCEW**, where approximately 75% of agricultural data points for sub-national regions are unavailable. Users seeking more granularity should consult local QCEW data where available. 
+This consolidation addresses significant data suppression in **QCEW**, where approximately 75% of agricultural data points for sub-national regions are unavailable. Users seeking more granularity should consult local QCEW data where available. ---cross link TBD (QCEW)
 
 **Rail Transportation**
 
