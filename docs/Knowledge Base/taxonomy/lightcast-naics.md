@@ -49,4 +49,45 @@ QCEW provides an ownership flag identifying establishments as private, federal, 
 
 To align with conventions used in CES, OES, and BEA datasets, Lightcast reclassifies all public-sector establishments into a dedicated Government NAICS hierarchy.
 
-<br />
+**90-Government**
+
+* Federal Government (901)
+  * 9011-Federal Government, Civilian
+  * 90114 / 901149-U.S. Postal Service
+  * 90119 / 901199-Federal Government, Civilian (excluding postal service)
+  * 9012 / 90120 / 901200-Federal Government, Military
+* State Government (902)
+  * 9026-Education and Hospitals (State Government)
+  * 90261-Education (Sate Government)
+    * 902611-Elementary and Secondary Schools
+    * 902612-Colleges, Universities, and Professional Schools
+    * 902619-Other Schools and Educational Support Services
+  * 90262 / 902622-Hospitals (State Government)
+  * 9029 / 90299 / 902999-State Government (excluding Education and Hospitals)
+* Local Government (903)
+  * 9036-Education and Hospitals (Local Government)
+  * 90361-Education (Local Government)
+    * 903611-Elementary and Secondary Schools
+    * 903612-Colleges, Universities, and Professional Schools
+    * 903619-Other Schools and Educational Support Services
+  * 90362 / 903622-Hospitals (Local Government)
+  * 9039 / 90399 / 903999-Local Government (excluding Education and Hospitals)
+
+***Classification Examples***
+
+Under the Lightcast hierarchy
+
+* A state-run sewage treatment plant appears under 902999 (**State Government**, excluding **Education** and **Hospitals**).
+* A federal court establishment, classified as 922110 in standard NAICS, appears under 901199 (**Federal Government**, **Civilian**).
+* A local community college, normally under 611210, is reclassified as 903612.
+
+## Implications
+
+Because Lightcast reclassifies all public-sector establishments under NAICS 90
+
+* The primary NAICS hierarchy (all sectors except 90) contains private-sector establishments only, including
+  * 611 Educational Services
+  * 62 Health Care and Social Assistance
+* All establishments listed under standard NAICS 92 (Public Administration) are reassigned within Lightcast's Government NAICS hierarchy.
+
+Lightcast follows this approach to maintain consistency with datasets such as CES, OES, and BEA, which apply the same classification convention.
