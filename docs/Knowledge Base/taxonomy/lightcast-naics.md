@@ -50,8 +50,18 @@ QCEW provides an ownership flag identifying establishments as private, federal, 
 To align with conventions used in CES, OES, and BEA datasets, Lightcast reclassifies all public-sector establishments into a dedicated Government NAICS hierarchy.
 
 <Accordion title="90: Government">
+  <Accordion title="901: Federal Government" />
 
-<Accordion title="901: Federal Government">
+* 9011: Federal Government, Civilian
+  * 90114: US Postal Service
+    * 901149: US Postal Service
+  * 90119: Federal Government, Civilian, excluding Postal Service
+    * 901199: Federal Government, Civilian, excluding Postal Service
+* 9012: Federal Government, Military
+  * 90120: Federal Government, Military
+    * 901200: Federal Government, Military
+
+<Accordion title="902: State Government">
  
 </Accordion>
 
