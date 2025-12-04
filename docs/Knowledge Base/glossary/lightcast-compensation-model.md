@@ -21,4 +21,4 @@ When OEWS suppresses certain percentile estimates for confidentiality reasons, L
 
 Job postings supplement OEWS data by providing wage observations tied to specific skills and certifications, which OEWS does not capture. These postings are collected from online sources and processed through Lightcast’s job-posting pipeline.
 
-> Refer job postings and compensation for more detailed explanation.
+> Refer job postings and compensation for more detailed explanation. ---- cross link TBD
