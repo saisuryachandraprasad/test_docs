@@ -53,7 +53,7 @@ Following OES methodology, Lightcast includes 25-3098 Substitute Teachers.
 
 The SOC system has evolved through several revisions. Lightcast products and federal datasets may reference different versions depending on the data year.
 
-* SOC 2018-Used in Lightcast products beginning with the 2022.4 data run.
+* **SOC 2018**-Used in Lightcast products beginning with the 2022.4 data run.
 * SOC 2017-Adopted by OES starting with 2017 data; used by Lightcast beginning 2018.3.
 * SOC 2010-Used by BLS for 2012 forward; Lightcast used this version from 2013.3 to 2018.2.
 * SOC 2010 Transitional – Used for OES 2010 and 2011 data.
