@@ -34,13 +34,6 @@ flowchart LR
 
 <br />
 
-```mermaid
-flowchart LR 
- A --- B[fa:fa-spinner B] 
- B --> C[fa:fa-check C] 
- B --> D[fa:fa-ban D]
-```
-
 ### Standardization
 
 All incoming profile data is converted into a consistent format. This step makes matching and analysis possible and ensures fields missing from one source don’t conflict with fields from another.
