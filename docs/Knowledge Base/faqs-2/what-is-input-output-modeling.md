@@ -5,7 +5,7 @@ hidden: false
 metadata:
   robots: index
 ---
-***Input-Output (I-O) modeling*** is a specialized field of economics with more than a century of history. These models are mathematically complex and traditionally explained using advanced economic concepts and applied linear algebra. ------ cross link TBD
+_**Input-Output (I-O) modeling**_ is a specialized field of economics with more than a century of history. These models are mathematically complex and traditionally explained using advanced economic concepts and applied linear algebra. ------ cross link TBD
 
 The following provides a non-technical introduction to I-O modeling and an overview of the data sources used in the Lightcast Input-Output model.
 
@@ -36,7 +36,7 @@ To produce regionalized estimates, the Lightcast model draws on a wide array of 
 
 Lightcast generates detailed industry, occupation, and demographic data at the local level. This includes jobs and earnings data, which supports the regionalization of national matrices and allows the model to disaggregate industries into finer detail than federal datasets typically provide. In particular, sales-to-jobs and earnings-to-sales ratios are crucial inputs.
 
-### BEA Data Sources
+### BEA 
 
 **Make and Use Tables (MUTs)**
 
@@ -59,13 +59,13 @@ NIPA provides broad national economic measures. Lightcast uses these data as see
 
 LPI includes the CA05 table, which details personal income and earnings by industry. It supports place of work versus place of residence adjustments and helps estimate personal income components such as transfers, dividends, interest, and rent.
 
-### BLS Data Sources
+### BLS 
 
 **Consumer Expenditure Survey (CEX)**
 
 CEX provides insights into consumer spending patterns, income characteristics, and demographic profiles. Lightcast uses CEX extensively to build national demographic by income consumption models.
 
-### Census Bureau Data Sources
+### Census Bureau 
 
 **Census of Governments (CoG)**
 
@@ -85,7 +85,7 @@ These datasets support the model’s commuting submodel, which estimates earning
 
 CPS supplies demographic ratios and income distributions used to classify households into three income categories: wages, property income, and transfers.
 
-**American Community Survey (ACS)** 
+**American Community Survey (ACS)**
 
 County to County Commuting Flows Used to supplement LODES for years or areas where LODES data is incomplete.
 
@@ -97,4 +97,4 @@ Serves as a supplemental source for filling gaps in CPS demographic data.
 
 **Oak Ridge National Laboratory (ORNL)**
 
- County-to-County Distance Matrix, This dataset contains distance and impedance measures between county centroids via highway, rail, water, or combined routes. It also includes minimum impedance paths. Lightcast uses this in its gravitational flows model, which estimates trade flows between counties.
+County-to-County Distance Matrix, This dataset contains distance and impedance measures between county centroids via highway, rail, water, or combined routes. It also includes minimum impedance paths. Lightcast uses this in its gravitational flows model, which estimates trade flows between counties.
