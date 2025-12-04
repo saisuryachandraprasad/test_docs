@@ -19,7 +19,7 @@ Because of confidentiality and licensing requirements, Lightcast cannot publish 
 
 ```mermaid
 flowchart LR 
- Standardization --- Profile[Profile Matching] 
+ Standardization ---> Profile[Profile Matching] 
  Profile Matching --> Merging[Field Merging]
  Field Merging --> Normalization[Normalization]
  Normalization --> Location[Geographic Location]
