@@ -20,17 +20,15 @@ Because of confidentiality and licensing requirements, Lightcast cannot publish 
 ```mermaid
 flowchart LR 
  Standardization ---> Profile[Profile Matching] 
- Profile Matching --> Merging[Field Merging]
- Field Merging --> Normalization[Normalization]
+ Profile --> Merging[Field Merging]
+ Merging --> Normalization[Normalization]
  Normalization --> Location[Geographic Location]
- Geographic Location --> Experience[Job History]
- Job History --> Education[Education History]
- Education History --> Skills[Skills]
+ Location --> Experience[Job History]
+ Experience --> Education[Education History]
+ Education --> Skills[Skills]
  Skills --> Profiles[Filtered Profiles]
  
 
- style ReadMe fill:#f9f,stroke:#333,stroke-width:4px
- style Mermaid fill:#bbf,stroke:#333,stroke-width:2px
 
 ```
 
