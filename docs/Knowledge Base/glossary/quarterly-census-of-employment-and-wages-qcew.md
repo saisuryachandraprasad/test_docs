@@ -15,7 +15,7 @@ These data cover the entire United States and are aggregated to
 
 * Annual levels
 * Higher industry groupings (industry groups, sectors, supersectors)
-* Higher geographic levels (***MSA***, state, national) ------ cross link TBD
+* Higher geographic levels (_**MSA**_, state, national) ------ cross link TBD
 
 **Enhancements to QCEW**
 
@@ -25,7 +25,7 @@ Lightcast produces a slightly modified version of the original BLS QCEW dataset 
 * Adjusted NAICS classifications for public-sector employment Updated to improve compatibility with other Lightcast data sources.
 * Standardized county and NAICS definitions Lightcast apply consistent definitions from 2001 forward BLS QCEW does not maintain consistent year-to-year definitions.
 
-> You can explore suppression and NAICS for detailed explanation.
+> You can explore ***suppression*** and ***NAICS*** for detailed explanation.  ---- cross link TBD
 
 **Strengths**
 
