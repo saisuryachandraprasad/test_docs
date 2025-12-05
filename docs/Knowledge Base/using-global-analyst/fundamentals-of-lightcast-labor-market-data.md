@@ -1,5 +1,5 @@
 ---
-title: '  Fundamentals of Lightcast Labor Market Data'
+title: Fundamentals of Lightcast Labor Market Data
 deprecated: false
 hidden: false
 metadata:
