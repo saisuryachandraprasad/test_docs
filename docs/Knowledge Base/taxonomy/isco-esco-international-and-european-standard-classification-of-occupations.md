@@ -34,4 +34,8 @@ The European Skills, Competences, Qualifications and Occupations (ESCO) taxonomy
 
 At the four-digit level and above, ESCO and ISCO are identical.
 
-> For more information on ISCO is check out the [ILO](https://www.ilo.org/public/english/bureau/stat/isco/) 
+> For more information on ISCO is check out the [ILO](https://www.ilo.org/public/english/bureau/stat/isco/)
+
+<Callout icon="⚙️">
+  These taxonomies are available in Spotlight on the Analyst platform.
+</Callout>
