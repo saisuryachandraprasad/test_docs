@@ -1,16 +1,18 @@
 ---
-title: Fundamentals of Lightcast Labor Market Data
+title: US - United States Methodology
 deprecated: false
 hidden: false
 metadata:
   robots: index
 ---
+## Overview
+
 Lightcast uses labor market data to connect and inform individuals, educational institutions, and employers. To support this mission, Lightcast integrates economic, labor market, demographic, and education data from dozens of government and private-sector sources. The result is a comprehensive and current database that includes officially published data as well as detailed estimates with full U.S. coverage.
 
-With Lightcast Global, data from multiple countries is aligned across geographies into an international dataset. Because each nation collects and publishes data differently, this harmonization process can reduce some granularity. For highly detailed U.S. information such as granular skills, compensation insights, or ZIP-level employment Lightcast recommends using the ***Analyst*** tool. ---- cross link TBD
+With Lightcast Global, data from multiple countries is aligned across geographies into an international dataset. Because each nation collects and publishes data differently, this harmonization process can reduce some granularity. For highly detailed U.S. information such as granular skills, compensation insights, or ZIP-level employment Lightcast recommends using the _**Analyst**_ tool. ---- cross link TBD
 
-<Callout icon="⚙️">
-   In addition to the LMI sources described here, Lightcast also provides insights through ***Global Postings*** and ***Global Worker Profiles*** in the United States.   ---- cross link TBD
+<Callout icon="⚙️" theme="default">
+  In addition to the LMI sources described here, Lightcast also provides insights through _**Global Postings**_ and _**Global Worker Profiles**_ in the United States.   ---- cross link TBD
 </Callout>
 
 ## Lightcast Data Sources
@@ -18,39 +20,33 @@ With Lightcast Global, data from multiple countries is aligned across geographie
 Lightcast draws from a wide range of federal datasets. Key sources include
 
 <Accordion title="Bureau of Labor Statistics (BLS)">
-
-* Current Employment Statistics (CES)
-* Local Area Unemployment Statistics (LAUS)
-* National Employment Projections
-* Occupational Employment Statistics (OES)
-* Quarterly Census of Employment and Wages (QCEW)
-* National Industry Occupation Employment Matrix (NIOEM)
-* Occupational Education and Training Projections
-
+  * Current Employment Statistics (CES)
+  * Local Area Unemployment Statistics (LAUS)
+  * National Employment Projections
+  * Occupational Employment Statistics (OES)
+  * Quarterly Census of Employment and Wages (QCEW)
+  * National Industry Occupation Employment Matrix (NIOEM)
+  * Occupational Education and Training Projections
 </Accordion>
 
 <Accordion title="Census Bureau">
-
-* American Community Survey (ACS)
-* County Business Patterns (CBP)
-* Current Population Survey (CPS)
-* Non-Employer Statistics (NES)
-* Quarterly Workforce Indicators (QWI)
-* TIGER/Line Map Files
-* ZIP Code Business Patterns (ZBP)
-* LEHD Origin–Destination Employment Statistics (LODES)
-* Population Estimates
-* National and State Population Projections
-* Census 2000 & 2010 Summary Files
-* Census of State & Local Governments
-
+  * American Community Survey (ACS)
+  * County Business Patterns (CBP)
+  * Current Population Survey (CPS)
+  * Non-Employer Statistics (NES)
+  * Quarterly Workforce Indicators (QWI)
+  * TIGER/Line Map Files
+  * ZIP Code Business Patterns (ZBP)
+  * LEHD Origin–Destination Employment Statistics (LODES)
+  * Population Estimates
+  * National and State Population Projections
+  * Census 2000 & 2010 Summary Files
+  * Census of State & Local Governments
 </Accordion>
 
-<Accordion title="Department of Labor, Employment and Training Administration" >
-
-* Characteristics of the Insured Unemployed (CIU)
-* O*NET Database
-
+<Accordion title="Department of Labor, Employment and Training Administration">
+  * Characteristics of the Insured Unemployed (CIU)
+  * O\*NET Database
 </Accordion>
 
 ## Occupation Data
@@ -95,7 +91,7 @@ U.S. occupation data is classified using the Standard Occupational Classificatio
 * Broad Occupations
 * Detailed Occupations
 
-Lightcast maps SOC codes to ***Global Occupations*** to support international consistency.   --- cross link TBD
+Lightcast maps SOC codes to _**Global Occupations**_ to support international consistency.   --- cross link TBD
 
 O*NET, maintained by the U.S. Department of Labor, builds on the SOC system by adding
 
