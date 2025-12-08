@@ -23,7 +23,7 @@ Employment figures represent jobs, not individual workers, since one person may 
 * Self-employed and extended proprietors are assigned to their place of residence.
 * Unpaid family workers and volunteers are excluded from all Lightcast datasets.
 
-<Callout icon="⚙️">
+<Callout icon="⚙️" theme="default">
   ## Data Sources
 
   ### United States
@@ -34,8 +34,6 @@ Employment figures represent jobs, not individual workers, since one person may 
   * Bureau of Economic Analysis (BEA) ------- cross link TBD
 
   ### Canada
-
-  Lightcast job data is based primarily on
 
   * Survey of Employment, Payrolls and Hours (SEPH) ------- cross link TBD
   * Canadian Business Patterns (CBP)
