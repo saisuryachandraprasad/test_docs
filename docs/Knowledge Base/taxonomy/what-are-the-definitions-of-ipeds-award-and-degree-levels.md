@@ -5,7 +5,7 @@ hidden: false
 metadata:
   robots: index
 ---
-IPEDS publishes completions data across a range of award and degree levels. While some are self-explanatory, others require additional clarification. The following definitions are adapted from the IPEDS Glossary for the ***Completions component.***
+IPEDS publishes completions data across a range of award and degree levels. While some are self-explanatory, others require additional clarification. The following definitions are adapted from the IPEDS Glossary for the _**Completions component.**_ ------- cross link TBD
 
 ## Associate Degree
 
@@ -25,7 +25,7 @@ A cooperative program alternates class attendance with employment in business, i
 
 A formal award certifying successful completion of a postsecondary education program.
 
-## Doctor’s Degree 
+## Doctor’s Degree
 
 A doctor’s degree that does not meet the definitions of
 
@@ -36,7 +36,7 @@ A doctor’s degree that does not meet the definitions of
 
 A doctor’s degree awarded upon completion of a program that provides the knowledge and skills required for professional licensure or practice. The total time to degree including pre-professional and professional study must equal at least 6 full-time equivalent academic years.
 
-*Examples*: D.C., D.C.M., D.D.S., D.M.D., J.D., M.D., O.D., D.O., Pharm.D., D.P.M., Pod.D., D.P., D.V.M.
+_Examples_: D.C., D.C.M., D.D.S., D.M.D., J.D., M.D., O.D., D.O., Pharm.D., D.P.M., Pod.D., D.P., D.V.M.
 
 ### Research/Scholarship
 
@@ -45,7 +45,7 @@ A Ph.D. or other doctoral award requiring advanced study beyond the master’s l
 * Preparation and defense of an original dissertation
 * An original project demonstrating significant scholarly or artistic achievement
 
-*Examples*: Ed.D., D.M.A., D.B.A., D.Sc., D.A., D.M., and others.
+_Examples_: Ed.D., D.M.A., D.B.A., D.Sc., D.A., D.M., and others.
 
 ## Master’s Degree
 
@@ -59,7 +59,7 @@ An award requiring completion of an organized program beyond the master’s degr
 
 An award requiring completion of an organized program beyond the bachelor’s level. It is intended for individuals who already hold a bachelor’s degree but does not meet the requirements of a master’s degree.
 
-<Callout icon="⚙️">
+<Callout icon="⚙️" theme="default">
   Teacher Preparation certificate programs, even when requiring a bachelor’s degree for admission, are classified as sub-baccalaureate undergraduate programs.
 </Callout>
 
