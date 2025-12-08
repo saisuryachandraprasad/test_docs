@@ -18,7 +18,9 @@ In this example, we analyze the Hospital industry within the Seattle–Tacoma–
 
 <Image border={false} />
 
-> Your region selection determines what data is available. To access the most complete dataset, choose a metropolitan statistical area (MSA).
+<Callout icon="⚙️">
+  Your region selection determines what data is available. To access the most complete dataset, choose a metropolitan statistical area (MSA).
+</Callout>
 
 <Image border={false} />
 
@@ -34,9 +36,9 @@ Earnings Per Job compares regional earnings to the national average for the same
 
 The Demand (Job Postings) summary highlights employer demand for talent in the region.
 
-> Click ***here*** to know more about Job postings ------ cross links TBD
+> Click _**here**_ to know more about Job postings ------ cross links TBD
 
-<Callout icon="⚙️">
+<Callout icon="⚙️" theme="default">
   The left-hand sidebar allows you to change industry and region selections at any time. It also includes filters for class of worker.
 </Callout>
 
@@ -56,10 +58,10 @@ This section provides diversity benchmarks for the selected industry and region.
 * **Racial Diversity**: Number of employees from racially diverse groups
 * **Gender Diversity**: Gender distribution in the industry
 
-*Availability*: County, MSA, state, and national levels
-*Not available*: City, ZIP code, census tract
+_Availability_: County, MSA, state, and national levels
+_Not available_: City, ZIP code, census tract
 
-> Lightcast proprietary employment data incorporating ***Census Quarterly Workforce Indicators*** and ***American Community Survey (ACS)***.    ----------- cross link TBD
+> Lightcast proprietary employment data incorporating _**Census Quarterly Workforce Indicators**_ and _**American Community Survey (ACS)**_.    ----------- cross link TBD
 
 ## Unemployment Rate Trends
 
@@ -132,4 +134,4 @@ This section estimates the industry’s supply-chain purchases using the Lightca
 
 <Image border={false} />
 
-> If you have additional questions, please ***contact us***. We’re always happy to support your work. --- cross link TBD
+> If you have additional questions, please _**contact us**_. We’re always happy to support your work. --- cross link TBD
