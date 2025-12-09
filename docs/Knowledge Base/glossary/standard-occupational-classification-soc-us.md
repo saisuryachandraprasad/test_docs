@@ -1,5 +1,5 @@
 ---
-title: Standard Occupational Classification (SOC) – US
+title: Standard Occupational Classification (SOC)–US
 deprecated: false
 hidden: false
 metadata:
