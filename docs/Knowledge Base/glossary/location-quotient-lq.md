@@ -12,8 +12,8 @@ A Location Quotient (LQ) measures how concentrated a particular characteristic i
 * Online profiles
 * Job postings
 
-By comparing a region’s share to the national share, the LQ highlights what makes that region distinct or unique. For a more detailed explanation, refer to Lightcast’s article on Location Quotient.
+By comparing a region’s share to the national share, the LQ highlights what makes that region distinct or unique. For a more detailed explanation, refer to Lightcast’s article on ***Location Quotient***. ------ cross link TBD
 
-<Callout icon="⚙️">
-   Source: Lightcast proprietary employment data.
+<Callout icon="⚙️" theme="default">
+  Source: Lightcast proprietary employment data.
 </Callout>
