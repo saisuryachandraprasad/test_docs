@@ -38,7 +38,7 @@ The UKSOC system was first introduced in 1990 and has undergone periodic revisio
 
 UKSOC is aligned with the International Standard Classification of Occupations (ISCO-08), sharing the same four-level structure. However, UKSOC includes additional detail specific to the UK labor market, such as granular classifications for health and social care occupations that are not present in ISCO.
 
-> Additional detail is also available through the ***ESCO taxonomy***. ----- cross link TBD
+> Additional detail is also available through the _**ESCO taxonomy**_. ----- cross link TBD
 
 **Uses of UKSOC**
 
@@ -61,4 +61,17 @@ The Office for National Statistics publishes a range of data tied to UKSOC class
 
 UKSOC codes are also used to classify responses in surveys such as the Labour Force Survey, enabling detailed analysis of employment, unemployment, and topics like the gender pay gap by occupation and industry.
 
-> More information is available on the ***ONS website***. ------ cross link TBD
+> More information is available on the _**ONS website**_. ------ cross link TBD
+
+<Accordion title="My Accordion Title" icon="fa-info-circle">
+
+Lorem ipsum dolor sit amet, **consectetur adipiscing elit.** Ut enim
+ad minim veniam, quis nostrud exercitation ullamco. Excepteur sint
+occaecat cupidatat non proident!
+
+<Recipe />
+
+<br />
+
+
+</Accordion>
