@@ -1,5 +1,5 @@
 ---
-title: How to Tailor the CIP-to-Occupation Mapping
+title: How to Tailor the CIP-Occupation Mapping
 deprecated: false
 hidden: false
 metadata:
