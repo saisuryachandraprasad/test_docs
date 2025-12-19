@@ -41,6 +41,36 @@ Dataset URL : `https://agnitio.emsicloud.com/meta/dataset/EMSI.ca.Industry/{vers
 
 `http://agnitio.emsicloud.com/meta/dataset/EMSI.ca.Industry/2025.3`
 
+<Tabs>
+  <Tab title="2025.3 ">
+    `http://agnitio.emsicloud.com/meta/dataset/EMSI.ca.Industry/2025.3`
+    #### Metrics
+```json
+[
+   {
+      "name": "Jobs.2001"
+   },
+   {
+      "name": "Jobs.2002"
+   },
+   {
+      "name": "Jobs.2003"
+    }]
+```
+
+
+
+  </Tab>
+
+  <Tab title="Second Tab">
+    Here's content that's only inside the second Tab.
+  </Tab>
+
+  <Tab title="Third Tab">
+    Here's content that's only inside the third Tab.
+  </Tab>
+</Tabs>
+
 #### Metrics
 
 ```json
