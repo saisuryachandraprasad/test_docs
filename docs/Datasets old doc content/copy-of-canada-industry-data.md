@@ -12,8 +12,6 @@ Apprenticeship data provides insights on how people are actually entering into t
 
 The data also highlights who is participating in apprenticeships, offering demographic insights that support diversity and equity analysis. When viewed alongside job postings and job openings, apprenticeship insights help clarify how well training pipelines align with real-time employer demand. All together these insights help leaders across workforce, education and public sections domains to identify gaps, measure program effectiveness, and make more confident, data-driven funding and planning decisions.
 
- 
-
 ## Questions answered by this dataset
 
 * How many apprenticeship starts are associated with a specific occupation?
@@ -24,7 +22,7 @@ The data also highlights who is participating in apprenticeships, offering demog
 
 ## Metrics
 
-* <br />
+* TBD
 
 ## Filters
 
