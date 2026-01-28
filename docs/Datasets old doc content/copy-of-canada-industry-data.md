@@ -8,7 +8,7 @@ hidden: false
 metadata:
   robots: index
 ---
-Apprenticeship data in **Analyst** provides a clearer view of how individuals enter the workforce beyond traditional degrees and certifications. By analyzing apprenticeship insights by occupation and region, you can see which roles depend most on apprenticeship pathways and how this activity varies across regions. 
+Apprenticeship data in **Analyst** provides a clearer view of how individuals enter the workforce beyond traditional degrees and certifications. By analyzing apprenticeship insights by occupation and region, you can see which roles depend most on apprenticeship pathways and how this activity varies across regions.
 
 The data also highlights who is participating in apprenticeships, offering demographic insights that support diversity and equity analysis. When viewed alongside job postings and job openings, apprenticeship insights help clarify how well training pipelines align with real-time employer demand. Together, these insights help **workforce**, **education**, and **public sector** leaders identify gaps, measure program effectiveness, and make more confident, data-driven funding and planning decisions.
 
@@ -46,7 +46,13 @@ The data also highlights who is participating in apprenticeships, offering demog
 
 <Tabs>
   <Tab title="2025.4">
-    Welcome to the content that you can only see inside the first Tab.
+
+* Metrics 
+* Dimensions
+
+Once doc team get Metrics and Dimensions for concerned team will be placed in all available versions accordingly before releasing.
+
+    
   </Tab>
 
   <Tab title="2025.3">
