@@ -46,13 +46,10 @@ The data also highlights who is participating in apprenticeships, offering demog
 
 <Tabs>
   <Tab title="2025.4">
+    * Metrics
+    * Dimensions
 
-* Metrics 
-* Dimensions
-
-Once doc team get Metrics and Dimensions for concerned team will be placed in all available versions accordingly before releasing.
-
-    
+    Once doc team get Metrics and Dimensions from concerned team will be placed in all available versions accordingly before releasing.
   </Tab>
 
   <Tab title="2025.3">
