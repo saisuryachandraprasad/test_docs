@@ -34,11 +34,11 @@ The data also highlights who is participating in apprenticeships, offering demog
 | Meta Attributes       | Values                               |
 | :-------------------- | :----------------------------------- |
 | Access                | Data access method (yet to finalize) |
-| Dataset ID            |                                      |
-| Dataset URL           |                                      |
-| Geographical Coverage |                                      |
-| Data Size             |                                      |
-| Format                |                                      |
+| Dataset ID            | TBD                                  |
+| Dataset URL           | TBD                                  |
+| Geographical Coverage | TBD                                  |
+| Data Size             | TBD                                  |
+| Format                | TBD                                  |
 | Update Frequency      | Quarterly                            |
 | Source                | RAPIDS                               |
 
@@ -60,5 +60,7 @@ The data also highlights who is participating in apprenticeships, offering demog
     Here's content that's only inside the third Tab.
   </Tab>
 </Tabs>
+
+## Schema
 
 <br />
