@@ -5,14 +5,17 @@ hidden: false
 metadata:
   robots: index
 ---
-This dataset contains basic industry data for Canada. Historical data are available from 2001 to the current industry year and projected data from the current industry year to the last COPS projection year. Earnings data are only available through the current industry year. 'Current industry year' refers to the latest year for which more than six months of data is available from SEPH, it thus can lag behind the current calendar year. Data is available down to the Census Subdivision level.
+<br />
 
-> Ready to use this data? See the Core LMI [reference documentation](/apis/core-lmi) to get started.
+<br />
 
 ## Questions answered by this dataset
 
-* What is the fastest-growing industry in Winnipeg?
-* In what region of Nova Scotia are earnings for the finance industry the lowest?
+* How many apprenticeship starts are associated with a specific occupation?
+* Which occupations represent the highest share of apprenticeship activity?
+* How is apprenticeship activity distributed across regions?
+* How do apprenticeship starts compare with job postings or job openings?
+* How can apprenticeship data be used to identify and prioritize programs for funding?
 
 ## Metrics
 
@@ -22,22 +25,12 @@ This dataset contains basic industry data for Canada. Historical data are availa
 
 ## Filters
 
-* Class of Worker
-* Area (Nation, Province, Census Division, Census Subdivision)
-* Industry (2 to 4-digit NAICS)
-* Year
+* Occupations
+* Region
 
-## Core LMI Metadata
+## Versions
 
-This dataset is offered via the [Core LMI API](/apis/core-lmi). The metadata for this Core LMI API dataset is below.
-
-Dataset ID : `EMSI.ca.Industry`
-
-Dataset URL : `https://agnitio.emsicloud.com/meta/dataset/EMSI.ca.Industry/{version}`
-
-### Versions
-
-2025.3 2025.1 2024.3 2024.1 2023.3 2023.1
+<br />
 
 `http://agnitio.emsicloud.com/meta/dataset/EMSI.ca.Industry/2025.3`
 
