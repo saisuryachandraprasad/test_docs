@@ -63,4 +63,22 @@ The data also highlights who is participating in apprenticeships, offering demog
 
 ## Schema
 
-<br />
+| Attribute                               | Snowflake | Databricks | BigQuery |
+| :-------------------------------------- | :-------- | :--------- | :------- |
+| SOC Code                                |           |            |          |
+| Occupation                              |           |            |          |
+| Start Year Incoming Apprenticeships     |           |            |          |
+| End Year Incoming Apprenticeships       |           |            |          |
+| Start Year Total Active Apprenticeships |           |            |          |
+| End Year Total Active Apprenticeships   |           |            |          |
+| Total Active Apprenticeship             |           |            |          |
+| Incoming Apprenticeship                 |           |            |          |
+| Job Openings                            |           |            |          |
+| Share of Total Apprenticeships          |           |            |          |
+| Gender                                  |           |            |          |
+| Union Membership                        |           |            |          |
+| Vet Status                              |           |            |          |
+| Age Group                               |           |            |          |
+| Race                                    |           |            |          |
+| Education Level                         |           |            |          |
+| Total Jobs (from the Occupation Table)  |           |            |          |
