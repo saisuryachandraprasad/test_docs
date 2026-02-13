@@ -80,7 +80,7 @@ export default function FAQAccordion() {
                 style={{
                   width: "36px",
                   height: "36px",
-                  background: "#0078d4",
+                  background: "#f54562",
                   color: "#fff",
                   borderRadius: "8px",
                   display: "flex",
