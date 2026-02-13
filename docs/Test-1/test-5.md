@@ -68,7 +68,7 @@ export default function FAQAccordion() {
                 fontWeight: 600
               }}
             >
-              <span style={{ marginRight: "12px", color: "#0078d4", minWidth: "40px" }}>
+              <span style={{ marginRight: "12px", color: "#f54562", minWidth: "40px" }}>
                 {item.number}
               </span>
 
