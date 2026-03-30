@@ -7,18 +7,27 @@ metadata:
 ---
 <br />
 
-<div style={{ overflowX: "auto", margin: "16px 0" }}>
+<div
+  style={{
+    width: "100%",
+    margin: "0",
+    padding: "0",
+    overflowX: "auto"
+  }}
+>
   <table
     style={{
+      width: "100%",
+      minWidth: "700px",
+      tableLayout: "fixed",
       borderCollapse: "separate",
       borderSpacing: 0,
-      width: "100%",
       fontSize: "14px",
       fontFamily: "Segoe UI, Arial, sans-serif",
       border: "1px solid #e5e7eb",
       borderRadius: "10px",
       overflow: "hidden",
-      boxShadow: "0 2px 8px rgba(0,0,0,0.05)"
+      boxShadow: "0 2px 6px rgba(0,0,0,0.04)"
     }}
   >
     <thead>
@@ -26,6 +35,7 @@ metadata:
         <th
           rowSpan="2"
           style={{
+            width: "120px",
             backgroundColor: "#f3f4f6",
             fontWeight: "600",
             padding: "12px",
@@ -42,7 +52,6 @@ metadata:
             backgroundColor: "#4f46e5",
             color: "#ffffff",
             fontWeight: "600",
-            fontSize: "15px",
             padding: "14px",
             textAlign: "center"
           }}
@@ -56,6 +65,7 @@ metadata:
                   <th
                     key={item}
                     style={{
+                      width: "25%",
                       backgroundColor: "#eef2ff",
                       color: "#3730a3",
                       fontWeight: "600",
