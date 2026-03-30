@@ -5,120 +5,69 @@ hidden: false
 metadata:
   robots: index
 ---
-{(() => {
-  const baseCell = {
-    textAlign: "center",
-    padding: "12px",
-    borderRight: "1px solid #d1d5db",
-    borderBottom: "1px solid #d1d5db"
-  };
+<br />
 
-  const headerCell = {
-    ...baseCell,
-    backgroundColor: "#e5e7eb",
-    color: "#6b7280",
-    fontWeight: "600"
-  };
+<div style={{ overflowX: 'auto', margin: '1.5rem 0', borderRadius: '12px', border: '1px solid #e2e8f0', fontFamily: "'Inter', system-ui, -apple-system, sans-serif", backgroundColor: '#ffffff', width: '100%' }}>
+  <table style={{ width: '100% !important', minWidth: '100% !important', borderCollapse: 'collapse', textAlign: 'center', fontSize: '14px', color: '#334155', tableLayout: 'auto', margin: '0 auto' }}>
+    <thead>
+      <tr>
+        <th style={{ border: '1px solid #e2e8f0', backgroundColor: '#f8fafc', width: '60px' }} />
 
-  const rowHeader = {
-    ...baseCell,
-    backgroundColor: "#f9fafb",
-    fontWeight: "600",
-    padding: "10px"
-  };
+        <th style={{ border: '1px solid #e2e8f0', backgroundColor: '#f8fafc', width: '60px' }} />
 
-  return (
-    <div
-      style={{
-        overflowX: "auto",
-        borderRadius: "12px",
-        overflow: "hidden",
-        border: "1px solid #d1d5db"
-      }}
-    >
-      <table
-        style={{
-          width: "100%",
-          minWidth: "720px",
-          borderCollapse: "separate",
-          borderSpacing: 0,
-          tableLayout: "fixed",
-          fontFamily: "Segoe UI, Arial, sans-serif",
-          fontSize: "14px"
-        }}
-      >
-        <thead>
-          <tr>
-            <th style={{ width: "60px", backgroundColor: "#f3f4f6" }}></th>
-            <th style={{ width: "60px", backgroundColor: "#f3f4f6" }}></th>
+        <th colSpan={4} style={{ border: '1px solid #e2e8f0', backgroundColor: '#f54562', color: '#ffffff', fontWeight: 700, padding: '16px', textTransform: 'uppercase', letterSpacing: '0.1em', fontSize: '12px' }}>
+          Aggregation Path
+        </th>
+      </tr>
 
-            <th
-              colSpan="4"
-              style={{
-                backgroundColor: "#f54562",
-                color: "#fff",
-                fontWeight: "700",
-                padding: "14px"
-              }}
-            >
-              AGGREGATION PATH
-            </th>
-          </tr>
+      <tr style={{ backgroundColor: '#f8fafc' }}>
+        <th style={{ border: '1px solid #e2e8f0', padding: '12px' }} />
 
-          <tr>
-            <th style={{ backgroundColor: "#f3f4f6" }}></th>
-            <th style={{ backgroundColor: "#f3f4f6" }}></th>
+        <th style={{ border: '1px solid #e2e8f0', padding: '12px' }} />
 
-            {["1", "2", "3", "4"].map((n) => (
-              <th key={n} style={headerCell}>
-                {n}
-              </th>
-            ))}
-          </tr>
-        </thead>
+        <th style={{ border: '1px solid #e2e8f0', padding: '12px', color: '#94a3b8', fontWeight: 700, fontSize: '11px', textTransform: 'uppercase' }}>1</th>
+        <th style={{ border: '1px solid #e2e8f0', padding: '12px', color: '#94a3b8', fontWeight: 700, fontSize: '11px', textTransform: 'uppercase' }}>2</th>
+        <th style={{ border: '1px solid #e2e8f0', padding: '12px', color: '#94a3b8', fontWeight: 700, fontSize: '11px', textTransform: 'uppercase' }}>3</th>
+        <th style={{ border: '1px solid #e2e8f0', padding: '12px', color: '#94a3b8', fontWeight: 700, fontSize: '11px', textTransform: 'uppercase' }}>4</th>
+      </tr>
+    </thead>
 
-        <tbody>
-          {[
-            ["1", "A", "E", "I", "M"],
-            ["2", "AB", "EF", "IJ", "MN"],
-            ["3", "ABC", "EFG", "IJK", "MNO"],
-            ["4", "ABCD", "EFGH", "IJKL", "MNOP"]
-          ].map((row, i) => (
-            <tr key={i}>
-              {i === 0 && (
-                <td
-                  rowSpan="4"
-                  style={{
-                    backgroundColor: "#f54562",
-                    color: "#fff",
-                    fontWeight: "700",
-                    writingMode: "vertical-rl",
-                    transform: "rotate(180deg)",
-                    borderRight: "1px solid #d1d5db"
-                  }}
-                >
-                  LEVEL
-                </td>
-              )}
+    <tbody>
+      <tr>
+        <td rowSpan={4} style={{ border: '1px solid #e2e8f0', backgroundColor: '#f54562', color: '#ffffff', fontWeight: 800, padding: '16px', textTransform: 'uppercase', writingMode: 'vertical-rl', transform: 'rotate(180deg)', fontSize: '12px', letterSpacing: '0.1em' }}>
+          Level
+        </td>
 
-              <td style={rowHeader}>{row[0]}</td>
+        <td style={{ border: '1px solid #e2e8f0', padding: '16px', backgroundColor: '#f8fafc', fontWeight: 700, color: '#64748b', fontSize: '13px' }}>1</td>
+        <td style={{ border: '1px solid #e2e8f0', padding: '16px', fontWeight: 500, color: '#1e293b' }}>A</td>
+        <td style={{ border: '1px solid #e2e8f0', padding: '16px', fontWeight: 500, color: '#1e293b' }}>E</td>
+        <td style={{ border: '1px solid #e2e8f0', padding: '16px', fontWeight: 500, color: '#1e293b' }}>I</td>
+        <td style={{ border: '1px solid #e2e8f0', padding: '16px', fontWeight: 500, color: '#1e293b' }}>M</td>
+      </tr>
 
-              {row.slice(1).map((val, idx) => (
-                <td
-                  key={idx}
-                  style={{
-                    ...baseCell,
-                    fontWeight: i === 0 ? "400" : "600",
-                    borderRight: idx === 3 ? "none" : baseCell.borderRight
-                  }}
-                >
-                  {val}
-                </td>
-              ))}
-            </tr>
-          ))}
-        </tbody>
-      </table>
-    </div>
-  );
-})()}
+      <tr style={{ backgroundColor: '#ffffff' }}>
+        <td style={{ border: '1px solid #e2e8f0', padding: '16px', backgroundColor: '#f8fafc', fontWeight: 700, color: '#64748b', fontSize: '13px' }}>2</td>
+        <td style={{ border: '1px solid #e2e8f0', padding: '16px', fontWeight: 600, color: '#0f172a' }}>AB</td>
+        <td style={{ border: '1px solid #e2e8f0', padding: '16px', fontWeight: 600, color: '#0f172a' }}>EF</td>
+        <td style={{ border: '1px solid #e2e8f0', padding: '16px', fontWeight: 600, color: '#0f172a' }}>IJ</td>
+        <td style={{ border: '1px solid #e2e8f0', padding: '16px', fontWeight: 600, color: '#0f172a' }}>MN</td>
+      </tr>
+
+      <tr style={{ backgroundColor: '#fcfcfc' }}>
+        <td style={{ border: '1px solid #e2e8f0', padding: '16px', backgroundColor: '#f8fafc', fontWeight: 700, color: '#64748b', fontSize: '13px' }}>3</td>
+        <td style={{ border: '1px solid #e2e8f0', padding: '16px', fontWeight: 600, color: '#0f172a' }}>ABC</td>
+        <td style={{ border: '1px solid #e2e8f0', padding: '16px', fontWeight: 600, color: '#0f172a' }}>EFG</td>
+        <td style={{ border: '1px solid #e2e8f0', padding: '16px', fontWeight: 600, color: '#0f172a' }}>IJK</td>
+        <td style={{ border: '1px solid #e2e8f0', padding: '16px', fontWeight: 600, color: '#0f172a' }}>MNO</td>
+      </tr>
+
+      <tr style={{ backgroundColor: '#ffffff' }}>
+        <td style={{ border: '1px solid #e2e8f0', padding: '16px', backgroundColor: '#f8fafc', fontWeight: 700, color: '#64748b', fontSize: '13px' }}>4</td>
+        <td style={{ border: '1px solid #e2e8f0', padding: '16px', fontWeight: 600, color: '#0f172a' }}>ABCD</td>
+        <td style={{ border: '1px solid #e2e8f0', padding: '16px', fontWeight: 600, color: '#0f172a' }}>EFGH</td>
+        <td style={{ border: '1px solid #e2e8f0', padding: '16px', fontWeight: 600, color: '#0f172a' }}>IJKL</td>
+        <td style={{ border: '1px solid #e2e8f0', padding: '16px', fontWeight: 600, color: '#0f172a' }}>MNOP</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
