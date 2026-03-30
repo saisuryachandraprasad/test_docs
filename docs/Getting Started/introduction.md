@@ -36,7 +36,7 @@ metadata:
           rowSpan="2"
           style={{
             width: "120px",
-            backgroundColor: "#f3f4f6",
+            backgroundColor: "#f9fafb",
             fontWeight: "600",
             padding: "12px",
             textAlign: "center",
@@ -49,7 +49,7 @@ metadata:
         <th
           colSpan="4"
           style={{
-            backgroundColor: "#4f46e5",
+            backgroundColor: "#f54562",
             color: "#ffffff",
             fontWeight: "600",
             padding: "14px",
@@ -66,8 +66,8 @@ metadata:
                     key={item}
                     style={{
                       width: "25%",
-                      backgroundColor: "#eef2ff",
-                      color: "#3730a3",
+                      backgroundColor: "#ffe4e8",
+                      color: "#b91c1c",
                       fontWeight: "600",
                       padding: "10px"
                     }}
@@ -87,7 +87,7 @@ metadata:
         <td style={{ padding: "10px" }}>M</td>
       </tr>
 
-      <tr style={{ backgroundColor: "#fafafa" }}>
+      <tr style={{ backgroundColor: "#fff5f6" }}>
         <td style={{ padding: "10px", fontWeight: "500" }}>2</td>
         <td>AB</td>
         <td>EF</td>
@@ -103,7 +103,7 @@ metadata:
         <td>MNO</td>
       </tr>
 
-      <tr style={{ backgroundColor: "#fafafa" }}>
+      <tr style={{ backgroundColor: "#fff5f6" }}>
         <td style={{ padding: "10px", fontWeight: "500" }}>4</td>
         <td>ABCD</td>
         <td>EFGH</td>
