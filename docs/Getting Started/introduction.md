@@ -7,66 +7,121 @@ metadata:
 ---
 <br />
 
-<div style={{ overflowX: 'auto', margin: '1rem 0', borderRadius: '8px', border: '1px solid #e2e8f0', fontFamily: 'sans-serif' }}>
-  <table style={{ width: '100%', borderCollapse: 'collapse', textAlign: 'center', fontSize: '14px', color: '#334155' }}>
+<div style={{ overflowX: "auto" }}>
+  <table
+    style={{
+      width: "100%",
+      minWidth: "720px",
+      borderCollapse: "collapse",
+      tableLayout: "fixed",
+      fontFamily: "Segoe UI, Arial, sans-serif",
+      fontSize: "14px"
+    }}
+  >
     <thead>
       <tr>
-        <th style={{ border: '1px solid #e2e8f0', backgroundColor: '#f8fafc', width: '80px' }} />
+        <th style={{ width: "60px", backgroundColor: "#f3f4f6" }} />
 
-        <th style={{ border: '1px solid #e2e8f0', backgroundColor: '#f8fafc', width: '80px' }} />
+        <th style={{ width: "60px", backgroundColor: "#f3f4f6" }} />
 
-        <th colSpan={4} style={{ border: '1px solid #e2e8f0', backgroundColor: '#f54562', color: '#ffffff', fontWeight: 600, padding: '12px', textTransform: 'uppercase', letterSpacing: '0.05em' }}>
-          Aggregation Path
+        <th
+          colSpan="4"
+          style={{
+            backgroundColor: "#f54562",
+            color: "#fff",
+            fontWeight: "700",
+            letterSpacing: "0.5px",
+            padding: "14px",
+            textAlign: "center"
+          }}
+        >
+          AGGREGATION PATH
         </th>
       </tr>
 
-      <tr style={{ backgroundColor: '#f8fafc' }}>
-        <th style={{ border: '1px solid #e2e8f0', padding: '10px' }} />
+      <tr>
+        <th style={{ backgroundColor: "#f3f4f6" }} />
 
-        <th style={{ border: '1px solid #e2e8f0', padding: '10px' }} />
+        <th style={{ backgroundColor: "#f3f4f6" }} />
 
-        <th style={{ border: '1px solid #e2e8f0', padding: '10px', color: '#64748b', fontWeight: 600 }}>1</th>
-        <th style={{ border: '1px solid #e2e8f0', padding: '10px', color: '#64748b', fontWeight: 600 }}>2</th>
-        <th style={{ border: '1px solid #e2e8f0', padding: '10px', color: '#64748b', fontWeight: 600 }}>3</th>
-        <th style={{ border: '1px solid #e2e8f0', padding: '10px', color: '#64748b', fontWeight: 600 }}>4</th>
+        {["1", "2", "3", "4"].map((item) => (
+                  <th
+                    key={item}
+                    style={{
+                      backgroundColor: "#e5e7eb",
+                      color: "#6b7280",
+                      fontWeight: "600",
+                      padding: "10px",
+                      textAlign: "center",
+                      border: "1px solid #d1d5db"
+                    }}
+                  >
+                    {item}
+                  </th>
+                ))}
       </tr>
     </thead>
 
     <tbody>
       <tr>
-        <td rowSpan={4} style={{ border: '1px solid #e2e8f0', backgroundColor: '#f54562', color: '#ffffff', fontWeight: 700, padding: '12px', textTransform: 'uppercase', writingMode: 'vertical-rl', transform: 'rotate(180deg)' }}>
-          Level
+        <td
+          rowSpan="4"
+          style={{
+            backgroundColor: "#f54562",
+            color: "#ffffff",
+            fontWeight: "700",
+            textAlign: "center",
+            writingMode: "vertical-rl",
+            transform: "rotate(180deg)",
+            letterSpacing: "1px",
+            border: "1px solid #d1d5db"
+          }}
+        >
+          LEVEL
         </td>
 
-        <td style={{ border: '1px solid #e2e8f0', padding: '12px', backgroundColor: '#f8fafc', fontWeight: 600, color: '#475569' }}>1</td>
-        <td style={{ border: '1px solid #e2e8f0', padding: '12px' }}>A</td>
-        <td style={{ border: '1px solid #e2e8f0', padding: '12px' }}>E</td>
-        <td style={{ border: '1px solid #e2e8f0', padding: '12px' }}>I</td>
-        <td style={{ border: '1px solid #e2e8f0', padding: '12px' }}>M</td>
+        <td
+          style={{
+            textAlign: "center",
+            fontWeight: "600",
+            backgroundColor: "#f9fafb",
+            border: "1px solid #d1d5db"
+          }}
+        >
+          1
+        </td>
+
+        <td style={{ textAlign: "center", padding: "12px", border: "1px solid #d1d5db" }}>A</td>
+        <td style={{ textAlign: "center", padding: "12px", border: "1px solid #d1d5db" }}>E</td>
+        <td style={{ textAlign: "center", padding: "12px", border: "1px solid #d1d5db" }}>I</td>
+        <td style={{ textAlign: "center", padding: "12px", border: "1px solid #d1d5db" }}>M</td>
       </tr>
 
-      <tr style={{ backgroundColor: '#ffffff' }}>
-        <td style={{ border: '1px solid #e2e8f0', padding: '12px', backgroundColor: '#f8fafc', fontWeight: 600, color: '#475569' }}>2</td>
-        <td style={{ border: '1px solid #e2e8f0', padding: '12px', fontWeight: 500 }}>AB</td>
-        <td style={{ border: '1px solid #e2e8f0', padding: '12px', fontWeight: 500 }}>EF</td>
-        <td style={{ border: '1px solid #e2e8f0', padding: '12px', fontWeight: 500 }}>IJ</td>
-        <td style={{ border: '1px solid #e2e8f0', padding: '12px', fontWeight: 500 }}>MN</td>
+      <tr>
+        <td style={{ textAlign: "center", fontWeight: "600", backgroundColor: "#f9fafb", border: "1px solid #d1d5db" }}>2</td>
+
+        <td style={{ textAlign: "center", padding: "12px", fontWeight: "600", border: "1px solid #d1d5db" }}>AB</td>
+        <td style={{ textAlign: "center", padding: "12px", fontWeight: "600", border: "1px solid #d1d5db" }}>EF</td>
+        <td style={{ textAlign: "center", padding: "12px", fontWeight: "600", border: "1px solid #d1d5db" }}>IJ</td>
+        <td style={{ textAlign: "center", padding: "12px", fontWeight: "600", border: "1px solid #d1d5db" }}>MN</td>
       </tr>
 
-      <tr style={{ backgroundColor: '#fcfcfc' }}>
-        <td style={{ border: '1px solid #e2e8f0', padding: '12px', backgroundColor: '#f8fafc', fontWeight: 600, color: '#475569' }}>3</td>
-        <td style={{ border: '1px solid #e2e8f0', padding: '12px', fontWeight: 500 }}>ABC</td>
-        <td style={{ border: '1px solid #e2e8f0', padding: '12px', fontWeight: 500 }}>EFG</td>
-        <td style={{ border: '1px solid #e2e8f0', padding: '12px', fontWeight: 500 }}>IJK</td>
-        <td style={{ border: '1px solid #e2e8f0', padding: '12px', fontWeight: 500 }}>MNO</td>
+      <tr>
+        <td style={{ textAlign: "center", fontWeight: "600", backgroundColor: "#f9fafb", border: "1px solid #d1d5db" }}>3</td>
+
+        <td style={{ textAlign: "center", padding: "12px", fontWeight: "600", border: "1px solid #d1d5db" }}>ABC</td>
+        <td style={{ textAlign: "center", padding: "12px", fontWeight: "600", border: "1px solid #d1d5db" }}>EFG</td>
+        <td style={{ textAlign: "center", padding: "12px", fontWeight: "600", border: "1px solid #d1d5db" }}>IJK</td>
+        <td style={{ textAlign: "center", padding: "12px", fontWeight: "600", border: "1px solid #d1d5db" }}>MNO</td>
       </tr>
 
-      <tr style={{ backgroundColor: '#ffffff' }}>
-        <td style={{ border: '1px solid #e2e8f0', padding: '12px', backgroundColor: '#f8fafc', fontWeight: 600, color: '#475569' }}>4</td>
-        <td style={{ border: '1px solid #e2e8f0', padding: '12px', fontWeight: 500 }}>ABCD</td>
-        <td style={{ border: '1px solid #e2e8f0', padding: '12px', fontWeight: 500 }}>EFGH</td>
-        <td style={{ border: '1px solid #e2e8f0', padding: '12px', fontWeight: 500 }}>IJKL</td>
-        <td style={{ border: '1px solid #e2e8f0', padding: '12px', fontWeight: 500 }}>MNOP</td>
+      <tr>
+        <td style={{ textAlign: "center", fontWeight: "600", backgroundColor: "#f9fafb", border: "1px solid #d1d5db" }}>4</td>
+
+        <td style={{ textAlign: "center", padding: "12px", fontWeight: "600", border: "1px solid #d1d5db" }}>ABCD</td>
+        <td style={{ textAlign: "center", padding: "12px", fontWeight: "600", border: "1px solid #d1d5db" }}>EFGH</td>
+        <td style={{ textAlign: "center", padding: "12px", fontWeight: "600", border: "1px solid #d1d5db" }}>IJKL</td>
+        <td style={{ textAlign: "center", padding: "12px", fontWeight: "600", border: "1px solid #d1d5db" }}>MNOP</td>
       </tr>
     </tbody>
   </table>
