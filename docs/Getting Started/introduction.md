@@ -26,8 +26,7 @@ metadata:
       fontFamily: "Segoe UI, Arial, sans-serif",
       border: "1px solid #e5e7eb",
       borderRadius: "10px",
-      overflow: "hidden",
-      boxShadow: "0 2px 6px rgba(0,0,0,0.04)"
+      overflow: "hidden"
     }}
   >
     <thead>
@@ -36,11 +35,11 @@ metadata:
           rowSpan="2"
           style={{
             width: "120px",
-            backgroundColor: "#f9fafb",
+            backgroundColor: "#f54562",
+            color: "#ffffff",
             fontWeight: "600",
             padding: "12px",
-            textAlign: "center",
-            borderRight: "1px solid #e5e7eb"
+            textAlign: "center"
           }}
         >
           Level
@@ -66,10 +65,11 @@ metadata:
                     key={item}
                     style={{
                       width: "25%",
-                      backgroundColor: "#ffe4e8",
-                      color: "#b91c1c",
+                      backgroundColor: "#f9fafb",
+                      color: "#374151",
                       fontWeight: "600",
-                      padding: "10px"
+                      padding: "10px",
+                      borderBottom: "1px solid #e5e7eb"
                     }}
                   >
                     {item}
@@ -87,7 +87,7 @@ metadata:
         <td style={{ padding: "10px" }}>M</td>
       </tr>
 
-      <tr style={{ backgroundColor: "#fff5f6" }}>
+      <tr style={{ backgroundColor: "#fafafa" }}>
         <td style={{ padding: "10px", fontWeight: "500" }}>2</td>
         <td>AB</td>
         <td>EF</td>
@@ -103,7 +103,7 @@ metadata:
         <td>MNO</td>
       </tr>
 
-      <tr style={{ backgroundColor: "#fff5f6" }}>
+      <tr style={{ backgroundColor: "#fafafa" }}>
         <td style={{ padding: "10px", fontWeight: "500" }}>4</td>
         <td>ABCD</td>
         <td>EFGH</td>
