@@ -7,14 +7,7 @@ metadata:
 ---
 <br />
 
-<div
-  style={{
-    width: "100%",
-    margin: "0",
-    padding: "0",
-    overflowX: "auto"
-  }}
->
+<div style={{ overflowX: "auto" }}>
   <table
     style={{
       width: "100%",
@@ -34,7 +27,6 @@ metadata:
         <th
           rowSpan="2"
           style={{
-            width: "120px",
             backgroundColor: "#f54562",
             color: "#ffffff",
             fontWeight: "600",
@@ -42,7 +34,7 @@ metadata:
             textAlign: "center"
           }}
         >
-          Level
+          Aggregation Level
         </th>
 
         <th
@@ -55,16 +47,15 @@ metadata:
             textAlign: "center"
           }}
         >
-          Aggregation Path
+          Aggregation Paths (Independent Sequences)
         </th>
       </tr>
 
       <tr>
-        {["1", "2", "3", "4"].map((item) => (
+        {["Path 1", "Path 2", "Path 3", "Path 4"].map((item) => (
                   <th
                     key={item}
                     style={{
-                      width: "25%",
                       backgroundColor: "#f9fafb",
                       color: "#374151",
                       fontWeight: "600",
@@ -80,15 +71,15 @@ metadata:
 
     <tbody>
       <tr>
-        <td style={{ padding: "10px", fontWeight: "500" }}>1</td>
-        <td style={{ padding: "10px" }}>A</td>
-        <td style={{ padding: "10px" }}>E</td>
-        <td style={{ padding: "10px" }}>I</td>
-        <td style={{ padding: "10px" }}>M</td>
+        <td style={{ padding: "10px", fontWeight: "500" }}>Level 1</td>
+        <td>A</td>
+        <td>E</td>
+        <td>I</td>
+        <td>M</td>
       </tr>
 
       <tr style={{ backgroundColor: "#fafafa" }}>
-        <td style={{ padding: "10px", fontWeight: "500" }}>2</td>
+        <td style={{ padding: "10px", fontWeight: "500" }}>Level 2</td>
         <td>AB</td>
         <td>EF</td>
         <td>IJ</td>
@@ -96,7 +87,7 @@ metadata:
       </tr>
 
       <tr>
-        <td style={{ padding: "10px", fontWeight: "500" }}>3</td>
+        <td style={{ padding: "10px", fontWeight: "500" }}>Level 3</td>
         <td>ABC</td>
         <td>EFG</td>
         <td>IJK</td>
@@ -104,7 +95,7 @@ metadata:
       </tr>
 
       <tr style={{ backgroundColor: "#fafafa" }}>
-        <td style={{ padding: "10px", fontWeight: "500" }}>4</td>
+        <td style={{ padding: "10px", fontWeight: "500" }}>Level 4</td>
         <td>ABCD</td>
         <td>EFGH</td>
         <td>IJKL</td>
