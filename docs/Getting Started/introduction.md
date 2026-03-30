@@ -7,99 +7,66 @@ metadata:
 ---
 <br />
 
-<div style={{ overflowX: "auto" }}>
-  <table
-    style={{
-      width: "100%",
-      minWidth: "700px",
-      tableLayout: "fixed",
-      borderCollapse: "separate",
-      borderSpacing: 0,
-      fontSize: "14px",
-      fontFamily: "Segoe UI, Arial, sans-serif",
-      border: "1px solid #e5e7eb",
-      borderRadius: "10px",
-      overflow: "hidden"
-    }}
-  >
+<div style={{ overflowX: 'auto', margin: '1rem 0', borderRadius: '8px', border: '1px solid #e2e8f0', fontFamily: 'sans-serif' }}>
+  <table style={{ width: '100%', borderCollapse: 'collapse', textAlign: 'center', fontSize: '14px', color: '#334155' }}>
     <thead>
       <tr>
-        <th
-          rowSpan="2"
-          style={{
-            backgroundColor: "#f54562",
-            color: "#ffffff",
-            fontWeight: "600",
-            padding: "12px",
-            textAlign: "center"
-          }}
-        >
-          Aggregation Level
-        </th>
+        <th style={{ border: '1px solid #e2e8f0', backgroundColor: '#f8fafc', width: '80px' }} />
 
-        <th
-          colSpan="4"
-          style={{
-            backgroundColor: "#f54562",
-            color: "#ffffff",
-            fontWeight: "600",
-            padding: "14px",
-            textAlign: "center"
-          }}
-        >
-          Aggregation Paths (Independent Sequences)
+        <th style={{ border: '1px solid #e2e8f0', backgroundColor: '#f8fafc', width: '80px' }} />
+
+        <th colSpan={4} style={{ border: '1px solid #e2e8f0', backgroundColor: '#f54562', color: '#ffffff', fontWeight: 600, padding: '12px', textTransform: 'uppercase', letterSpacing: '0.05em' }}>
+          Aggregation Path
         </th>
       </tr>
 
-      <tr>
-        {["Path 1", "Path 2", "Path 3", "Path 4"].map((item) => (
-                  <th
-                    key={item}
-                    style={{
-                      backgroundColor: "#f9fafb",
-                      color: "#374151",
-                      fontWeight: "600",
-                      padding: "10px",
-                      borderBottom: "1px solid #e5e7eb"
-                    }}
-                  >
-                    {item}
-                  </th>
-                ))}
+      <tr style={{ backgroundColor: '#f8fafc' }}>
+        <th style={{ border: '1px solid #e2e8f0', padding: '10px' }} />
+
+        <th style={{ border: '1px solid #e2e8f0', padding: '10px' }} />
+
+        <th style={{ border: '1px solid #e2e8f0', padding: '10px', color: '#64748b', fontWeight: 600 }}>1</th>
+        <th style={{ border: '1px solid #e2e8f0', padding: '10px', color: '#64748b', fontWeight: 600 }}>2</th>
+        <th style={{ border: '1px solid #e2e8f0', padding: '10px', color: '#64748b', fontWeight: 600 }}>3</th>
+        <th style={{ border: '1px solid #e2e8f0', padding: '10px', color: '#64748b', fontWeight: 600 }}>4</th>
       </tr>
     </thead>
 
     <tbody>
       <tr>
-        <td style={{ padding: "10px", fontWeight: "500" }}>Level 1</td>
-        <td>A</td>
-        <td>E</td>
-        <td>I</td>
-        <td>M</td>
+        <td rowSpan={4} style={{ border: '1px solid #e2e8f0', backgroundColor: '#f54562', color: '#ffffff', fontWeight: 700, padding: '12px', textTransform: 'uppercase', writingMode: 'vertical-rl', transform: 'rotate(180deg)' }}>
+          Level
+        </td>
+
+        <td style={{ border: '1px solid #e2e8f0', padding: '12px', backgroundColor: '#f8fafc', fontWeight: 600, color: '#475569' }}>1</td>
+        <td style={{ border: '1px solid #e2e8f0', padding: '12px' }}>A</td>
+        <td style={{ border: '1px solid #e2e8f0', padding: '12px' }}>E</td>
+        <td style={{ border: '1px solid #e2e8f0', padding: '12px' }}>I</td>
+        <td style={{ border: '1px solid #e2e8f0', padding: '12px' }}>M</td>
       </tr>
 
-      <tr style={{ backgroundColor: "#fafafa" }}>
-        <td style={{ padding: "10px", fontWeight: "500" }}>Level 2</td>
-        <td>AB</td>
-        <td>EF</td>
-        <td>IJ</td>
-        <td>MN</td>
+      <tr style={{ backgroundColor: '#ffffff' }}>
+        <td style={{ border: '1px solid #e2e8f0', padding: '12px', backgroundColor: '#f8fafc', fontWeight: 600, color: '#475569' }}>2</td>
+        <td style={{ border: '1px solid #e2e8f0', padding: '12px', fontWeight: 500 }}>AB</td>
+        <td style={{ border: '1px solid #e2e8f0', padding: '12px', fontWeight: 500 }}>EF</td>
+        <td style={{ border: '1px solid #e2e8f0', padding: '12px', fontWeight: 500 }}>IJ</td>
+        <td style={{ border: '1px solid #e2e8f0', padding: '12px', fontWeight: 500 }}>MN</td>
       </tr>
 
-      <tr>
-        <td style={{ padding: "10px", fontWeight: "500" }}>Level 3</td>
-        <td>ABC</td>
-        <td>EFG</td>
-        <td>IJK</td>
-        <td>MNO</td>
+      <tr style={{ backgroundColor: '#fcfcfc' }}>
+        <td style={{ border: '1px solid #e2e8f0', padding: '12px', backgroundColor: '#f8fafc', fontWeight: 600, color: '#475569' }}>3</td>
+        <td style={{ border: '1px solid #e2e8f0', padding: '12px', fontWeight: 500 }}>ABC</td>
+        <td style={{ border: '1px solid #e2e8f0', padding: '12px', fontWeight: 500 }}>EFG</td>
+        <td style={{ border: '1px solid #e2e8f0', padding: '12px', fontWeight: 500 }}>IJK</td>
+        <td style={{ border: '1px solid #e2e8f0', padding: '12px', fontWeight: 500 }}>MNO</td>
       </tr>
 
-      <tr style={{ backgroundColor: "#fafafa" }}>
-        <td style={{ padding: "10px", fontWeight: "500" }}>Level 4</td>
-        <td>ABCD</td>
-        <td>EFGH</td>
-        <td>IJKL</td>
-        <td>MNOP</td>
+      <tr style={{ backgroundColor: '#ffffff' }}>
+        <td style={{ border: '1px solid #e2e8f0', padding: '12px', backgroundColor: '#f8fafc', fontWeight: 600, color: '#475569' }}>4</td>
+        <td style={{ border: '1px solid #e2e8f0', padding: '12px', fontWeight: 500 }}>ABCD</td>
+        <td style={{ border: '1px solid #e2e8f0', padding: '12px', fontWeight: 500 }}>EFGH</td>
+        <td style={{ border: '1px solid #e2e8f0', padding: '12px', fontWeight: 500 }}>IJKL</td>
+        <td style={{ border: '1px solid #e2e8f0', padding: '12px', fontWeight: 500 }}>MNOP</td>
       </tr>
     </tbody>
   </table>
