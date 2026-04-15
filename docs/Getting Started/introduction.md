@@ -11,6 +11,7 @@ metadata:
   The area aggregation path refers to the hierarchy that shows how data is aggregated, starting from the lowest-level geography and progressing to the highest-level geography.
 
   The levels in the aggregation path include:
+
   <br />
 
   <div style={{ display: 'inline-block', borderRadius: '12px', border: '1px solid #e2e8f0', fontFamily: "'Inter', system-ui, -apple-system, sans-serif", backgroundColor: '#ffffff', overflow: 'hidden', lineHeight: 0, verticalAlign: 'top', margin: 0 }}>
@@ -80,3 +81,13 @@ metadata:
 
   > Datasets with lower granularity aggregates only up to **Level 1**
 </Accordion>
+
+<br />
+
+<br />
+
+<br />
+
+[INDIA_ONLY]
+This feature supports UPI payments.
+[/INDIA_ONLY]
