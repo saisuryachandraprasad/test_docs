@@ -1,6 +1,6 @@
 ---
 title: Canada Industry Data
-deprecated: true
+deprecated: false
 hidden: false
 metadata:
   robots: index
